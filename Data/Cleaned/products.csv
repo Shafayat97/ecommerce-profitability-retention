@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,unit_cost
+PR001,Wireless Earbuds,Electronics,361.84,276.41
+PR002,Smart Watch,Electronics,394.85,311.83
+PR003,Bluetooth Speaker,Electronics,96.73,79.08
+PR004,4K Monitor,Electronics,356.84,284.97
+PR005,Mechanical Keyboard,Electronics,109.96,84.12
+PR006,USB-C Hub,Electronics,204.61,166.28
+PR007,Power Bank,Electronics,311.11,249.6
+PR008,Webcam HD,Electronics,232.93,173.0
+PR009,Gaming Mouse,Electronics,276.29,200.69
+PR010,Tablet Stand Pro,Electronics,382.78,299.78
+PR011,Air Fryer,Home & Kitchen,94.6,50.65
+PR012,Coffee Grinder,Home & Kitchen,116.92,68.9
+PR013,Knife Set,Home & Kitchen,96.73,50.25
+PR014,Non-stick Pan,Home & Kitchen,64.01,32.29
+PR015,Blender Mini,Home & Kitchen,31.2,17.73
+PR016,Storage Jars,Home & Kitchen,93.2,55.62
+PR017,Electric Kettle,Home & Kitchen,49.21,26.43
+PR018,Bamboo Board,Home & Kitchen,64.3,33.37
+PR019,Rice Cooker,Home & Kitchen,28.64,15.68
+PR020,Denim Jacket,Fashion,35.88,16.76
+PR021,Linen Shirt,Fashion,50.6,24.45
+PR022,Running Sneakers,Fashion,69.02,29.76
+PR023,Leather Belt,Fashion,78.26,37.6
+PR024,Summer Dress,Fashion,47.12,20.21
+PR025,Hoodie Classic,Fashion,67.77,28.06
+PR026,Chino Pants,Fashion,33.99,13.62
+PR027,Wool Scarf,Fashion,75.08,35.02
+PR028,Canvas Tote,Fashion,69.36,33.16
+PR029,Vitamin C Serum,Beauty,24.98,8.91
+PR030,Sunscreen SPF50,Beauty,13.17,4.1
+PR031,Lip Balm Set,Beauty,32.73,11.36
+PR032,Face Wash,Beauty,28.91,10.88
+PR033,Hair Oil,Beauty,31.48,11.19
+PR034,Night Cream,Beauty,28.69,9.48
+PR035,Clay Mask,Beauty,9.14,3.14
+PR036,Yoga Mat,Sports,46.33,27.37
+PR037,Dumbbell Pair,Sports,130.65,74.91
+PR038,Resistance Bands,Sports,25.7,14.86
+PR039,Cycling Gloves,Sports,56.75,34.97
+PR040,Water Bottle Steel,Sports,91.53,57.52

@@ -1,0 +1,2461 @@
+order_id,order_date,customer_id,status,discount_pct,shipping_cost,payment_method
+O02270,2026-05-13,C1530,Delivered,0.0,4.0,bKash
+O01982,2026-03-21,C1324,Delivered,0.0,4.0,bKash
+O02126,2026-04-13,C1421,Delivered,0.05,2.5,bKash
+O01573,2026-01-31,C1054,Delivered,0.15,3.5,Cash on Delivery
+O00143,2025-02-17,C0101,Delivered,0.0,5.0,Cash on Delivery
+O00373,2025-06-19,C0247,Delivered,0.0,4.0,Cash on Delivery
+O01295,2025-11-21,C0855,Delivered,0.3,5.0,Cash on Delivery
+O02461,2026-06-30,C1717,Delivered,0.0,2.5,Nagad
+O02389,2026-06-14,C1640,Delivered,0.0,2.5,Cash on Delivery
+O00828,2025-08-17,C0538,Cancelled,0.0,5.0,Nagad
+O01004,2025-12-03,C0650,Delivered,0.1,5.0,Cash on Delivery
+O01695,2026-01-29,C1137,Delivered,0.0,5.0,Card
+O01600,2026-01-13,C1071,Delivered,0.15,3.5,bKash
+O00063,2025-04-15,C0045,Delivered,0.1,4.0,Card
+O00869,2025-08-23,C0565,Delivered,0.1,4.0,Cash on Delivery
+O00977,2025-09-11,C0634,Delivered,0.0,3.5,Card
+O01928,2026-03-11,C1291,Delivered,0.0,5.0,bKash
+O02247,2026-05-07,C1509,Delivered,0.1,5.0,Card
+O01079,2025-10-07,C0707,Delivered,0.15,5.0,bKash
+O01867,2026-06-21,C1249,Delivered,0.15,4.0,Card
+O01826,2026-02-21,C1223,Delivered,0.0,5.0,Nagad
+O01998,2026-03-22,C1333,Delivered,0.05,2.5,bKash
+O00770,2025-08-05,C0500,Delivered,0.0,5.0,Cash on Delivery
+O01975,2026-03-21,C1321,Delivered,0.0,4.0,Cash on Delivery
+O02010,2026-03-25,C1343,Delivered,0.0,4.0,bKash
+O01055,2025-09-28,C0689,Delivered,0.0,4.0,Card
+O00552,2025-05-31,C0361,Delivered,0.05,5.0,Nagad
+O01301,2025-11-23,C0860,Delivered,0.3,2.5,Card
+O00019,2025-01-08,C0014,Delivered,0.0,3.5,bKash
+O02222,2026-05-02,C1492,Delivered,0.0,4.0,bKash
+O02097,2026-05-06,C1399,Delivered,0.15,3.5,Nagad
+O00955,2026-02-10,C0618,Delivered,0.05,2.5,Card
+O01560,2026-01-08,C1046,Delivered,0.0,3.5,Cash on Delivery
+O02146,2026-04-19,C1435,Delivered,0.0,4.0,Card
+O01453,2026-02-24,C0979,Delivered,0.1,2.5,Cash on Delivery
+O01360,2025-11-29,C0911,Delivered,0.3,3.5,bKash
+O01774,2026-02-11,C1187,Delivered,0.0,3.5,bKash
+O02274,2026-05-14,C1533,Delivered,0.1,2.5,Nagad
+O02268,2026-05-15,C1529,Delivered,0.0,4.0,bKash
+O02290,2026-05-21,C1546,Delivered,0.05,3.5,bKash
+O02369,2026-06-06,C1620,Delivered,0.0,4.0,Cash on Delivery
+O00141,2025-02-16,C0099,Delivered,0.0,4.0,Nagad
+O00862,2026-04-01,C0558,Delivered,0.1,3.5,Nagad
+O00348,2025-04-13,C0235,Delivered,0.0,3.5,bKash
+O01325,2025-11-26,C0881,Delivered,0.3,5.0,Card
+O01497,2025-12-28,C1008,Delivered,0.15,2.5,bKash
+O01673,2026-02-13,C1120,Cancelled,0.0,3.5,Card
+O01353,2025-11-28,C0906,Delivered,0.3,2.5,Card
+O02004,2026-03-24,C1338,Delivered,0.1,5.0,Card
+O01725,2026-02-04,C1155,Delivered,0.15,3.5,bKash
+O01343,2025-11-27,C0897,Delivered,0.3,4.0,Cash on Delivery
+O02262,2026-05-12,C1523,Delivered,0.15,2.5,Cash on Delivery
+O01505,2025-12-27,C1012,Delivered,0.05,4.0,Card
+O00643,2025-07-31,C0418,Delivered,0.0,5.0,Nagad
+O00511,2025-06-06,C0336,Delivered,0.0,3.5,bKash
+O01862,2026-03-01,C1246,Delivered,0.15,4.0,bKash
+O02309,2026-05-23,C1562,Delivered,0.05,3.5,Card
+O01377,2025-12-02,C0928,Delivered,0.0,5.0,Nagad
+O00729,2025-07-24,C0472,Delivered,0.0,4.0,Cash on Delivery
+O00478,2025-08-07,C0318,Delivered,0.15,5.0,Card
+O01028,2025-09-23,C0669,Delivered,0.1,2.5,bKash
+O02289,2026-05-19,C1545,Cancelled,0.05,2.5,Cash on Delivery
+O00647,2025-07-01,C0421,Delivered,0.05,2.5,Nagad
+O02360,2026-06-05,C1611,Delivered,0.1,3.5,Nagad
+O01467,2025-12-20,C0988,Delivered,0.0,3.5,bKash
+O00531,2025-11-23,C0349,Delivered,0.3,3.5,Card
+O01502,2025-12-28,C1011,Delivered,0.05,3.5,bKash
+O01128,2025-10-19,C0742,Delivered,0.1,4.0,bKash
+O02061,2026-06-30,C1377,Delivered,0.05,5.0,Cash on Delivery
+O00015,2025-03-19,C0011,Delivered,0.05,4.0,Card
+O01847,2026-05-21,C1236,Delivered,0.05,2.5,bKash
+O00113,2025-04-22,C0080,Delivered,0.05,5.0,bKash
+O01841,2026-05-15,C1232,Delivered,0.0,3.5,Nagad
+O02233,2026-05-04,C1499,Delivered,0.15,5.0,Nagad
+O00364,2025-04-15,C0242,Delivered,0.0,3.5,bKash
+O02095,2026-05-11,C1398,Delivered,0.0,3.5,Cash on Delivery
+O01460,2025-12-19,C0984,Delivered,0.15,4.0,Cash on Delivery
+O01854,2026-02-28,C1240,Delivered,0.0,4.0,bKash
+O00602,2025-10-10,C0392,Delivered,0.0,4.0,Card
+O00921,2025-09-03,C0599,Delivered,0.1,2.5,bKash
+O01108,2025-10-12,C0728,Delivered,0.0,2.5,Cash on Delivery
+O00542,2025-05-28,C0355,Delivered,0.15,2.5,Card
+O01247,2025-11-13,C0822,Delivered,0.0,3.5,Cash on Delivery
+O00185,2025-02-28,C0128,Delivered,0.0,5.0,bKash
+O00061,2025-01-21,C0044,Delivered,0.0,5.0,Card
+O00080,2025-01-27,C0058,Delivered,0.0,4.0,Nagad
+O00620,2025-06-23,C0403,Delivered,0.0,2.5,Card
+O01889,2026-03-04,C1262,Delivered,0.15,3.5,Cash on Delivery
+O00599,2025-06-12,C0391,Delivered,0.0,3.5,bKash
+O00784,2025-08-07,C0512,Delivered,0.0,4.0,Card
+O00538,2025-05-27,C0353,Delivered,0.0,5.0,Card
+O01742,2026-02-06,C1167,Delivered,0.1,5.0,Cash on Delivery
+O02173,2026-04-23,C1454,Delivered,0.0,2.5,Card
+O00685,2025-07-13,C0444,Delivered,0.1,2.5,Cash on Delivery
+O00736,2025-07-28,C0478,Delivered,0.15,5.0,Card
+O01515,2025-12-29,C1018,Delivered,0.05,2.5,Cash on Delivery
+O01254,2025-11-13,C0828,Delivered,0.15,4.0,Nagad
+O00005,2025-01-03,C0005,Delivered,0.05,5.0,Card
+O00355,2025-04-14,C0239,Delivered,0.1,2.5,Card
+O00357,2025-06-25,C0239,Delivered,0.1,4.0,bKash
+O00279,2025-04-10,C0187,Delivered,0.0,3.5,bKash
+O00345,2025-04-11,C0232,Delivered,0.0,4.0,Cash on Delivery
+O01013,2025-10-22,C0656,Delivered,0.0,3.5,Card
+O01665,2026-01-24,C1116,Delivered,0.0,5.0,Card
+O01986,2026-03-20,C1327,Delivered,0.1,3.5,Cash on Delivery
+O00094,2025-02-07,C0071,Delivered,0.05,2.5,Card
+O02015,2026-03-25,C1346,Cancelled,0.1,4.0,bKash
+O02201,2026-04-29,C1478,Delivered,0.0,2.5,Card
+O00200,2025-03-04,C0138,Delivered,0.1,2.5,bKash
+O00038,2025-01-14,C0031,Delivered,0.0,5.0,Card
+O00233,2025-06-09,C0160,Delivered,0.05,4.0,Card
+O01166,2026-01-21,C0771,Delivered,0.0,2.5,Nagad
+O00241,2025-03-17,C0163,Delivered,0.0,5.0,bKash
+O00565,2025-05-31,C0369,Delivered,0.15,3.5,bKash
+O00330,2025-04-01,C0219,Delivered,0.15,3.5,bKash
+O01636,2026-01-20,C1096,Delivered,0.05,2.5,Card
+O01482,2025-12-25,C0999,Delivered,0.1,2.5,Card
+O01730,2026-06-26,C1158,Delivered,0.0,4.0,bKash
+O01144,2025-12-21,C0753,Delivered,0.0,3.5,Card
+O02278,2026-05-16,C1535,Delivered,0.0,5.0,Card
+O00601,2025-08-22,C0392,Delivered,0.1,3.5,bKash
+O01394,2026-05-05,C0940,Delivered,0.05,2.5,bKash
+O01007,2025-09-18,C0652,Delivered,0.0,3.5,Card
+O02176,2026-06-16,C1456,Delivered,0.1,3.5,bKash
+O01464,2026-02-25,C0986,Delivered,0.05,3.5,Cash on Delivery
+O00577,2025-06-06,C0377,Delivered,0.0,5.0,Cash on Delivery
+O01690,2026-01-27,C1132,Delivered,0.1,4.0,Cash on Delivery
+O00138,2025-02-15,C0097,Cancelled,0.0,3.5,bKash
+O00696,2025-08-25,C0452,Delivered,0.0,3.5,Nagad
+O00365,2025-05-08,C0242,Cancelled,0.0,4.0,Card
+O00210,2025-04-29,C0144,Delivered,0.0,3.5,Card
+O01066,2025-09-29,C0698,Delivered,0.05,5.0,Nagad
+O01428,2025-12-11,C0960,Delivered,0.1,2.5,Card
+O01533,2025-12-31,C1028,Delivered,0.15,3.5,bKash
+O01816,2026-02-21,C1216,Delivered,0.1,3.5,Card
+O02279,2026-05-17,C1536,Delivered,0.15,4.0,Cash on Delivery
+O01708,2026-03-07,C1144,Delivered,0.05,4.0,Cash on Delivery
+O01544,2026-01-02,C1036,Delivered,0.15,5.0,Card
+O01418,2025-12-23,C0953,Delivered,0.0,5.0,bKash
+O01469,2025-12-22,C0990,Delivered,0.15,2.5,bKash
+O01434,2025-12-13,C0965,Delivered,0.0,4.0,bKash
+O00623,2025-07-20,C0404,Delivered,0.0,2.5,bKash
+O00427,2025-07-19,C0285,Delivered,0.1,5.0,Nagad
+O01736,2026-02-04,C1162,Delivered,0.0,5.0,Card
+O02424,2026-06-22,C1675,Delivered,0.0,3.5,bKash
+O02017,2026-06-02,C1347,Delivered,0.0,3.5,bKash
+O01057,2026-02-05,C0689,Delivered,0.05,2.5,Cash on Delivery
+O02081,2026-04-08,C1390,Delivered,0.0,2.5,Cash on Delivery
+O01456,2026-03-19,C0980,Delivered,0.0,2.5,Cash on Delivery
+O00102,2025-02-06,C0077,Delivered,0.1,5.0,Card
+O01125,2025-10-18,C0740,Delivered,0.1,4.0,Card
+O01653,2026-01-22,C1109,Delivered,0.05,2.5,Card
+O01171,2025-10-30,C0776,Delivered,0.15,5.0,bKash
+O02037,2026-04-02,C1362,Delivered,0.0,2.5,Cash on Delivery
+O02212,2026-05-01,C1485,Delivered,0.15,5.0,Card
+O01812,2026-03-26,C1212,Delivered,0.1,5.0,Nagad
+O00096,2025-02-07,C0072,Delivered,0.0,4.0,Card
+O00796,2025-08-10,C0518,Delivered,0.1,4.0,Cash on Delivery
+O01262,2025-12-21,C0832,Delivered,0.1,5.0,Card
+O02272,2026-05-13,C1532,Delivered,0.15,2.5,Cash on Delivery
+O01471,2025-12-22,C0992,Cancelled,0.15,5.0,Card
+O01249,2025-11-13,C0823,Cancelled,0.15,3.5,Cash on Delivery
+O02240,2026-05-05,C1502,Delivered,0.05,3.5,bKash
+O00664,2025-10-09,C0431,Delivered,0.0,3.5,bKash
+O01554,2026-02-16,C1042,Delivered,0.0,4.0,Cash on Delivery
+O02420,2026-06-21,C1671,Delivered,0.0,5.0,Nagad
+O00361,2025-09-11,C0240,Cancelled,0.05,2.5,bKash
+O02185,2026-04-25,C1463,Delivered,0.15,5.0,bKash
+O02354,2026-06-04,C1605,Delivered,0.05,5.0,bKash
+O00469,2025-07-21,C0312,Delivered,0.1,4.0,Cash on Delivery
+O00612,2025-11-11,C0398,Delivered,0.0,3.5,Card
+O01438,2025-12-15,C0969,Delivered,0.0,3.5,Card
+O02138,2026-04-16,C1429,Delivered,0.0,5.0,bKash
+O01843,2026-02-26,C1234,Delivered,0.1,2.5,Card
+O00069,2025-01-23,C0049,Delivered,0.0,4.0,Nagad
+O01437,2025-12-15,C0968,Delivered,0.1,2.5,Card
+O00991,2025-09-14,C0643,Delivered,0.05,5.0,Nagad
+O01465,2026-04-14,C0986,Cancelled,0.0,5.0,Cash on Delivery
+O01748,2026-02-06,C1172,Delivered,0.15,3.5,bKash
+O01574,2026-04-07,C1054,Delivered,0.0,2.5,Card
+O01930,2026-03-13,C1292,Delivered,0.0,4.0,Cash on Delivery
+O00808,2025-08-12,C0524,Delivered,0.15,3.5,bKash
+O00557,2025-05-30,C0364,Delivered,0.15,3.5,Card
+O01399,2025-12-04,C0942,Delivered,0.0,5.0,Card
+O00274,2025-03-20,C0184,Delivered,0.0,3.5,Cash on Delivery
+O02051,2026-04-04,C1371,Delivered,0.15,5.0,Cash on Delivery
+O01552,2026-01-06,C1041,Delivered,0.05,5.0,Card
+O01517,2026-02-13,C1019,Delivered,0.05,4.0,Card
+O01727,2026-02-04,C1157,Delivered,0.15,3.5,Nagad
+O00666,2025-09-05,C0432,Delivered,0.0,5.0,Card
+O00099,2025-04-28,C0074,Delivered,0.0,2.5,Cash on Delivery
+O00313,2025-03-29,C0208,Delivered,0.15,3.5,bKash
+O00930,2025-09-04,C0605,Delivered,0.0,5.0,Card
+O00841,2025-10-24,C0546,Delivered,0.0,4.0,Nagad
+O02159,2026-04-19,C1445,Delivered,0.0,3.5,Nagad
+O00231,2025-03-11,C0159,Delivered,0.05,5.0,Card
+O01027,2025-09-21,C0668,Delivered,0.15,2.5,Cash on Delivery
+O00132,2025-02-14,C0092,Delivered,0.1,2.5,Nagad
+O01077,2025-10-04,C0706,Delivered,0.05,5.0,bKash
+O00924,2025-10-28,C0600,Delivered,0.0,3.5,Card
+O01149,2025-10-25,C0757,Delivered,0.05,5.0,bKash
+O01932,2026-03-14,C1294,Delivered,0.0,3.5,bKash
+O00759,2025-08-04,C0494,Cancelled,0.15,3.5,Nagad
+O01508,2025-12-29,C1014,Delivered,0.0,3.5,Card
+O00222,2025-03-11,C0155,Delivered,0.0,4.0,bKash
+O01298,2025-11-21,C0858,Delivered,0.3,5.0,bKash
+O02039,2026-04-01,C1363,Delivered,0.0,5.0,bKash
+O01834,2026-02-23,C1227,Delivered,0.0,3.5,Cash on Delivery
+O01568,2026-01-06,C1050,Delivered,0.0,4.0,bKash
+O00070,2025-01-24,C0050,Delivered,0.0,3.5,Cash on Delivery
+O01824,2026-02-23,C1222,Cancelled,0.0,2.5,Card
+O01167,2025-10-29,C0772,Delivered,0.15,2.5,Cash on Delivery
+O00588,2025-06-10,C0385,Delivered,0.1,3.5,Cash on Delivery
+O01186,2026-01-15,C0785,Delivered,0.05,2.5,Card
+O02235,2026-05-05,C1500,Delivered,0.05,4.0,Card
+O01615,2026-01-18,C1080,Delivered,0.0,4.0,Card
+O01597,2026-03-21,C1069,Delivered,0.1,5.0,bKash
+O01132,2025-12-14,C0745,Delivered,0.1,3.5,Cash on Delivery
+O00237,2025-05-16,C0162,Delivered,0.0,3.5,Cash on Delivery
+O02182,2026-05-30,C1460,Delivered,0.15,2.5,bKash
+O00585,2025-06-09,C0383,Delivered,0.05,4.0,Card
+O00558,2025-06-14,C0364,Delivered,0.15,2.5,bKash
+O01960,2026-03-17,C1310,Delivered,0.1,2.5,Cash on Delivery
+O00077,2025-01-26,C0056,Cancelled,0.0,2.5,bKash
+O02109,2026-04-08,C1408,Delivered,0.0,2.5,Card
+O01634,2026-04-07,C1094,Delivered,0.1,4.0,Nagad
+O01767,2026-04-26,C1182,Delivered,0.0,5.0,bKash
+O00111,2025-02-08,C0080,Delivered,0.1,5.0,Cash on Delivery
+O00369,2025-05-10,C0245,Cancelled,0.15,4.0,bKash
+O00477,2025-05-17,C0318,Delivered,0.0,5.0,bKash
+O00502,2025-05-19,C0330,Delivered,0.0,3.5,Card
+O00616,2025-06-20,C0400,Delivered,0.15,3.5,Card
+O00530,2025-11-03,C0349,Delivered,0.0,4.0,Cash on Delivery
+O02364,2026-06-07,C1615,Delivered,0.1,5.0,Card
+O01273,2026-04-09,C0838,Delivered,0.05,5.0,Cash on Delivery
+O01162,2025-10-28,C0768,Delivered,0.1,4.0,Card
+O01491,2026-06-27,C1003,Delivered,0.05,5.0,bKash
+O01825,2026-04-25,C1222,Delivered,0.0,5.0,Nagad
+O00281,2025-06-12,C0188,Delivered,0.0,5.0,bKash
+O01485,2025-12-23,C1001,Delivered,0.0,2.5,Cash on Delivery
+O01119,2025-10-18,C0737,Delivered,0.15,5.0,Cash on Delivery
+O01712,2026-06-08,C1145,Delivered,0.0,3.5,Cash on Delivery
+O02124,2026-04-14,C1419,Delivered,0.0,3.5,Nagad
+O02246,2026-05-07,C1508,Delivered,0.0,4.0,Nagad
+O02031,2026-03-29,C1357,Delivered,0.0,2.5,Cash on Delivery
+O01697,2026-05-27,C1137,Delivered,0.05,4.0,bKash
+O00064,2025-05-11,C0045,Delivered,0.0,2.5,Cash on Delivery
+O00607,2025-06-16,C0396,Delivered,0.1,5.0,bKash
+O01501,2025-12-29,C1010,Delivered,0.0,3.5,Card
+O00785,2025-08-09,C0513,Delivered,0.0,4.0,bKash
+O01269,2025-11-17,C0837,Delivered,0.0,3.5,Cash on Delivery
+O00083,2025-01-29,C0061,Delivered,0.1,4.0,bKash
+O02310,2026-06-26,C1562,Delivered,0.0,5.0,Card
+O01846,2026-03-31,C1236,Delivered,0.0,2.5,bKash
+O02252,2026-05-09,C1514,Delivered,0.0,3.5,bKash
+O01728,2026-02-05,C1158,Delivered,0.15,5.0,Card
+O02295,2026-05-22,C1551,Delivered,0.15,5.0,Card
+O02203,2026-04-29,C1479,Delivered,0.0,5.0,Card
+O01864,2026-03-02,C9999,Delivered,0.0,2.5,bKash
+O02436,2026-06-24,C1687,Delivered,0.05,2.5,Card
+O01454,2026-03-15,C0979,Delivered,0.05,3.5,Cash on Delivery
+O00287,2025-03-24,C0192,Delivered,0.1,2.5,bKash
+O01856,2026-03-01,C1241,Delivered,0.0,4.0,Cash on Delivery
+O00419,2025-04-30,C0279,Delivered,0.05,5.0,bKash
+O01195,2025-11-03,C0790,Cancelled,0.0,5.0,bKash
+O00473,2025-05-14,C0315,Delivered,0.05,2.5,bKash
+O00055,2025-01-15,C0038,Delivered,0.0,2.5,Card
+O00750,2025-09-29,C0487,Delivered,0.0,4.0,Nagad
+O01096,2025-10-11,C0721,Delivered,0.15,2.5,Nagad
+O00660,2025-07-03,C0429,Delivered,0.05,2.5,Card
+O00834,2025-08-18,C0543,Delivered,0.0,4.0,Cash on Delivery
+O02135,2026-05-28,C1426,Delivered,0.1,3.5,bKash
+O02384,2026-06-11,C1635,Delivered,0.15,4.0,Cash on Delivery
+O00324,2025-07-15,C0216,Cancelled,0.05,5.0,Card
+O00130,2025-02-13,C0090,Delivered,0.05,3.5,bKash
+O02425,2026-06-22,C1676,Delivered,0.0,4.0,Cash on Delivery
+O01449,2025-12-16,C0976,Delivered,0.0,2.5,bKash
+O02104,2026-04-09,C1404,Delivered,0.1,4.0,Card
+O01289,2026-01-26,C0850,Delivered,0.05,3.5,Cash on Delivery
+O02242,2026-05-04,C1504,Cancelled,0.0,2.5,bKash
+O00926,2025-09-02,C0602,Delivered,0.0,4.0,Cash on Delivery
+O01913,2026-03-10,C1280,Cancelled,0.1,3.5,Cash on Delivery
+O00363,2025-04-14,C0241,Delivered,0.1,2.5,bKash
+O00766,2025-12-21,C0497,Delivered,0.05,5.0,Card
+O00350,2025-06-29,C0236,Delivered,0.0,4.0,bKash
+O01855,2026-04-27,C1240,Delivered,0.05,3.5,bKash
+O01772,2026-02-12,C1186,Delivered,0.0,5.0,Card
+O00242,2025-03-16,C0164,Delivered,0.0,5.0,Cash on Delivery
+O00826,2025-08-17,C0536,Delivered,0.0,4.0,bKash
+O01168,2025-10-28,C0773,Delivered,0.0,5.0,bKash
+O02435,2026-06-24,C1686,Cancelled,0.0,2.5,Card
+O02356,2026-06-06,C1607,Delivered,0.0,3.5,Cash on Delivery
+O01994,2026-05-12,C1331,Delivered,0.0,5.0,Card
+O02066,2026-05-22,C1381,Delivered,0.0,4.0,Card
+O01987,2026-05-01,C1327,Delivered,0.0,2.5,Cash on Delivery
+O02134,2026-04-28,C1426,Delivered,0.0,3.5,Cash on Delivery
+O01713,2026-02-01,C1146,Delivered,0.0,3.5,bKash
+O00158,2025-06-10,C0109,Delivered,0.0,3.5,Card
+O01790,2026-02-13,C1198,Delivered,0.0,5.0,bKash
+O01105,2025-12-21,C0726,Delivered,0.05,4.0,bKash
+O02276,2026-05-16,C1534,Delivered,0.0,4.0,Card
+O02149,2026-06-19,C1437,Delivered,0.0,4.0,Nagad
+O00587,2025-06-08,C0384,Delivered,0.05,2.5,Card
+O02075,2026-06-08,C1386,Delivered,0.15,3.5,bKash
+O00181,2025-02-25,C0124,Delivered,0.0,2.5,bKash
+O02250,2026-05-09,C1512,Delivered,0.15,5.0,Nagad
+O00958,2025-09-09,C0620,Cancelled,0.0,4.0,bKash
+O01274,2025-11-17,C0839,Delivered,0.0,3.5,bKash
+O01779,2026-04-17,C1190,Cancelled,0.0,2.5,bKash
+O01380,2025-12-27,C0930,Delivered,0.0,5.0,bKash
+O00887,2025-10-14,C0576,Delivered,0.0,4.0,Nagad
+O00260,2025-05-26,C0177,Delivered,0.1,4.0,bKash
+O00965,2025-09-09,C0624,Delivered,0.0,4.0,bKash
+O00219,2025-03-30,C0152,Delivered,0.15,4.0,Card
+O02141,2026-04-16,C1432,Delivered,0.0,4.0,Nagad
+O00732,2025-07-27,C0475,Delivered,0.05,3.5,Cash on Delivery
+O01875,2026-03-04,C1254,Delivered,0.15,5.0,Nagad
+O01610,2026-03-27,C1078,Delivered,0.0,5.0,Card
+O01631,2026-01-20,C1092,Delivered,0.0,2.5,bKash
+O00295,2025-05-03,C0196,Delivered,0.15,3.5,Card
+O00569,2025-08-03,C0372,Delivered,0.0,3.5,Cash on Delivery
+O00489,2025-12-14,C0322,Delivered,0.05,4.0,bKash
+O01758,2026-02-09,C1177,Delivered,0.0,4.0,bKash
+O00708,2025-07-18,C0458,Delivered,0.05,2.5,bKash
+O01219,2025-11-10,C0804,Delivered,0.15,3.5,bKash
+O02086,2026-05-06,C1393,Delivered,0.05,2.5,Card
+O02224,2026-05-03,C1494,Cancelled,0.0,2.5,bKash
+O02372,2026-06-08,C1623,Delivered,0.0,4.0,Cash on Delivery
+O00317,2025-03-31,C0212,Delivered,0.05,4.0,Cash on Delivery
+O01209,2025-11-08,C0798,Delivered,0.0,5.0,Cash on Delivery
+O00271,2025-03-22,C0182,Delivered,0.0,4.0,Nagad
+O01330,2025-11-26,C0886,Delivered,0.3,3.5,bKash
+O01917,2026-03-09,C1283,Delivered,0.05,3.5,bKash
+O02156,2026-04-20,C1443,Delivered,0.1,2.5,Card
+O01895,2026-03-06,C1267,Delivered,0.05,2.5,Card
+O02361,2026-06-05,C1612,Delivered,0.0,5.0,Card
+O01896,2026-03-07,C1268,Delivered,0.1,2.5,Card
+O01213,2025-11-09,C0801,Delivered,0.1,4.0,Card
+O01710,2026-01-29,C1145,Delivered,0.0,3.5,Card
+O01972,2026-03-20,C1318,Delivered,0.0,2.5,Card
+O01891,2026-05-23,C1263,Delivered,0.15,4.0,bKash
+O00186,2025-03-01,C0129,Delivered,0.0,3.5,Card
+O00432,2025-12-07,C0287,Delivered,0.05,3.5,bKash
+O01914,2026-03-10,C1281,Delivered,0.1,4.0,bKash
+O01047,2025-09-27,C0682,Delivered,0.0,3.5,Cash on Delivery
+O01423,2025-12-10,C0957,Delivered,0.0,2.5,Cash on Delivery
+O02161,2026-04-20,C1447,Delivered,0.1,2.5,Nagad
+O01931,2026-03-14,C1293,Delivered,0.0,3.5,bKash
+O01592,2026-06-26,C1065,Delivered,0.0,5.0,Nagad
+O02443,2026-06-27,C1694,Delivered,0.0,3.5,Card
+O02414,2026-06-18,C1665,Delivered,0.0,2.5,bKash
+O00740,2025-07-29,C0481,Delivered,0.0,3.5,bKash
+O00904,2025-10-25,C0587,Delivered,0.0,4.0,bKash
+O00356,2025-04-30,C0239,Delivered,0.0,2.5,Nagad
+O02105,2026-04-08,C1405,Delivered,0.15,4.0,bKash
+O01800,2026-02-16,C1206,Delivered,0.05,4.0,Cash on Delivery
+O02385,2026-06-14,C1636,Cancelled,0.15,3.5,Card
+O01637,2026-01-21,C1097,Delivered,0.15,4.0,Card
+O01719,2026-02-02,C1151,Delivered,0.0,4.0,Card
+O02053,2026-04-03,C1373,Delivered,0.0,5.0,bKash
+O00692,2025-07-14,C0449,Cancelled,0.05,2.5,Card
+O00495,2025-09-03,C0325,Cancelled,0.05,2.5,Cash on Delivery
+O01248,2025-12-14,C0822,Cancelled,0.0,5.0,Cash on Delivery
+O01099,2025-10-12,C0724,Delivered,0.05,3.5,bKash
+O01153,2025-10-25,C0760,Delivered,0.0,5.0,Nagad
+O01032,2025-09-25,C0672,Delivered,0.1,5.0,bKash
+O00457,2025-05-10,C0303,Delivered,0.15,2.5,bKash
+O00929,2025-09-02,C0604,Delivered,0.05,2.5,Cash on Delivery
+O01992,2026-03-21,C1330,Delivered,0.05,2.5,bKash
+O02296,2026-06-18,C1551,Delivered,0.1,3.5,bKash
+O00504,2025-05-19,C0331,Delivered,0.15,4.0,Card
+O00311,2025-03-29,C0206,Delivered,0.1,3.5,Card
+O02113,2026-05-21,C1411,Delivered,0.05,2.5,Cash on Delivery
+O01063,2025-09-28,C0695,Delivered,0.1,4.0,bKash
+O02000,2026-03-25,C1335,Delivered,0.05,5.0,Card
+O01290,2025-11-20,C0851,Delivered,0.3,4.0,Cash on Delivery
+O01538,2026-01-01,C1031,Cancelled,0.0,3.5,Cash on Delivery
+O01806,2026-02-16,C1210,Cancelled,0.15,3.5,Card
+O01604,2026-01-16,C1075,Delivered,0.0,3.5,bKash
+O01390,2026-01-21,C0938,Delivered,0.0,5.0,Nagad
+O00892,2025-08-25,C0579,Delivered,0.0,4.0,bKash
+O00316,2025-03-30,C0211,Cancelled,0.0,4.0,bKash
+O00646,2025-07-23,C0420,Delivered,0.15,5.0,Cash on Delivery
+O00072,2025-02-25,C0051,Delivered,0.15,4.0,Card
+O00309,2025-03-28,C0204,Delivered,0.05,2.5,bKash
+O01103,2025-11-23,C0725,Delivered,0.3,3.5,Nagad
+O01124,2026-03-21,C0739,Delivered,0.1,4.0,bKash
+O01489,2026-04-17,C1003,Delivered,0.0,3.5,Card
+O01851,2026-04-20,C1238,Delivered,0.0,4.0,Nagad
+O01778,2026-02-14,C1190,Delivered,0.1,2.5,bKash
+O02143,2026-04-18,C1433,Delivered,0.15,4.0,Cash on Delivery
+O00843,2026-03-02,C0546,Delivered,0.1,4.0,Nagad
+O01838,2026-04-22,C1230,Delivered,0.0,5.0,Card
+O00684,2025-07-10,C0443,Delivered,0.0,4.0,bKash
+O00335,2025-04-06,C0223,Delivered,0.1,5.0,Card
+O00124,2025-02-12,C0085,Delivered,0.05,4.0,Card
+O00782,2025-08-07,C0510,Delivered,0.0,5.0,bKash
+O00994,2026-01-07,C0644,Delivered,0.0,3.5,Card
+O00201,2025-03-05,C0139,Delivered,0.1,3.5,bKash
+O02368,2026-06-06,C1619,Delivered,0.0,4.0,Cash on Delivery
+O01557,2026-02-26,C1044,Delivered,0.0,3.5,Card
+O01404,2026-02-15,C0945,Delivered,0.15,2.5,Cash on Delivery
+O01897,2026-04-21,C1268,Delivered,0.0,2.5,Cash on Delivery
+O00950,2025-09-07,C0617,Delivered,0.15,2.5,bKash
+O01714,2026-02-01,C1147,Delivered,0.0,5.0,Card
+O01395,2025-12-02,C0941,Delivered,0.05,4.0,Card
+O01528,2026-03-01,C1025,Delivered,0.0,5.0,Card
+O00849,2025-08-21,C0551,Delivered,0.0,3.5,Cash on Delivery
+O00791,2025-08-08,C0516,Delivered,0.15,2.5,Card
+O02316,2026-05-25,C1567,Delivered,0.15,5.0,bKash
+O01314,2025-11-24,C0872,Delivered,0.3,4.0,Cash on Delivery
+O00505,2025-05-21,C0332,Delivered,0.15,5.0,bKash
+O01331,2025-11-26,C0887,Delivered,0.3,4.0,bKash
+O01045,2025-09-26,C0680,Delivered,0.15,3.5,Nagad
+O01098,2025-10-10,C0723,Delivered,0.05,3.5,bKash
+O00935,2025-11-22,C0608,Delivered,0.3,3.5,Card
+O00037,2025-01-14,C0030,Delivered,0.0,5.0,Cash on Delivery
+O01584,2026-03-11,C1061,Delivered,0.0,4.0,Nagad
+O01410,2025-12-04,C0949,Delivered,0.0,4.0,Card
+O02399,2026-06-17,C1650,Delivered,0.0,4.0,Cash on Delivery
+O00521,2025-05-24,C0344,Delivered,0.15,2.5,bKash
+O01243,2025-11-13,C0821,Delivered,0.1,2.5,Card
+O01747,2026-02-08,C1171,Delivered,0.0,4.0,Card
+O00832,2025-08-17,C0541,Delivered,0.0,5.0,Card
+O00103,2025-02-28,C0077,Delivered,0.05,3.5,Card
+O02332,2026-05-27,C1583,Delivered,0.0,2.5,Cash on Delivery
+O01486,2025-12-25,C1002,Delivered,0.15,2.5,Cash on Delivery
+O01009,2025-11-06,C0653,Delivered,0.0,5.0,bKash
+O00527,2025-05-24,C0348,Delivered,0.0,5.0,Card
+O01356,2025-11-27,C0908,Delivered,0.3,4.0,Card
+O02415,2026-06-19,C1666,Delivered,0.0,2.5,bKash
+O01478,2026-03-23,C0995,Delivered,0.0,4.0,bKash
+O00976,2025-09-13,C0633,Delivered,0.0,5.0,Cash on Delivery
+O01965,2026-03-19,C1313,Delivered,0.0,5.0,Nagad
+O01265,2025-11-17,C0834,Cancelled,0.1,2.5,bKash
+O01892,2026-03-05,C1264,Delivered,0.15,5.0,bKash
+O01771,2026-03-20,C1185,Delivered,0.15,5.0,Card
+O00273,2025-03-22,C0183,Cancelled,0.15,5.0,Nagad
+O02371,2026-06-07,C1622,Delivered,0.0,4.0,Card
+O02226,2026-05-02,C1495,Delivered,0.1,5.0,bKash
+O01151,2025-10-25,C0759,Delivered,0.0,4.0,bKash
+O02021,2026-04-25,C1349,Cancelled,0.0,4.0,bKash
+O01836,2026-02-24,C1229,Delivered,0.0,3.5,Card
+O00167,2025-02-23,C0116,Delivered,0.0,5.0,bKash
+O01388,2025-12-03,C0937,Delivered,0.0,5.0,Cash on Delivery
+O02137,2026-04-14,C1428,Delivered,0.0,3.5,Cash on Delivery
+O01143,2025-10-22,C0753,Delivered,0.15,2.5,Card
+O01530,2026-05-01,C1025,Delivered,0.0,5.0,Card
+O01216,2026-01-17,C0803,Delivered,0.0,4.0,Card
+O01076,2025-10-01,C0705,Delivered,0.15,2.5,Card
+O00615,2025-07-28,C0399,Delivered,0.0,2.5,Cash on Delivery
+O01358,2025-11-27,C0909,Delivered,0.3,5.0,Card
+O01946,2026-05-05,C1300,Delivered,0.15,5.0,bKash
+O00737,2025-07-30,C0479,Delivered,0.1,4.0,bKash
+O00264,2025-03-22,C0179,Delivered,0.15,2.5,bKash
+O02388,2026-06-14,C1639,Delivered,0.05,2.5,Cash on Delivery
+O02277,2026-06-10,C1534,Delivered,0.0,5.0,Cash on Delivery
+O00985,2025-09-15,C0640,Delivered,0.0,3.5,Card
+O02118,2026-04-12,C1415,Delivered,0.0,2.5,Card
+O00288,2025-05-16,C0192,Cancelled,0.0,4.0,Card
+O01726,2026-02-04,C1156,Delivered,0.0,4.0,Card
+O00661,2025-07-03,C0430,Delivered,0.05,5.0,Cash on Delivery
+O02313,2026-05-26,C1564,Delivered,0.15,2.5,Card
+O01817,2026-02-22,C1217,Delivered,0.0,2.5,bKash
+O02355,2026-06-06,C1606,Delivered,0.0,5.0,bKash
+O00644,2025-06-29,C0419,Delivered,0.0,5.0,Card
+O00817,2025-08-15,C0531,Delivered,0.0,4.0,bKash
+O01251,2025-11-15,C0825,Delivered,0.0,3.5,Card
+O02064,2026-04-03,C1380,Delivered,0.15,4.0,bKash
+O02460,2026-06-30,C1715,Cancelled,0.15,3.5,bKash
+O01383,2025-12-02,C0933,Delivered,0.1,5.0,Cash on Delivery
+O00216,2025-03-08,C0150,Delivered,0.15,3.5,Card
+O02357,2026-06-06,C1608,Delivered,0.0,2.5,Card
+O01773,2026-04-15,C1186,Delivered,0.0,3.5,bKash
+O01212,2025-11-08,C0800,Delivered,0.15,3.5,Cash on Delivery
+O02351,2026-06-03,C1602,Delivered,0.05,2.5,Card
+O02178,2026-04-22,C1458,Delivered,0.0,3.5,bKash
+O00754,2025-08-01,C0490,Delivered,0.0,4.0,Cash on Delivery
+O00104,2025-05-27,C0077,Delivered,0.1,2.5,bKash
+O02180,2026-04-23,C1459,Delivered,0.1,2.5,Card
+O00342,2025-04-08,C0230,Delivered,0.0,2.5,Cash on Delivery
+O00266,2025-08-20,C0179,Delivered,0.15,3.5,bKash
+O01354,2025-12-27,C0906,Delivered,0.0,2.5,Cash on Delivery
+O00460,2025-05-09,C0306,Delivered,0.0,5.0,bKash
+O00912,2025-10-10,C0593,Delivered,0.1,2.5,Nagad
+O02070,2026-05-20,C1383,Delivered,0.0,4.0,Cash on Delivery
+O01524,2026-05-18,C1022,Delivered,0.1,2.5,Nagad
+O01188,2025-11-01,C0786,Cancelled,0.15,5.0,bKash
+O02089,2026-06-17,C1394,Delivered,0.0,2.5,Cash on Delivery
+O02423,2026-06-21,C1674,Delivered,0.0,5.0,Cash on Delivery
+O00270,2025-03-21,C0181,Cancelled,0.0,4.0,bKash
+O00257,2025-03-19,C0175,Delivered,0.05,5.0,bKash
+O02132,2026-04-13,C1425,Delivered,0.0,3.5,bKash
+O01026,2025-09-20,C0667,Delivered,0.15,2.5,Nagad
+O00371,2025-05-13,C0246,Delivered,0.1,4.0,bKash
+O00081,2025-01-26,C0059,Delivered,0.15,5.0,Cash on Delivery
+O00516,2025-05-23,C0339,Delivered,0.1,2.5,bKash
+O01842,2026-02-25,C1233,Delivered,0.0,2.5,Card
+O00112,2025-03-29,C0080,Delivered,0.0,2.5,Cash on Delivery
+O01112,2025-10-12,C0731,Delivered,0.0,2.5,Card
+O01569,2026-01-08,C1051,Delivered,0.0,5.0,Nagad
+O01344,2025-11-28,C0898,Delivered,0.3,2.5,Nagad
+O00497,2025-06-24,C0326,Cancelled,0.15,2.5,Cash on Delivery
+O01093,2025-11-17,C0718,Delivered,0.0,5.0,Card
+O02005,2026-03-25,C1339,Delivered,0.15,2.5,Card
+O01177,2026-01-27,C0780,Delivered,0.1,5.0,bKash
+O00730,2025-07-25,C0473,Delivered,0.1,4.0,Cash on Delivery
+O00049,2025-10-17,C0035,Cancelled,0.15,3.5,Cash on Delivery
+O00653,2025-07-02,C0425,Delivered,0.0,4.0,Nagad
+O01605,2026-01-14,C1076,Delivered,0.05,5.0,Cash on Delivery
+O01424,2026-02-05,C0957,Delivered,0.0,2.5,bKash
+O01107,2025-10-13,C0727,Delivered,0.0,3.5,Cash on Delivery
+O00446,2025-05-08,C0296,Delivered,0.1,2.5,Cash on Delivery
+O00123,2025-02-10,C0084,Delivered,0.05,2.5,Cash on Delivery
+O01495,2025-12-26,C1006,Delivered,0.0,4.0,Cash on Delivery
+O00777,2025-10-02,C0505,Delivered,0.0,4.0,Card
+O00731,2025-07-25,C0474,Delivered,0.05,2.5,Nagad
+O01306,2025-11-24,C0865,Delivered,0.3,4.0,bKash
+O01238,2025-11-12,C0818,Delivered,0.0,5.0,Nagad
+O01925,2026-03-10,C1289,Delivered,0.0,2.5,Card
+O02033,2026-06-26,C1358,Delivered,0.05,4.0,bKash
+O01278,2026-02-01,C0841,Delivered,0.15,4.0,Cash on Delivery
+O01416,2025-12-28,C0952,Delivered,0.0,5.0,Cash on Delivery
+O00433,2025-05-03,C0288,Delivered,0.05,5.0,bKash
+O00062,2025-01-21,C0045,Delivered,0.05,2.5,Cash on Delivery
+O02119,2026-04-13,C1416,Cancelled,0.0,3.5,bKash
+O00898,2025-08-27,C0583,Delivered,0.0,5.0,Card
+O00829,2025-08-18,C0539,Delivered,0.0,5.0,bKash
+O01746,2026-02-06,C1170,Delivered,0.05,5.0,Card
+O00144,2025-04-01,C0101,Delivered,0.15,2.5,Cash on Delivery
+O00712,2025-07-20,C0461,Delivered,0.0,4.0,Cash on Delivery
+O01291,2025-11-22,C0852,Delivered,0.3,5.0,bKash
+O01090,2025-10-08,C0716,Delivered,0.0,4.0,Card
+O02150,2026-04-18,C1438,Delivered,0.0,3.5,Cash on Delivery
+O00543,2025-05-28,C0356,Delivered,0.0,2.5,Cash on Delivery
+O00174,2025-05-05,C0119,Delivered,0.0,4.0,bKash
+O00503,2025-07-06,C0330,Delivered,0.1,4.0,Card
+O01749,2026-04-28,C1172,Delivered,0.0,4.0,Cash on Delivery
+O01684,2026-06-10,C1128,Delivered,0.1,5.0,Card
+O00682,2025-11-08,C0441,Delivered,0.15,5.0,Card
+O00786,2025-09-25,C0513,Delivered,0.05,3.5,Card
+O00336,2025-04-05,C0224,Delivered,0.0,4.0,Card
+O00749,2025-07-31,C0487,Cancelled,0.0,3.5,Card
+O01147,2026-01-17,C0755,Delivered,0.0,4.0,Card
+O00541,2025-05-26,C0354,Delivered,0.1,5.0,bKash
+O02034,2026-03-31,C1359,Delivered,0.0,3.5,bKash
+O01307,2026-01-07,C0865,Delivered,0.0,4.0,bKash
+O00998,2026-01-05,C0645,Cancelled,0.0,4.0,bKash
+O01089,2025-10-09,C0715,Delivered,0.05,4.0,Cash on Delivery
+O01924,2026-03-12,C1288,Delivered,0.1,2.5,bKash
+O01752,2026-05-08,C1173,Delivered,0.0,5.0,Cash on Delivery
+O01991,2026-03-21,C1329,Delivered,0.0,4.0,Card
+O02056,2026-05-26,C1374,Delivered,0.1,5.0,Nagad
+O00007,2025-04-14,C0005,Delivered,0.05,5.0,bKash
+O00788,2025-09-25,C0514,Delivered,0.0,2.5,bKash
+O01776,2026-02-11,C1189,Delivered,0.15,5.0,Card
+O00243,2025-03-17,C0165,Delivered,0.1,3.5,Cash on Delivery
+O02434,2026-06-23,C1685,Delivered,0.0,5.0,Card
+O02234,2026-06-11,C1499,Delivered,0.0,4.0,bKash
+O02285,2026-05-17,C1542,Delivered,0.0,2.5,Card
+O01237,2025-12-06,C0817,Delivered,0.05,5.0,Card
+O00392,2025-04-24,C0260,Delivered,0.05,2.5,Card
+O01323,2025-11-24,C0879,Delivered,0.3,4.0,Card
+O00649,2025-07-01,C0423,Delivered,0.0,2.5,bKash
+O02444,2026-06-25,C1695,Delivered,0.1,3.5,bKash
+O00146,2025-02-16,C0102,Delivered,0.0,3.5,Card
+O02155,2026-04-21,C1442,Delivered,0.05,3.5,Card
+O00289,2025-03-25,C0193,Delivered,0.15,4.0,Card
+O00034,2025-01-13,C0027,Delivered,0.1,4.0,Card
+O01197,2026-01-23,C0790,Delivered,0.0,3.5,Card
+O02428,2026-06-22,C1679,Delivered,0.15,5.0,Card
+O00560,2025-05-30,C0366,Delivered,0.15,5.0,Card
+O01146,2025-10-23,C0755,Delivered,0.1,2.5,Cash on Delivery
+O00059,2025-01-18,C0042,Delivered,0.1,2.5,Card
+O01210,2025-11-08,C0799,Delivered,0.1,2.5,Card
+O00221,2025-03-10,C0154,Delivered,0.0,4.0,Cash on Delivery
+O02412,2026-06-20,C1663,Delivered,0.05,5.0,bKash
+O02073,2026-04-05,C1385,Delivered,0.05,2.5,Card
+O00232,2025-03-12,C0160,Delivered,0.05,4.0,Cash on Delivery
+O01042,2025-11-05,C0678,Delivered,0.0,5.0,bKash
+O01236,2025-11-14,C0817,Delivered,0.0,3.5,Card
+O00147,2025-02-16,C0103,Cancelled,0.0,3.5,Cash on Delivery
+O01091,2025-10-09,C0717,Delivered,0.1,3.5,Card
+O00600,2025-06-13,C0392,Delivered,0.0,2.5,bKash
+O01441,2025-12-15,C0971,Delivered,0.0,5.0,Cash on Delivery
+O01882,2026-04-16,C1257,Delivered,0.15,2.5,Card
+O00084,2025-04-08,C0061,Delivered,0.1,2.5,Card
+O01850,2026-02-28,C1238,Delivered,0.0,3.5,Card
+O00745,2025-07-30,C0484,Delivered,0.0,2.5,bKash
+O00244,2025-03-16,C0166,Delivered,0.0,3.5,bKash
+O01080,2025-10-07,C0708,Delivered,0.1,3.5,Card
+O02254,2026-05-10,C1516,Delivered,0.0,4.0,Nagad
+O02214,2026-05-01,C1486,Delivered,0.05,5.0,Card
+O01366,2025-11-30,C0917,Delivered,0.3,2.5,bKash
+O00285,2025-06-09,C0190,Delivered,0.15,3.5,bKash
+O00182,2025-02-27,C0125,Delivered,0.1,4.0,Cash on Delivery
+O00650,2025-09-01,C0423,Delivered,0.05,2.5,bKash
+O00009,2025-01-06,C0007,Delivered,0.0,2.5,bKash
+O00576,2025-08-03,C0376,Delivered,0.0,2.5,Cash on Delivery
+O00269,2025-03-21,C0180,Delivered,0.1,2.5,bKash
+O01848,2026-02-28,C1237,Delivered,0.05,4.0,Cash on Delivery
+O01316,2026-03-07,C0872,Delivered,0.0,2.5,bKash
+O00455,2025-05-08,C0302,Delivered,0.0,2.5,Cash on Delivery
+O00918,2025-10-16,C0597,Delivered,0.05,3.5,Card
+O01137,2025-10-22,C0750,Delivered,0.0,4.0,Cash on Delivery
+O00771,2025-08-05,C0501,Delivered,0.0,3.5,bKash
+O02038,2026-06-30,C1362,Delivered,0.0,3.5,Cash on Delivery
+O00628,2025-08-30,C0407,Delivered,0.0,2.5,bKash
+O01692,2026-01-27,C1134,Delivered,0.15,3.5,bKash
+O02333,2026-05-27,C1584,Delivered,0.0,3.5,Card
+O00757,2025-08-03,C0493,Delivered,0.0,2.5,bKash
+O01258,2025-11-15,C0829,Cancelled,0.0,2.5,Cash on Delivery
+O01349,2025-11-27,C0903,Delivered,0.3,4.0,Nagad
+O01461,2026-03-15,C0984,Delivered,0.0,3.5,Card
+O02339,2026-05-31,C1590,Delivered,0.0,4.0,Nagad
+O01175,2025-10-31,C0780,Delivered,0.1,3.5,Card
+O02454,2026-06-28,C1705,Delivered,0.0,5.0,Card
+O00915,2025-09-01,C0596,Delivered,0.0,3.5,bKash
+O00800,2025-08-13,C0521,Delivered,0.05,5.0,bKash
+O01785,2026-02-14,C1194,Delivered,0.0,3.5,Card
+O00465,2025-05-12,C0310,Delivered,0.05,5.0,Cash on Delivery
+O02090,2026-04-08,C1395,Delivered,0.0,5.0,bKash
+O00261,2025-07-11,C0177,Delivered,0.0,4.0,bKash
+O00857,2025-11-15,C0557,Delivered,0.15,4.0,bKash
+O02174,2026-04-23,C1455,Delivered,0.1,2.5,Card
+O02106,2026-04-29,C1405,Cancelled,0.0,5.0,Cash on Delivery
+O00910,2025-08-30,C0592,Delivered,0.1,5.0,Nagad
+O00383,2025-04-20,C0254,Delivered,0.05,5.0,Nagad
+O00461,2025-05-12,C0307,Delivered,0.0,5.0,Nagad
+O01927,2026-05-21,C1290,Delivered,0.0,4.0,bKash
+O01131,2025-10-21,C0745,Delivered,0.0,4.0,Card
+O00830,2025-08-16,C0540,Delivered,0.0,2.5,bKash
+O01442,2025-12-16,C0972,Delivered,0.15,2.5,Cash on Delivery
+O01157,2025-10-26,C0764,Delivered,0.0,3.5,bKash
+O02019,2026-06-01,C1348,Delivered,0.0,3.5,bKash
+O00500,2025-05-19,C0328,Delivered,0.15,4.0,bKash
+O00159,2025-06-29,C0109,Cancelled,0.0,4.0,Cash on Delivery
+O01012,2025-09-19,C0656,Delivered,0.05,5.0,Card
+O00405,2025-04-25,C0269,Delivered,0.0,4.0,Cash on Delivery
+O00430,2025-06-29,C0287,Delivered,0.0,2.5,Nagad
+O00453,2025-05-09,C0301,Delivered,0.0,2.5,bKash
+O00852,2025-08-19,C0553,Delivered,0.15,4.0,Cash on Delivery
+O01455,2025-12-20,C0980,Delivered,0.15,3.5,Nagad
+O00810,2025-08-12,C0526,Delivered,0.0,3.5,Card
+O00157,2025-05-22,C0109,Delivered,0.05,4.0,Card
+O00046,2025-05-20,C0035,Cancelled,0.15,5.0,Card
+O01230,2025-11-12,C0813,Delivered,0.05,3.5,Cash on Delivery
+O01348,2025-11-27,C0902,Delivered,0.3,2.5,Card
+O01088,2025-10-08,C0714,Delivered,0.05,5.0,bKash
+O02151,2026-06-05,C1438,Delivered,0.0,5.0,bKash
+O02223,2026-05-02,C1493,Delivered,0.0,4.0,Nagad
+O01893,2026-03-04,C1265,Delivered,0.0,5.0,bKash
+O01322,2025-11-24,C0878,Delivered,0.3,3.5,bKash
+O01496,2025-12-28,C1007,Delivered,0.0,4.0,bKash
+O00366,2025-04-14,C0243,Delivered,0.05,4.0,Card
+O00528,2025-05-24,C0349,Delivered,0.05,3.5,bKash
+O01678,2026-01-25,C1125,Delivered,0.15,2.5,Card
+O01427,2026-02-10,C0959,Delivered,0.0,2.5,Cash on Delivery
+O00482,2025-05-17,C0319,Delivered,0.0,4.0,Cash on Delivery
+O00672,2025-07-22,C0435,Delivered,0.1,3.5,Nagad
+O01561,2026-02-01,C1046,Delivered,0.0,5.0,bKash
+O01446,2026-02-02,C0975,Delivered,0.0,4.0,Card
+O00564,2025-06-01,C0368,Delivered,0.0,4.0,bKash
+O02287,2026-05-20,C1544,Delivered,0.0,5.0,Cash on Delivery
+O01762,2026-03-31,C1178,Delivered,0.15,4.0,bKash
+O00467,2025-05-14,C0312,Delivered,0.0,2.5,bKash
+O01951,2026-03-15,C1304,Delivered,0.0,3.5,Nagad
+O00449,2025-05-09,C0299,Delivered,0.1,5.0,bKash
+O00978,2025-11-08,C0634,Delivered,0.05,3.5,Cash on Delivery
+O00652,2025-08-18,C0424,Cancelled,0.05,5.0,Card
+O00162,2025-03-30,C0111,Delivered,0.0,2.5,Card
+O02074,2026-04-06,C1386,Delivered,0.0,4.0,Cash on Delivery
+O00506,2025-05-22,C0333,Delivered,0.05,2.5,Cash on Delivery
+O02266,2026-05-13,C1527,Delivered,0.0,2.5,Card
+O01919,2026-03-11,C1284,Delivered,0.0,3.5,Card
+O00177,2025-02-25,C0122,Delivered,0.05,2.5,Nagad
+O00609,2025-07-31,C0397,Delivered,0.1,2.5,bKash
+O02158,2026-06-23,C1444,Delivered,0.05,3.5,bKash
+O00962,2025-10-03,C0622,Delivered,0.0,4.0,Cash on Delivery
+O02301,2026-05-23,C1555,Delivered,0.15,3.5,bKash
+O01813,2026-02-21,C1213,Delivered,0.0,2.5,Card
+O00970,2025-09-11,C0628,Delivered,0.0,2.5,Card
+O02041,2026-03-31,C1364,Delivered,0.1,2.5,Cash on Delivery
+O00040,2025-02-09,C0032,Delivered,0.1,4.0,Nagad
+O01861,2026-05-03,C1245,Delivered,0.1,5.0,Card
+O01022,2025-09-20,C0663,Delivered,0.1,4.0,bKash
+O01995,2026-03-22,C1332,Delivered,0.0,4.0,Cash on Delivery
+O00804,2026-02-04,C0521,Delivered,0.0,2.5,Nagad
+O00402,2025-04-26,C0268,Delivered,0.0,4.0,Cash on Delivery
+O02341,2026-05-31,C1592,Delivered,0.0,4.0,bKash
+O00973,2025-09-11,C0630,Delivered,0.15,2.5,Cash on Delivery
+O01231,2025-11-11,C0814,Delivered,0.05,3.5,Card
+O00388,2025-04-21,C0256,Delivered,0.05,5.0,bKash
+O01200,2025-11-04,C0792,Delivered,0.0,5.0,Nagad
+O01971,2026-03-20,C1317,Delivered,0.0,2.5,Card
+O01989,2026-05-11,C1328,Delivered,0.05,2.5,Nagad
+O01208,2025-11-08,C0797,Delivered,0.0,2.5,Card
+O00377,2025-04-17,C0250,Delivered,0.15,2.5,bKash
+O01476,2025-12-22,C0995,Delivered,0.1,5.0,Card
+O00314,2025-03-30,C0209,Delivered,0.0,4.0,bKash
+O00249,2025-03-18,C0169,Delivered,0.0,4.0,Card
+O02308,2026-05-23,C1561,Delivered,0.0,5.0,bKash
+O00961,2025-09-07,C0622,Delivered,0.0,4.0,bKash
+O00240,2025-11-03,C0162,Delivered,0.0,2.5,Cash on Delivery
+O01384,2025-12-02,C0934,Cancelled,0.0,2.5,Card
+O01381,2025-11-30,C0931,Delivered,0.3,5.0,Nagad
+O01821,2026-05-12,C1220,Delivered,0.05,4.0,Card
+O00456,2025-06-09,C0302,Delivered,0.0,3.5,Cash on Delivery
+O01509,2025-12-30,C1015,Delivered,0.05,2.5,bKash
+O00572,2025-06-03,C0373,Delivered,0.05,4.0,bKash
+O01182,2025-12-18,C0784,Delivered,0.0,5.0,Card
+O01406,2025-12-04,C0947,Cancelled,0.05,4.0,Card
+O02091,2026-04-09,C1396,Delivered,0.0,2.5,Nagad
+O02336,2026-05-31,C1587,Delivered,0.0,4.0,bKash
+O01805,2026-05-05,C1209,Delivered,0.1,5.0,bKash
+O01135,2025-10-21,C0748,Delivered,0.0,2.5,Card
+O02179,2026-06-24,C1458,Delivered,0.0,4.0,Card
+O02407,2026-06-18,C1658,Delivered,0.05,3.5,bKash
+O00115,2025-09-01,C0080,Delivered,0.1,4.0,Cash on Delivery
+O02084,2026-04-07,C1392,Delivered,0.0,5.0,bKash
+O02321,2026-05-26,C1572,Delivered,0.05,5.0,Card
+O00799,2025-09-07,C0520,Cancelled,0.05,4.0,bKash
+O02342,2026-06-01,C1593,Delivered,0.1,2.5,bKash
+O02243,2026-05-06,C1505,Delivered,0.0,2.5,Cash on Delivery
+O01527,2025-12-30,C1025,Delivered,0.15,3.5,bKash
+O01744,2026-02-08,C1169,Delivered,0.1,3.5,Card
+O00170,2025-02-23,C0118,Delivered,0.15,3.5,bKash
+O00827,2025-08-17,C0537,Delivered,0.1,3.5,Cash on Delivery
+O02327,2026-05-28,C1578,Delivered,0.1,5.0,Cash on Delivery
+O02020,2026-03-29,C1349,Delivered,0.0,4.0,Cash on Delivery
+O00523,2025-05-24,C0345,Delivered,0.0,4.0,bKash
+O00293,2025-03-25,C0195,Delivered,0.0,2.5,Nagad
+O00943,2025-09-06,C0614,Delivered,0.0,3.5,bKash
+O01005,2026-01-12,C0650,Delivered,0.0,4.0,Cash on Delivery
+O01294,2025-11-21,C0854,Delivered,0.3,2.5,bKash
+O00713,2025-07-21,C0462,Delivered,0.0,2.5,Cash on Delivery
+O00333,2025-04-02,C0221,Delivered,0.15,5.0,bKash
+O01757,2026-02-08,C1176,Delivered,0.0,5.0,Card
+O00337,2025-04-07,C0225,Delivered,0.15,2.5,bKash
+O01126,2025-10-19,C0741,Delivered,0.05,4.0,Cash on Delivery
+O00571,2025-12-06,C0372,Delivered,0.0,4.0,Nagad
+O00044,2025-01-16,C0035,Delivered,0.15,3.5,bKash
+O00811,2025-08-14,C0527,Delivered,0.0,5.0,bKash
+O00525,2025-06-16,C0346,Delivered,0.05,4.0,Card
+O00659,2025-09-19,C0428,Delivered,0.0,4.0,Cash on Delivery
+O01140,2025-10-21,C0752,Delivered,0.1,3.5,Nagad
+O00016,2025-04-04,C0011,Delivered,0.0,5.0,Nagad
+O00722,2025-07-23,C0468,Cancelled,0.05,2.5,bKash
+O01253,2025-11-14,C0827,Delivered,0.0,2.5,bKash
+O00746,2025-07-30,C0485,Delivered,0.0,3.5,bKash
+O01357,2025-12-12,C0908,Delivered,0.1,2.5,bKash
+O00471,2025-05-15,C0314,Delivered,0.15,3.5,Nagad
+O01240,2025-12-06,C0819,Delivered,0.0,2.5,Cash on Delivery
+O00338,2025-04-06,C0226,Delivered,0.0,4.0,Cash on Delivery
+O00567,2025-06-01,C0371,Delivered,0.0,4.0,bKash
+O01266,2025-11-18,C0835,Delivered,0.0,3.5,bKash
+O01365,2025-11-29,C0916,Delivered,0.3,5.0,Card
+O01921,2026-03-11,C1286,Delivered,0.15,5.0,bKash
+O01537,2026-03-16,C1030,Delivered,0.1,2.5,Card
+O01873,2026-03-03,C1253,Delivered,0.0,3.5,Card
+O02232,2026-05-27,C1498,Delivered,0.0,4.0,Card
+O00945,2025-09-05,C0615,Delivered,0.05,5.0,Card
+O00626,2025-08-07,C0406,Delivered,0.05,5.0,bKash
+O00053,2025-01-16,C0037,Delivered,0.0,5.0,Cash on Delivery
+O01570,2026-01-07,C1052,Delivered,0.1,2.5,Cash on Delivery
+O02416,2026-06-20,C1667,Delivered,0.0,5.0,Cash on Delivery
+O00196,2025-03-03,C0135,Delivered,0.1,3.5,Cash on Delivery
+O01871,2026-03-04,C1251,Delivered,0.0,2.5,Card
+O01163,2025-10-28,C0769,Delivered,0.05,2.5,Card
+O01858,2026-03-02,C1243,Delivered,0.0,3.5,bKash
+O00645,2025-07-01,C0420,Delivered,0.0,2.5,bKash
+O00066,2025-01-20,C0047,Delivered,0.05,2.5,Card
+O01654,2026-01-22,C1110,Delivered,0.05,2.5,Card
+O01382,2025-12-02,C0932,Delivered,0.0,2.5,Card
+O01981,2026-06-18,C1323,Delivered,0.05,4.0,Cash on Delivery
+O00399,2025-04-24,C0265,Delivered,0.1,2.5,bKash
+O01292,2026-01-06,C0852,Delivered,0.0,3.5,Nagad
+O00284,2025-03-21,C0190,Delivered,0.0,2.5,Nagad
+O01309,2025-11-23,C0867,Delivered,0.3,2.5,bKash
+O02427,2026-06-21,C1678,Delivered,0.0,2.5,bKash
+O01436,2025-12-14,C0967,Delivered,0.15,2.5,Card
+O02458,2026-06-30,C1711,Delivered,0.1,2.5,bKash
+O02078,2026-05-05,C1388,Delivered,0.05,4.0,bKash
+O01345,2025-11-28,C0899,Delivered,0.3,4.0,Card
+O00039,2025-01-15,C0032,Delivered,0.0,4.0,Cash on Delivery
+O01797,2026-02-17,C1203,Delivered,0.0,4.0,bKash
+O02096,2026-04-07,C1399,Delivered,0.15,5.0,Card
+O00128,2025-04-07,C0088,Delivered,0.0,4.0,Cash on Delivery
+O00307,2025-08-13,C0202,Delivered,0.0,5.0,bKash
+O01529,2026-03-20,C1025,Delivered,0.0,2.5,bKash
+O02381,2026-06-13,C1632,Delivered,0.0,2.5,bKash
+O00941,2025-09-05,C0613,Cancelled,0.0,3.5,bKash
+O00739,2025-07-30,C0480,Delivered,0.15,3.5,bKash
+O02120,2026-04-12,C1417,Delivered,0.0,3.5,bKash
+O01081,2025-10-06,C0709,Delivered,0.0,2.5,Card
+O01979,2026-04-26,C1322,Delivered,0.15,5.0,Cash on Delivery
+O00689,2025-07-14,C0446,Delivered,0.1,3.5,Cash on Delivery
+O00118,2025-02-10,C0081,Delivered,0.0,4.0,Cash on Delivery
+O00769,2025-09-21,C0499,Delivered,0.0,2.5,bKash
+O01763,2026-02-10,C1179,Delivered,0.0,4.0,Card
+O02288,2026-06-24,C1544,Delivered,0.0,4.0,bKash
+O02340,2026-06-01,C1591,Delivered,0.15,3.5,bKash
+O01117,2025-12-20,C0735,Delivered,0.0,3.5,Card
+O01041,2025-09-27,C0678,Delivered,0.0,5.0,bKash
+O02191,2026-04-25,C1468,Delivered,0.0,3.5,Cash on Delivery
+O00227,2025-05-02,C0157,Delivered,0.0,5.0,Card
+O01115,2025-10-17,C0734,Delivered,0.0,5.0,bKash
+O00795,2025-12-03,C0517,Delivered,0.1,5.0,Cash on Delivery
+O02007,2026-05-15,C1340,Delivered,0.0,5.0,Cash on Delivery
+O00553,2025-06-18,C0361,Delivered,0.05,2.5,bKash
+O01255,2026-01-03,C0828,Delivered,0.05,3.5,Nagad
+O01611,2026-04-27,C1078,Delivered,0.05,2.5,Card
+O01750,2026-06-21,C1172,Delivered,0.0,4.0,Nagad
+O02225,2026-06-09,C1494,Delivered,0.0,2.5,Nagad
+O01949,2026-03-13,C1303,Delivered,0.0,2.5,bKash
+O00474,2025-05-16,C0316,Delivered,0.1,2.5,Card
+O02013,2026-03-27,C1345,Delivered,0.0,4.0,Card
+O00492,2025-07-11,C0324,Delivered,0.15,4.0,bKash
+O00581,2025-06-07,C0380,Delivered,0.0,5.0,Card
+O01849,2026-04-15,C1237,Delivered,0.0,3.5,bKash
+O00120,2025-02-09,C0082,Delivered,0.05,4.0,Cash on Delivery
+O00917,2025-09-01,C0597,Delivered,0.0,4.0,Card
+O00582,2025-07-31,C0380,Delivered,0.0,3.5,Card
+O01627,2026-01-19,C1088,Delivered,0.05,4.0,Cash on Delivery
+O02079,2026-06-07,C1388,Delivered,0.0,5.0,bKash
+O00982,2025-09-13,C0638,Delivered,0.1,3.5,Card
+O02462,2026-06-30,C1718,Delivered,0.0,5.0,Nagad
+O00276,2025-05-24,C0185,Delivered,0.1,4.0,bKash
+O02195,2026-04-26,C1472,Delivered,0.0,5.0,Card
+O01918,2026-04-15,C1283,Delivered,0.05,5.0,bKash
+O01683,2026-03-27,C1128,Delivered,0.1,3.5,Cash on Delivery
+O02367,2026-06-08,C1618,Delivered,0.0,2.5,Nagad
+O01630,2026-01-21,C1091,Delivered,0.0,5.0,bKash
+O01280,2025-11-20,C0843,Delivered,0.3,3.5,Cash on Delivery
+O01761,2026-02-09,C1178,Delivered,0.1,5.0,Cash on Delivery
+O00805,2025-08-12,C0522,Delivered,0.15,5.0,Cash on Delivery
+O00493,2025-05-19,C0325,Delivered,0.0,2.5,Cash on Delivery
+O01957,2026-05-24,C1308,Cancelled,0.0,4.0,Nagad
+O00697,2025-09-22,C0452,Delivered,0.0,3.5,Card
+O02168,2026-04-23,C1452,Delivered,0.0,4.0,Card
+O00905,2026-01-16,C0587,Delivered,0.0,3.5,Card
+O00166,2025-02-23,C0115,Delivered,0.1,3.5,Cash on Delivery
+O00468,2025-06-24,C0312,Delivered,0.0,2.5,Cash on Delivery
+O02197,2026-04-28,C1474,Delivered,0.1,5.0,bKash
+O00967,2025-09-09,C0626,Delivered,0.0,2.5,Cash on Delivery
+O02253,2026-05-10,C1515,Delivered,0.1,3.5,bKash
+O02099,2026-04-09,C1401,Delivered,0.1,4.0,Card
+O00247,2025-03-17,C0167,Delivered,0.0,3.5,Card
+O01947,2026-03-14,C1301,Delivered,0.0,3.5,Cash on Delivery
+O02139,2026-04-16,C1430,Delivered,0.0,5.0,Cash on Delivery
+O00155,2025-02-21,C0109,Delivered,0.05,3.5,bKash
+O02111,2026-04-10,C1410,Delivered,0.15,4.0,bKash
+O00592,2025-06-11,C0388,Delivered,0.0,4.0,Cash on Delivery
+O00548,2025-08-15,C0359,Delivered,0.05,2.5,Card
+O00957,2025-10-23,C0619,Delivered,0.15,2.5,Nagad
+O01191,2026-01-13,C0787,Delivered,0.0,4.0,bKash
+O02065,2026-04-05,C1381,Cancelled,0.05,3.5,Card
+O00004,2025-01-03,C0004,Cancelled,0.1,4.0,Card
+O02023,2026-04-26,C1350,Delivered,0.15,3.5,Card
+O01859,2026-03-01,C1244,Delivered,0.1,3.5,Card
+O00028,2025-01-10,C0022,Delivered,0.1,2.5,bKash
+O01622,2026-01-17,C1085,Delivered,0.05,4.0,bKash
+O00119,2025-03-15,C0081,Delivered,0.05,5.0,bKash
+O01468,2025-12-20,C0989,Delivered,0.1,5.0,bKash
+O00003,2025-01-02,C0003,Delivered,0.05,4.0,Cash on Delivery
+O02437,2026-06-24,C1688,Delivered,0.0,3.5,bKash
+O01073,2025-12-10,C0703,Delivered,0.15,5.0,Nagad
+O01702,2026-06-06,C1139,Delivered,0.15,4.0,bKash
+O01985,2026-03-21,C1326,Delivered,0.05,4.0,bKash
+O00412,2025-04-29,C0276,Delivered,0.15,2.5,Card
+O00550,2025-05-30,C0360,Delivered,0.15,2.5,Nagad
+O01996,2026-05-17,C1332,Delivered,0.0,5.0,bKash
+O00835,2025-10-19,C0543,Delivered,0.0,2.5,bKash
+O00518,2025-05-23,C0341,Delivered,0.0,3.5,Card
+O01716,2026-01-30,C1149,Delivered,0.15,2.5,Nagad
+O00370,2025-04-16,C0246,Delivered,0.15,5.0,bKash
+O00838,2025-08-20,C0545,Delivered,0.0,2.5,Nagad
+O00250,2025-04-26,C0169,Delivered,0.0,2.5,bKash
+O00386,2025-08-11,C0255,Delivered,0.0,4.0,Card
+O01901,2026-03-06,C1272,Delivered,0.0,5.0,Cash on Delivery
+O01425,2025-12-09,C0958,Delivered,0.05,5.0,Card
+O00533,2025-05-24,C0350,Delivered,0.0,4.0,Card
+O01558,2026-03-23,C1044,Cancelled,0.0,3.5,bKash
+O01062,2025-09-29,C0694,Delivered,0.0,3.5,bKash
+O00272,2025-05-12,C0182,Delivered,0.05,5.0,Card
+O00344,2025-06-04,C0231,Delivered,0.05,4.0,bKash
+O00278,2025-03-23,C0187,Delivered,0.1,5.0,Card
+O00466,2025-05-13,C0311,Delivered,0.1,5.0,Nagad
+O00959,2025-09-07,C0621,Delivered,0.0,2.5,Card
+O00306,2025-05-25,C0202,Delivered,0.15,3.5,Card
+O00953,2025-09-06,C0618,Delivered,0.0,4.0,Card
+O00280,2025-03-23,C0188,Delivered,0.05,3.5,bKash
+O00735,2025-07-28,C0477,Delivered,0.1,2.5,bKash
+O01069,2025-09-30,C0700,Delivered,0.05,3.5,bKash
+O00368,2025-04-16,C0245,Delivered,0.15,2.5,Card
+O01835,2026-02-24,C1228,Delivered,0.0,5.0,bKash
+O00760,2025-08-04,C0495,Delivered,0.0,4.0,Cash on Delivery
+O02251,2026-05-09,C1513,Cancelled,0.15,5.0,bKash
+O00758,2025-10-08,C0493,Cancelled,0.0,2.5,bKash
+O01541,2026-01-01,C1033,Delivered,0.0,3.5,Nagad
+O00836,2025-11-11,C0543,Delivered,0.0,3.5,bKash
+O00787,2025-08-10,C0514,Delivered,0.0,2.5,bKash
+O00086,2025-01-30,C0063,Delivered,0.05,3.5,Nagad
+O00845,2025-08-21,C0547,Delivered,0.05,2.5,Card
+O01303,2025-11-23,C0862,Delivered,0.3,2.5,Cash on Delivery
+O01525,2026-01-01,C1023,Delivered,0.1,3.5,bKash
+O02376,2026-06-10,C1627,Delivered,0.0,4.0,Card
+O00117,2025-10-25,C0080,Delivered,0.15,2.5,bKash
+O01755,2026-06-19,C1174,Delivered,0.15,3.5,Cash on Delivery
+O00035,2025-01-12,C0028,Delivered,0.0,2.5,Card
+O00353,2025-04-12,C0237,Delivered,0.0,3.5,Card
+O00954,2025-12-04,C0618,Delivered,0.05,4.0,Cash on Delivery
+O01333,2025-11-25,C0889,Delivered,0.3,3.5,bKash
+O00995,2026-04-02,C0644,Delivered,0.0,3.5,bKash
+O02231,2026-05-04,C1498,Delivered,0.1,2.5,bKash
+O01521,2026-01-01,C1022,Delivered,0.0,4.0,bKash
+O01988,2026-03-22,C1328,Delivered,0.0,2.5,bKash
+O00008,2025-01-04,C0006,Delivered,0.05,3.5,bKash
+O02014,2026-04-12,C1345,Delivered,0.0,4.0,bKash
+O02320,2026-05-27,C1571,Delivered,0.15,4.0,Card
+O02380,2026-06-13,C1631,Delivered,0.15,5.0,bKash
+O02383,2026-06-12,C1634,Delivered,0.0,4.0,bKash
+O00485,2025-05-17,C0322,Delivered,0.05,3.5,bKash
+O01070,2025-10-02,C0701,Delivered,0.0,4.0,Card
+O01156,2025-10-25,C0763,Delivered,0.0,4.0,Card
+O00172,2025-02-23,C0119,Delivered,0.0,4.0,bKash
+O00997,2025-10-28,C0645,Delivered,0.0,4.0,Card
+O02071,2026-04-06,C1384,Delivered,0.05,2.5,Cash on Delivery
+O02183,2026-04-24,C1461,Delivered,0.0,5.0,Cash on Delivery
+O02257,2026-05-10,C1518,Delivered,0.0,3.5,Nagad
+O00236,2025-03-15,C0162,Delivered,0.0,4.0,bKash
+O01647,2026-01-20,C1105,Delivered,0.0,2.5,Card
+O02175,2026-04-21,C1456,Delivered,0.15,4.0,Cash on Delivery
+O00837,2025-08-20,C0544,Delivered,0.05,5.0,Nagad
+O01942,2026-04-22,C1299,Delivered,0.1,4.0,Nagad
+O01811,2026-02-19,C1212,Cancelled,0.05,4.0,bKash
+O00539,2025-08-24,C0353,Delivered,0.0,5.0,Card
+O00847,2025-08-20,C0549,Delivered,0.1,5.0,Nagad
+O01585,2026-01-10,C1062,Delivered,0.0,4.0,Cash on Delivery
+O01801,2026-02-16,C1207,Delivered,0.0,2.5,Nagad
+O01178,2025-11-02,C0781,Delivered,0.15,4.0,Nagad
+O00195,2025-05-24,C0134,Cancelled,0.15,3.5,Cash on Delivery
+O00218,2025-03-12,C0152,Delivered,0.05,3.5,Card
+O01688,2026-01-29,C1131,Delivered,0.0,5.0,Card
+O02148,2026-04-18,C1437,Delivered,0.0,4.0,Nagad
+O02245,2026-05-06,C1507,Delivered,0.05,4.0,Nagad
+O02165,2026-04-21,C1450,Delivered,0.15,2.5,Cash on Delivery
+O02248,2026-05-07,C1510,Delivered,0.0,2.5,Card
+O02167,2026-04-22,C1451,Delivered,0.15,2.5,Cash on Delivery
+O00764,2025-10-04,C0497,Delivered,0.0,4.0,Cash on Delivery
+O00574,2025-06-05,C0375,Cancelled,0.15,5.0,Card
+O01935,2026-03-14,C1297,Delivered,0.15,5.0,Card
+O00085,2025-01-28,C0062,Cancelled,0.05,5.0,bKash
+O01959,2026-04-06,C1309,Delivered,0.0,2.5,Cash on Delivery
+O01545,2026-01-04,C1037,Delivered,0.1,3.5,Cash on Delivery
+O01743,2026-02-06,C1168,Delivered,0.15,3.5,Card
+O00872,2025-08-24,C0566,Cancelled,0.05,4.0,Cash on Delivery
+O00387,2025-10-03,C0255,Delivered,0.0,4.0,Cash on Delivery
+O01443,2025-12-14,C0973,Delivered,0.05,5.0,Cash on Delivery
+O01067,2025-10-01,C0699,Cancelled,0.1,2.5,Card
+O01051,2025-09-27,C0686,Delivered,0.05,3.5,Card
+O00198,2025-03-04,C0136,Delivered,0.0,5.0,Card
+O01870,2026-06-08,C1250,Delivered,0.15,2.5,bKash
+O00889,2025-10-18,C0577,Delivered,0.0,2.5,Cash on Delivery
+O01872,2026-03-04,C1252,Delivered,0.1,2.5,Card
+O02319,2026-05-27,C9999,Cancelled,0.1,2.5,bKash
+O00678,2025-09-10,C0439,Delivered,0.0,3.5,Card
+O02206,2026-04-29,C1482,Delivered,0.0,4.0,Card
+O01336,2025-11-25,C0891,Delivered,0.3,5.0,Card
+O02405,2026-06-18,C1656,Delivered,0.0,5.0,bKash
+O00109,2025-06-22,C0078,Delivered,0.15,4.0,Cash on Delivery
+O00633,2025-06-23,C0412,Delivered,0.15,2.5,Cash on Delivery
+O01229,2026-02-05,C0812,Delivered,0.0,2.5,Card
+O01735,2026-02-06,C1161,Delivered,0.0,5.0,Card
+O01698,2026-01-30,C1138,Delivered,0.0,4.0,bKash
+O02211,2026-06-28,C1484,Delivered,0.15,5.0,bKash
+O00886,2025-08-24,C0576,Delivered,0.0,2.5,Card
+O02370,2026-06-07,C1621,Delivered,0.15,4.0,Nagad
+O01886,2026-04-09,C1259,Delivered,0.0,4.0,Cash on Delivery
+O01978,2026-03-21,C1322,Delivered,0.05,5.0,Cash on Delivery
+O01264,2025-12-10,C0833,Delivered,0.0,2.5,Cash on Delivery
+O00142,2025-02-16,C0100,Delivered,0.0,4.0,Card
+O01793,2026-02-15,C1200,Delivered,0.0,4.0,Card
+O00733,2025-07-27,C0476,Delivered,0.05,2.5,Cash on Delivery
+O00816,2025-08-15,C0530,Delivered,0.1,4.0,Cash on Delivery
+O00067,2025-03-22,C0047,Delivered,0.0,5.0,Card
+O00082,2025-01-28,C0060,Delivered,0.05,5.0,Card
+O01172,2025-10-31,C0777,Delivered,0.15,4.0,Cash on Delivery
+O00156,2025-04-05,C0109,Delivered,0.05,5.0,bKash
+O01645,2026-01-21,C1103,Delivered,0.0,2.5,bKash
+O01339,2025-11-26,C0893,Delivered,0.3,3.5,bKash
+O01396,2025-12-30,C0941,Delivered,0.15,5.0,Card
+O01802,2026-02-16,C1208,Delivered,0.15,4.0,Cash on Delivery
+O02036,2026-03-31,C1361,Delivered,0.1,5.0,Cash on Delivery
+O00512,2025-08-15,C0336,Delivered,0.1,3.5,bKash
+O01565,2026-02-25,C1047,Delivered,0.0,2.5,bKash
+O02196,2026-04-28,C1473,Delivered,0.15,5.0,bKash
+O02072,2026-06-15,C1384,Delivered,0.0,2.5,Card
+O00184,2025-03-01,C0127,Delivered,0.15,5.0,Nagad
+O00611,2025-08-29,C0398,Delivered,0.0,3.5,Cash on Delivery
+O00618,2025-07-17,C0401,Delivered,0.0,2.5,bKash
+O00875,2025-08-24,C0569,Delivered,0.1,5.0,bKash
+O00881,2025-11-16,C0572,Delivered,0.05,5.0,bKash
+O01109,2025-10-12,C0729,Delivered,0.0,2.5,Cash on Delivery
+O00205,2025-03-06,C0142,Delivered,0.1,5.0,Cash on Delivery
+O01299,2025-11-21,C0859,Delivered,0.3,2.5,bKash
+O00319,2025-03-31,C0214,Cancelled,0.0,2.5,Card
+O02337,2026-05-31,C1588,Delivered,0.0,4.0,bKash
+O01651,2026-01-22,C1107,Delivered,0.1,3.5,Cash on Delivery
+O00161,2025-02-20,C0111,Delivered,0.1,3.5,Card
+O01626,2026-04-05,C1087,Delivered,0.1,4.0,Card
+O00362,2025-11-11,C0240,Delivered,0.0,2.5,Cash on Delivery
+O01564,2026-01-08,C1047,Delivered,0.0,4.0,Cash on Delivery
+O01293,2025-11-20,C0853,Delivered,0.3,2.5,Cash on Delivery
+O00095,2025-03-25,C0071,Delivered,0.15,3.5,Cash on Delivery
+O02227,2026-06-07,C1495,Delivered,0.05,2.5,Cash on Delivery
+O02422,2026-06-21,C1673,Delivered,0.15,5.0,Cash on Delivery
+O02160,2026-04-20,C1446,Delivered,0.15,5.0,bKash
+O00334,2025-04-05,C0222,Delivered,0.0,2.5,bKash
+O01305,2025-11-22,C0864,Delivered,0.3,4.0,Cash on Delivery
+O00459,2025-05-11,C0305,Delivered,0.05,5.0,bKash
+O01853,2026-02-28,C1239,Delivered,0.1,4.0,Cash on Delivery
+O02085,2026-04-08,C1393,Delivered,0.05,4.0,Card
+O01929,2026-04-21,C1291,Delivered,0.15,5.0,bKash
+O00509,2025-06-22,C0335,Delivered,0.1,5.0,Card
+O01158,2025-12-20,C0764,Delivered,0.1,2.5,Card
+O00448,2025-05-09,C0298,Delivered,0.0,2.5,bKash
+O00447,2025-05-08,C0297,Delivered,0.15,5.0,bKash
+O00975,2025-09-13,C0632,Delivered,0.1,2.5,Cash on Delivery
+O00779,2025-08-09,C0507,Delivered,0.0,3.5,bKash
+O02123,2026-05-14,C1418,Delivered,0.0,3.5,Card
+O02347,2026-06-03,C1598,Delivered,0.05,5.0,bKash
+O00347,2025-04-13,C0234,Delivered,0.1,5.0,bKash
+O01477,2026-02-13,C0995,Delivered,0.0,3.5,Cash on Delivery
+O01470,2025-12-22,C0991,Delivered,0.0,4.0,Cash on Delivery
+O00340,2025-04-08,C0228,Delivered,0.0,5.0,bKash
+O02153,2026-04-19,C1440,Delivered,0.1,3.5,Cash on Delivery
+O01019,2025-09-20,C0660,Delivered,0.0,4.0,Nagad
+O00974,2025-09-10,C0631,Delivered,0.05,2.5,Card
+O01039,2025-09-26,C0677,Delivered,0.1,4.0,Card
+O00551,2025-07-12,C0360,Delivered,0.15,2.5,bKash
+O01420,2026-02-27,C0954,Cancelled,0.15,4.0,Cash on Delivery
+O02455,2026-06-28,C1706,Delivered,0.0,3.5,Cash on Delivery
+O01904,2026-03-09,C1274,Delivered,0.0,5.0,Cash on Delivery
+O00888,2025-08-26,C0577,Delivered,0.0,3.5,bKash
+O00401,2025-04-25,C0267,Delivered,0.15,4.0,Card
+O01720,2026-02-02,C1152,Delivered,0.0,4.0,bKash
+O02210,2026-04-29,C1484,Cancelled,0.0,4.0,bKash
+O01222,2025-11-11,C0807,Delivered,0.0,2.5,bKash
+O00992,2025-09-15,C0644,Delivered,0.05,3.5,bKash
+O01966,2026-05-03,C1313,Delivered,0.0,4.0,Card
+O01643,2026-01-21,C1102,Delivered,0.1,3.5,Card
+O00944,2025-11-05,C0614,Delivered,0.15,3.5,bKash
+O00451,2025-05-25,C0300,Delivered,0.05,3.5,Card
+O01704,2026-01-31,C1141,Delivered,0.05,4.0,bKash
+O02028,2026-03-30,C1355,Delivered,0.05,5.0,bKash
+O02172,2026-04-23,C1453,Delivered,0.0,3.5,Card
+O00394,2025-04-24,C0262,Delivered,0.05,5.0,Card
+O02396,2026-06-17,C1647,Delivered,0.0,4.0,Cash on Delivery
+O02306,2026-05-25,C1559,Delivered,0.0,3.5,Nagad
+O00676,2025-07-08,C0438,Cancelled,0.0,3.5,Cash on Delivery
+O00824,2025-10-14,C0534,Delivered,0.0,3.5,Cash on Delivery
+O01792,2026-04-26,C1199,Delivered,0.0,4.0,bKash
+O00302,2025-03-26,C0200,Delivered,0.1,3.5,Card
+O01679,2026-01-26,C1126,Delivered,0.05,3.5,Cash on Delivery
+O00480,2025-10-21,C0318,Delivered,0.0,5.0,bKash
+O01102,2025-11-08,C0725,Delivered,0.15,2.5,Cash on Delivery
+O00561,2025-06-01,C0367,Delivered,0.0,5.0,Card
+O01707,2026-01-29,C1144,Delivered,0.05,2.5,bKash
+O01206,2025-11-05,C0795,Delivered,0.1,2.5,bKash
+O01888,2026-03-04,C1261,Delivered,0.05,5.0,Nagad
+O00773,2025-10-12,C0502,Delivered,0.15,3.5,Cash on Delivery
+O01973,2026-03-19,C1319,Delivered,0.15,4.0,Cash on Delivery
+O00842,2025-12-19,C0546,Delivered,0.05,2.5,Card
+O02229,2026-05-25,C1496,Delivered,0.0,5.0,Card
+O02012,2026-05-12,C1344,Delivered,0.0,4.0,Nagad
+O02080,2026-04-06,C1389,Delivered,0.0,3.5,bKash
+O01689,2026-04-16,C1131,Delivered,0.0,2.5,Cash on Delivery
+O00041,2025-01-15,C0033,Delivered,0.1,2.5,bKash
+O01940,2026-03-14,C1299,Delivered,0.0,3.5,Cash on Delivery
+O01582,2026-01-09,C1060,Delivered,0.1,3.5,Cash on Delivery
+O02190,2026-04-26,C1467,Delivered,0.0,2.5,Cash on Delivery
+O00663,2025-07-30,C0431,Delivered,0.1,4.0,bKash
+O01015,2025-11-24,C0657,Delivered,0.3,5.0,Cash on Delivery
+O00584,2025-06-08,C0382,Delivered,0.0,3.5,bKash
+O01765,2026-02-09,C1181,Delivered,0.05,5.0,Card
+O01633,2026-01-20,C1094,Delivered,0.1,4.0,Nagad
+O00359,2025-04-15,C0240,Delivered,0.0,4.0,bKash
+O00853,2025-08-21,C0554,Delivered,0.0,4.0,bKash
+O00105,2025-06-18,C0077,Delivered,0.15,5.0,Cash on Delivery
+O00235,2025-03-12,C0161,Delivered,0.0,3.5,Nagad
+O00695,2025-07-16,C0452,Delivered,0.1,2.5,Cash on Delivery
+O00194,2025-03-03,C0134,Delivered,0.0,2.5,bKash
+O00617,2025-06-19,C0401,Delivered,0.0,5.0,Nagad
+O01733,2026-04-12,C1159,Delivered,0.0,4.0,Card
+O01049,2025-09-26,C0684,Delivered,0.0,5.0,Cash on Delivery
+O01056,2025-12-03,C0689,Delivered,0.0,2.5,Nagad
+O01310,2025-11-23,C0868,Delivered,0.3,4.0,bKash
+O01764,2026-02-08,C1180,Delivered,0.0,5.0,Card
+O00634,2025-08-08,C0412,Delivered,0.05,2.5,Cash on Delivery
+O00385,2025-05-20,C0255,Delivered,0.1,3.5,bKash
+O00850,2025-10-25,C0551,Cancelled,0.0,2.5,Cash on Delivery
+O01788,2026-02-14,C1196,Delivered,0.0,4.0,Nagad
+O00714,2025-08-13,C0462,Delivered,0.15,4.0,bKash
+O02258,2026-05-11,C1519,Delivered,0.15,5.0,Card
+O00090,2025-02-02,C0067,Delivered,0.1,2.5,Card
+O01781,2026-02-14,C1192,Delivered,0.0,2.5,Cash on Delivery
+O00308,2025-03-29,C0203,Delivered,0.1,5.0,bKash
+O02406,2026-06-16,C1657,Delivered,0.0,5.0,bKash
+O00743,2025-09-29,C0482,Delivered,0.0,4.0,Card
+O00922,2025-09-02,C0600,Delivered,0.1,4.0,Card
+O01993,2026-03-23,C1331,Delivered,0.0,2.5,bKash
+O00384,2025-04-20,C0255,Delivered,0.15,4.0,bKash
+O00691,2025-07-14,C0448,Delivered,0.0,4.0,Card
+O00709,2025-10-07,C0458,Delivered,0.0,2.5,Cash on Delivery
+O00403,2025-06-06,C0268,Delivered,0.15,5.0,Cash on Delivery
+O01581,2026-01-09,C1059,Delivered,0.0,5.0,Card
+O01810,2026-06-07,C1211,Delivered,0.1,2.5,Card
+O00999,2025-09-16,C0646,Delivered,0.0,5.0,Cash on Delivery
+O01462,2025-12-19,C0985,Delivered,0.15,5.0,bKash
+O01551,2026-01-05,C1040,Delivered,0.1,5.0,bKash
+O00404,2025-08-12,C0268,Delivered,0.0,3.5,Nagad
+O02215,2026-04-30,C1487,Delivered,0.15,5.0,Nagad
+O01083,2025-12-13,C0710,Delivered,0.15,4.0,Cash on Delivery
+O02284,2026-05-18,C1541,Delivered,0.0,4.0,bKash
+O00442,2025-08-01,C0292,Delivered,0.15,2.5,Nagad
+O02003,2026-05-11,C1337,Delivered,0.05,2.5,bKash
+O01567,2026-01-06,C1049,Delivered,0.0,2.5,Nagad
+O00559,2025-05-31,C0365,Delivered,0.0,5.0,Cash on Delivery
+O00861,2026-03-07,C0558,Delivered,0.05,5.0,Card
+O01134,2025-10-21,C0747,Delivered,0.0,4.0,Cash on Delivery
+O02350,2026-06-04,C1601,Delivered,0.15,5.0,Nagad
+O01968,2026-03-18,C1314,Delivered,0.0,3.5,bKash
+O00087,2025-01-29,C0064,Cancelled,0.1,3.5,Card
+O01550,2026-03-30,C1039,Delivered,0.05,4.0,Nagad
+O02317,2026-05-27,C1568,Cancelled,0.1,4.0,bKash
+O00463,2025-06-11,C0308,Delivered,0.15,3.5,bKash
+O00815,2025-10-19,C0529,Delivered,0.05,3.5,Nagad
+O00854,2025-08-22,C0555,Delivered,0.0,4.0,bKash
+O01006,2025-09-17,C0651,Delivered,0.15,5.0,Cash on Delivery
+O01603,2026-01-14,C1074,Delivered,0.0,5.0,bKash
+O00189,2025-03-01,C0131,Delivered,0.15,5.0,bKash
+O01439,2026-02-07,C0969,Delivered,0.0,4.0,bKash
+O00614,2025-06-19,C0399,Delivered,0.1,3.5,Nagad
+O00437,2025-07-16,C0290,Delivered,0.0,3.5,bKash
+O02395,2026-06-14,C1646,Delivered,0.0,4.0,Nagad
+O01221,2025-11-10,C0806,Delivered,0.1,2.5,bKash
+O00820,2025-11-13,C0532,Delivered,0.0,5.0,Cash on Delivery
+O01939,2026-05-18,C1298,Delivered,0.15,2.5,bKash
+O00776,2025-08-08,C0505,Delivered,0.15,2.5,Card
+O02059,2026-04-04,C1376,Delivered,0.0,4.0,Cash on Delivery
+O01340,2025-11-26,C0894,Delivered,0.3,4.0,Card
+O00487,2025-08-27,C0322,Delivered,0.0,3.5,bKash
+O02181,2026-04-24,C1460,Delivered,0.0,3.5,Nagad
+O00793,2025-08-09,C0517,Delivered,0.0,2.5,bKash
+O02343,2026-06-02,C1594,Cancelled,0.0,2.5,bKash
+O00583,2025-06-08,C0381,Delivered,0.0,2.5,Card
+O00578,2025-07-12,C0377,Cancelled,0.0,5.0,Card
+O00748,2025-08-02,C0486,Delivered,0.0,2.5,Card
+O01263,2025-11-14,C0833,Delivered,0.0,4.0,bKash
+O01649,2026-03-15,C1106,Delivered,0.1,4.0,Cash on Delivery
+O02046,2026-06-19,C1367,Delivered,0.0,4.0,Card
+O01954,2026-04-06,C1306,Delivered,0.1,5.0,bKash
+O01224,2025-11-09,C0809,Delivered,0.0,3.5,bKash
+O01257,2026-05-30,C0828,Delivered,0.15,5.0,bKash
+O01934,2026-03-13,C1296,Delivered,0.0,4.0,Nagad
+O00580,2025-06-05,C0379,Delivered,0.0,5.0,bKash
+O00803,2025-11-30,C0521,Delivered,0.3,3.5,bKash
+O00259,2025-03-21,C0177,Delivered,0.1,4.0,bKash
+O00458,2025-05-08,C0304,Delivered,0.0,2.5,bKash
+O00725,2025-07-25,C0469,Delivered,0.0,2.5,Card
+O00116,2025-10-04,C0080,Delivered,0.0,3.5,bKash
+O01315,2026-02-03,C0872,Delivered,0.0,4.0,bKash
+O01104,2025-10-13,C0726,Delivered,0.0,4.0,Card
+O02305,2026-05-25,C1558,Delivered,0.0,5.0,Card
+O02117,2026-04-12,C1414,Delivered,0.0,5.0,Cash on Delivery
+O00547,2025-05-28,C0359,Delivered,0.0,4.0,bKash
+O02200,2026-04-29,C1477,Delivered,0.0,4.0,bKash
+O01685,2026-01-26,C1129,Delivered,0.0,5.0,bKash
+O00418,2025-05-01,C0278,Delivered,0.0,5.0,Nagad
+O00047,2025-06-17,C0035,Delivered,0.0,4.0,Cash on Delivery
+O00310,2025-03-28,C0205,Delivered,0.15,4.0,bKash
+O00878,2025-08-23,C0571,Delivered,0.15,3.5,bKash
+O01522,2026-02-13,C1022,Delivered,0.0,4.0,bKash
+O02032,2026-03-29,C1358,Delivered,0.05,3.5,bKash
+O01593,2026-01-13,C1066,Delivered,0.0,5.0,Card
+O01284,2025-11-18,C0847,Delivered,0.15,3.5,Cash on Delivery
+O01703,2026-01-31,C1140,Cancelled,0.05,4.0,bKash
+O00408,2025-04-26,C0272,Delivered,0.05,2.5,bKash
+O00806,2025-09-06,C0522,Delivered,0.0,4.0,bKash
+O01874,2026-05-19,C1253,Delivered,0.0,4.0,Card
+O00625,2025-06-22,C0406,Delivered,0.0,2.5,bKash
+O02387,2026-06-13,C1638,Delivered,0.0,2.5,Nagad
+O01288,2025-12-28,C0850,Delivered,0.05,4.0,Cash on Delivery
+O01546,2026-01-03,C1038,Delivered,0.0,3.5,bKash
+O00193,2025-03-01,C0133,Delivered,0.0,3.5,bKash
+O01432,2025-12-13,C0964,Delivered,0.1,4.0,Nagad
+O00122,2025-04-18,C0083,Delivered,0.05,5.0,bKash
+O00312,2025-03-30,C0207,Cancelled,0.0,3.5,Nagad
+O01082,2025-10-08,C0710,Delivered,0.0,4.0,Nagad
+O01043,2025-12-20,C0678,Delivered,0.0,2.5,Card
+O02264,2026-05-13,C1525,Delivered,0.05,2.5,Cash on Delivery
+O00883,2025-08-26,C0574,Delivered,0.15,5.0,Cash on Delivery
+O01936,2026-05-02,C1297,Delivered,0.0,4.0,Card
+O02358,2026-06-06,C1609,Delivered,0.05,5.0,Card
+O01268,2026-02-03,C0836,Delivered,0.0,5.0,bKash
+O01355,2025-11-28,C0907,Delivered,0.3,3.5,Card
+O00018,2025-01-07,C0013,Delivered,0.05,3.5,Nagad
+O00354,2025-04-13,C0238,Delivered,0.05,3.5,bKash
+O01876,2026-04-15,C1254,Delivered,0.0,2.5,Card
+O00863,2025-08-22,C0559,Delivered,0.0,3.5,bKash
+O02058,2026-05-13,C1375,Delivered,0.1,2.5,bKash
+O00060,2025-01-20,C0043,Delivered,0.1,3.5,Nagad
+O01642,2026-03-17,C1101,Delivered,0.0,3.5,bKash
+O01715,2026-01-31,C1148,Delivered,0.0,5.0,bKash
+O01095,2025-10-10,C0720,Delivered,0.0,5.0,Nagad
+O01659,2026-01-24,C1113,Delivered,0.05,5.0,bKash
+O00422,2025-05-03,C0282,Delivered,0.0,2.5,bKash
+O01818,2026-02-22,C1218,Delivered,0.1,2.5,bKash
+O02375,2026-06-11,C1626,Delivered,0.15,3.5,bKash
+O01318,2025-11-24,C0874,Delivered,0.3,3.5,Card
+O00372,2025-04-16,C0247,Delivered,0.05,4.0,bKash
+O00389,2025-04-22,C0257,Delivered,0.05,3.5,bKash
+O02060,2026-04-04,C1377,Cancelled,0.15,4.0,Card
+O00420,2025-04-30,C0280,Delivered,0.0,2.5,Card
+O01232,2025-11-11,C0815,Delivered,0.05,2.5,bKash
+O00938,2025-09-05,C0611,Cancelled,0.0,5.0,Cash on Delivery
+O00494,2025-08-06,C0325,Delivered,0.15,3.5,Cash on Delivery
+O02362,2026-06-06,C1613,Delivered,0.0,3.5,bKash
+O01618,2026-01-16,C1082,Delivered,0.0,3.5,Card
+O00428,2025-05-03,C0286,Delivered,0.15,3.5,Cash on Delivery
+O01782,2026-03-15,C1192,Cancelled,0.1,5.0,Cash on Delivery
+O00305,2025-03-28,C0202,Delivered,0.0,3.5,bKash
+O01556,2026-01-07,C1044,Delivered,0.1,4.0,Cash on Delivery
+O01576,2026-01-08,C1055,Delivered,0.0,2.5,Cash on Delivery
+O00716,2025-08-23,C0463,Delivered,0.1,2.5,Card
+O00981,2025-09-12,C0637,Delivered,0.1,3.5,bKash
+O00920,2025-09-02,C0598,Delivered,0.0,2.5,Card
+O00088,2025-02-02,C0065,Delivered,0.0,5.0,Card
+O02115,2026-04-11,C1413,Delivered,0.1,3.5,Card
+O00513,2025-10-16,C0336,Delivered,0.1,2.5,Cash on Delivery
+O00110,2025-02-07,C0079,Cancelled,0.0,4.0,bKash
+O00680,2025-07-10,C0441,Delivered,0.1,2.5,Card
+O01297,2025-11-22,C0857,Delivered,0.3,2.5,bKash
+O01598,2026-01-13,C1070,Delivered,0.1,3.5,Card
+O02459,2026-06-30,C1714,Delivered,0.0,2.5,Card
+O02263,2026-05-12,C1524,Delivered,0.0,3.5,Cash on Delivery
+O01326,2025-11-26,C0882,Delivered,0.3,4.0,Card
+O00662,2025-07-05,C0431,Delivered,0.1,2.5,bKash
+O01768,2026-02-09,C1183,Delivered,0.1,3.5,bKash
+O01646,2026-01-22,C1104,Delivered,0.05,4.0,Card
+O01880,2026-03-03,C1256,Delivered,0.0,5.0,Cash on Delivery
+O00738,2025-10-13,C0479,Delivered,0.0,3.5,Card
+O01724,2026-02-02,C1154,Delivered,0.0,5.0,Cash on Delivery
+O02359,2026-06-06,C1610,Delivered,0.15,3.5,Cash on Delivery
+O02052,2026-04-03,C1372,Delivered,0.0,3.5,Cash on Delivery
+O01723,2026-02-04,C1153,Delivered,0.0,3.5,Card
+O00679,2025-07-08,C0440,Delivered,0.0,2.5,Nagad
+O00822,2025-11-10,C0533,Delivered,0.1,5.0,Cash on Delivery
+O01267,2025-11-16,C0836,Delivered,0.1,3.5,bKash
+O00042,2025-01-16,C0034,Delivered,0.15,4.0,Card
+O00213,2025-03-06,C0147,Delivered,0.0,3.5,bKash
+O00772,2025-08-06,C0502,Cancelled,0.05,3.5,Nagad
+O00323,2025-04-26,C0216,Delivered,0.05,2.5,Nagad
+O01572,2026-01-09,C1054,Delivered,0.15,5.0,Cash on Delivery
+O02255,2026-05-09,C1517,Delivered,0.1,2.5,Card
+O00931,2025-09-05,C0606,Delivered,0.0,2.5,Card
+O00979,2025-09-13,C0635,Delivered,0.1,3.5,bKash
+O00303,2025-03-26,C0201,Delivered,0.0,2.5,bKash
+O01308,2025-11-24,C0866,Delivered,0.3,5.0,bKash
+O01260,2025-11-14,C0831,Delivered,0.0,4.0,Card
+O00092,2025-02-06,C0069,Delivered,0.05,5.0,Card
+O01044,2025-09-26,C0679,Delivered,0.1,3.5,Card
+O01207,2025-11-05,C0796,Delivered,0.1,3.5,bKash
+O00022,2025-01-06,C0016,Delivered,0.0,4.0,Card
+O02401,2026-06-15,C1652,Delivered,0.0,5.0,Cash on Delivery
+O00949,2025-11-21,C0616,Delivered,0.3,4.0,Card
+O01106,2026-02-17,C0726,Delivered,0.1,2.5,bKash
+O01516,2025-12-29,C1019,Delivered,0.05,3.5,Card
+O00423,2025-05-03,C0283,Delivered,0.0,5.0,bKash
+O01808,2026-02-18,C1211,Delivered,0.0,2.5,bKash
+O01542,2026-01-03,C1034,Delivered,0.15,4.0,Card
+O01287,2025-11-19,C0850,Delivered,0.1,3.5,bKash
+O00208,2025-03-08,C0144,Delivered,0.05,3.5,Cash on Delivery
+O00499,2025-08-13,C0327,Delivered,0.0,5.0,bKash
+O00071,2025-01-24,C0051,Delivered,0.15,3.5,Card
+O01700,2026-01-30,C1139,Cancelled,0.0,3.5,Nagad
+O02374,2026-06-10,C1625,Delivered,0.15,5.0,bKash
+O02314,2026-05-27,C1565,Delivered,0.1,3.5,Cash on Delivery
+O00021,2025-03-15,C0015,Delivered,0.15,5.0,Cash on Delivery
+O00925,2025-09-03,C0601,Delivered,0.0,4.0,Card
+O01038,2025-09-25,C0676,Delivered,0.05,2.5,Cash on Delivery
+O00613,2026-01-23,C0398,Delivered,0.0,3.5,Cash on Delivery
+O00045,2025-02-22,C0035,Delivered,0.0,5.0,bKash
+O02404,2026-06-18,C1655,Delivered,0.05,5.0,Cash on Delivery
+O01312,2025-11-23,C0870,Delivered,0.3,3.5,Nagad
+O01490,2026-05-28,C1003,Delivered,0.0,4.0,bKash
+O01920,2026-03-11,C1285,Delivered,0.0,3.5,Card
+O00129,2025-02-13,C0089,Delivered,0.15,2.5,Card
+O01607,2026-01-30,C1077,Delivered,0.15,2.5,Cash on Delivery
+O00239,2025-09-10,C0162,Delivered,0.0,3.5,bKash
+O01311,2025-11-23,C0869,Delivered,0.3,5.0,Cash on Delivery
+O01097,2025-10-12,C0722,Delivered,0.0,3.5,bKash
+O00665,2025-07-05,C0432,Cancelled,0.0,2.5,bKash
+O00454,2025-07-30,C0301,Delivered,0.0,5.0,Card
+O02346,2026-06-01,C1597,Cancelled,0.1,5.0,Cash on Delivery
+O01839,2026-02-24,C1231,Delivered,0.15,2.5,bKash
+O00687,2025-08-20,C0445,Delivered,0.0,4.0,Card
+O01020,2025-09-20,C0661,Delivered,0.05,2.5,bKash
+O01003,2025-09-16,C0650,Delivered,0.15,3.5,Cash on Delivery
+O00520,2025-05-23,C0343,Delivered,0.0,2.5,Card
+O00178,2025-03-24,C0122,Delivered,0.0,5.0,bKash
+O01753,2026-02-06,C1174,Delivered,0.0,4.0,Card
+O00204,2025-03-06,C0141,Delivered,0.0,4.0,bKash
+O01130,2025-10-19,C0744,Delivered,0.05,2.5,bKash
+O00290,2025-03-25,C0194,Delivered,0.15,3.5,bKash
+O00048,2025-09-11,C0035,Delivered,0.0,3.5,Cash on Delivery
+O00160,2025-02-20,C0110,Cancelled,0.05,2.5,bKash
+O02273,2026-06-15,C1532,Delivered,0.0,4.0,Nagad
+O01415,2025-12-08,C0952,Delivered,0.15,3.5,bKash
+O01196,2025-12-29,C0790,Delivered,0.0,2.5,Cash on Delivery
+O01506,2026-01-31,C1012,Delivered,0.0,4.0,Cash on Delivery
+O00068,2025-01-23,C0048,Delivered,0.1,2.5,Card
+O01625,2026-03-11,C1087,Delivered,0.0,3.5,Card
+O02166,2026-05-31,C1450,Delivered,0.1,3.5,bKash
+O01885,2026-03-05,C1259,Delivered,0.1,5.0,Nagad
+O02386,2026-06-13,C1637,Cancelled,0.0,3.5,bKash
+O02055,2026-04-02,C1374,Delivered,0.05,3.5,bKash
+O00406,2025-04-25,C0270,Delivered,0.0,3.5,Card
+O01304,2025-11-24,C0863,Delivered,0.3,3.5,Card
+O00286,2025-03-22,C0191,Delivered,0.0,3.5,bKash
+O01687,2026-01-26,C1130,Delivered,0.15,4.0,bKash
+O00946,2025-11-06,C0615,Delivered,0.05,4.0,Card
+O02413,2026-06-18,C1664,Cancelled,0.15,3.5,Card
+O02373,2026-06-10,C1624,Delivered,0.05,5.0,Cash on Delivery
+O02006,2026-03-24,C1340,Delivered,0.05,4.0,Card
+O01520,2026-01-01,C1021,Delivered,0.1,4.0,Card
+O01154,2025-10-27,C0761,Delivered,0.15,2.5,bKash
+O01984,2026-03-21,C1325,Delivered,0.0,5.0,bKash
+O01729,2026-05-04,C1158,Delivered,0.1,3.5,Cash on Delivery
+O01879,2026-05-06,C1255,Cancelled,0.15,5.0,Cash on Delivery
+O00667,2025-07-04,C0433,Delivered,0.15,2.5,Nagad
+O00252,2025-05-15,C0170,Delivered,0.0,5.0,bKash
+O01798,2026-02-16,C1204,Delivered,0.0,4.0,Card
+O01662,2026-02-25,C1115,Delivered,0.0,4.0,Card
+O01412,2026-02-11,C0949,Delivered,0.1,4.0,Cash on Delivery
+O00604,2025-06-14,C0393,Delivered,0.0,4.0,Cash on Delivery
+O00986,2025-09-15,C0641,Delivered,0.1,3.5,bKash
+O02291,2026-05-19,C1547,Cancelled,0.05,2.5,Cash on Delivery
+O00906,2025-08-28,C0588,Delivered,0.15,3.5,Card
+O00526,2025-05-23,C0347,Delivered,0.0,4.0,Nagad
+O01194,2025-11-03,C0789,Delivered,0.0,3.5,Card
+O01694,2026-01-27,C1136,Delivered,0.0,2.5,bKash
+O00545,2025-05-28,C0358,Delivered,0.0,2.5,Card
+O02452,2026-06-27,C1703,Delivered,0.0,4.0,Cash on Delivery
+O02344,2026-06-01,C1595,Delivered,0.1,4.0,bKash
+O01756,2026-02-08,C1175,Cancelled,0.15,2.5,Card
+O02194,2026-04-26,C1471,Delivered,0.1,4.0,bKash
+O02293,2026-05-21,C1549,Delivered,0.05,3.5,Card
+O01869,2026-05-14,C1250,Delivered,0.0,2.5,Card
+O01225,2025-11-12,C0810,Cancelled,0.0,3.5,bKash
+O00673,2025-07-06,C0436,Delivered,0.0,4.0,Cash on Delivery
+O00762,2025-08-03,C0496,Delivered,0.1,3.5,Card
+O00378,2025-07-08,C0250,Cancelled,0.0,4.0,Nagad
+O02326,2026-05-27,C1577,Delivered,0.0,5.0,bKash
+O00744,2025-08-01,C0483,Delivered,0.0,2.5,Cash on Delivery
+O01068,2025-10-30,C0699,Delivered,0.0,3.5,Card
+O00654,2025-07-25,C0425,Delivered,0.15,3.5,Card
+O01740,2026-02-05,C1166,Delivered,0.0,3.5,Nagad
+O02451,2026-06-26,C1702,Cancelled,0.15,4.0,Cash on Delivery
+O00868,2025-08-23,C0564,Delivered,0.0,5.0,Nagad
+O02297,2026-05-20,C1552,Delivered,0.0,4.0,Card
+O00848,2025-08-19,C0550,Delivered,0.0,2.5,Cash on Delivery
+O01092,2025-10-09,C0718,Delivered,0.0,4.0,bKash
+O02457,2026-06-29,C1709,Delivered,0.0,2.5,Card
+O00139,2025-04-30,C0097,Delivered,0.1,2.5,bKash
+O00326,2025-08-28,C0216,Delivered,0.0,2.5,bKash
+O01963,2026-03-20,C1312,Delivered,0.0,5.0,Cash on Delivery
+O00554,2025-08-26,C0361,Delivered,0.0,4.0,Cash on Delivery
+O01040,2025-10-23,C0677,Delivered,0.05,3.5,bKash
+O01183,2026-02-04,C0784,Delivered,0.05,2.5,Card
+O01513,2026-05-03,C1016,Delivered,0.0,5.0,Cash on Delivery
+O02328,2026-05-27,C1579,Delivered,0.0,3.5,Cash on Delivery
+O02442,2026-06-27,C1693,Delivered,0.15,3.5,bKash
+O01745,2026-03-25,C1169,Delivered,0.0,5.0,Card
+O02110,2026-04-09,C1409,Delivered,0.0,4.0,Card
+O01279,2025-11-17,C0842,Delivered,0.0,3.5,Card
+O01084,2025-10-09,C0711,Delivered,0.15,3.5,Card
+O02002,2026-03-25,C1337,Delivered,0.1,5.0,Cash on Delivery
+O02241,2026-05-05,C1503,Delivered,0.0,3.5,bKash
+O01926,2026-03-10,C1290,Delivered,0.0,5.0,Cash on Delivery
+O00328,2025-04-02,C0217,Delivered,0.0,4.0,bKash
+O00100,2025-02-08,C0075,Delivered,0.1,2.5,Nagad
+O00329,2025-04-01,C0218,Delivered,0.05,4.0,Card
+O01711,2026-04-06,C1145,Delivered,0.05,3.5,bKash
+O01203,2026-03-15,C0793,Delivered,0.0,5.0,Card
+O00596,2026-01-04,C0388,Delivered,0.0,4.0,Cash on Delivery
+O00591,2025-06-10,C0387,Delivered,0.0,2.5,bKash
+O01000,2025-09-14,C0647,Delivered,0.0,4.0,Card
+O00825,2025-08-15,C0535,Delivered,0.0,4.0,bKash
+O02101,2026-04-08,C1403,Delivered,0.0,3.5,Card
+O01164,2025-10-28,C0770,Delivered,0.0,4.0,Card
+O00809,2025-08-12,C0525,Delivered,0.15,5.0,Card
+O00728,2025-07-26,C0471,Delivered,0.0,3.5,Nagad
+O01285,2025-11-18,C0848,Delivered,0.0,3.5,Cash on Delivery
+O01444,2025-12-16,C0974,Delivered,0.0,5.0,Cash on Delivery
+O01857,2026-02-28,C1242,Delivered,0.05,4.0,bKash
+O01480,2025-12-22,C0997,Delivered,0.15,2.5,Cash on Delivery
+O02122,2026-04-13,C1418,Delivered,0.1,4.0,bKash
+O01078,2025-11-12,C0706,Delivered,0.0,4.0,Cash on Delivery
+O02430,2026-06-24,C1681,Delivered,0.0,4.0,bKash
+O00183,2025-02-26,C0126,Delivered,0.0,2.5,bKash
+O00375,2025-04-16,C0248,Delivered,0.0,5.0,Card
+O00856,2025-08-20,C0557,Delivered,0.1,3.5,Cash on Delivery
+O02259,2026-05-11,C1520,Delivered,0.15,5.0,bKash
+O02323,2026-05-27,C1574,Delivered,0.0,2.5,bKash
+O00579,2025-06-06,C0378,Delivered,0.15,4.0,Card
+O01531,2026-01-01,C1026,Delivered,0.0,3.5,bKash
+O01052,2025-11-20,C0686,Delivered,0.3,5.0,bKash
+O00790,2025-08-10,C0515,Delivered,0.15,2.5,Cash on Delivery
+O01578,2026-01-08,C1057,Delivered,0.0,2.5,Card
+O00942,2025-11-22,C0613,Delivered,0.3,4.0,bKash
+O00173,2025-04-18,C0119,Delivered,0.0,3.5,Card
+O01562,2026-03-02,C1046,Delivered,0.15,4.0,Cash on Delivery
+O00331,2025-06-20,C0219,Delivered,0.1,2.5,bKash
+O00952,2025-12-21,C0617,Delivered,0.1,3.5,Cash on Delivery
+O00488,2025-10-04,C0322,Delivered,0.05,2.5,Nagad
+O00797,2025-08-11,C0519,Delivered,0.05,5.0,Cash on Delivery
+O02045,2026-04-02,C1367,Delivered,0.05,4.0,Cash on Delivery
+O01370,2025-11-30,C0921,Delivered,0.3,4.0,Cash on Delivery
+O02377,2026-06-10,C1628,Delivered,0.0,4.0,Cash on Delivery
+O00594,2025-10-15,C0388,Delivered,0.0,5.0,Cash on Delivery
+O00470,2025-05-14,C9999,Delivered,0.1,5.0,Cash on Delivery
+O02335,2026-05-29,C1586,Delivered,0.0,5.0,bKash
+O01463,2025-12-20,C0986,Delivered,0.0,3.5,bKash
+O02363,2026-06-05,C1614,Delivered,0.15,2.5,Cash on Delivery
+O01400,2026-02-07,C0942,Delivered,0.0,5.0,bKash
+O00322,2025-04-01,C0216,Delivered,0.1,4.0,bKash
+O02009,2026-03-24,C1342,Delivered,0.0,2.5,Card
+O01820,2026-02-22,C1220,Delivered,0.0,2.5,Cash on Delivery
+O01421,2025-12-10,C0955,Cancelled,0.05,5.0,Card
+O02047,2026-04-01,C1368,Delivered,0.15,3.5,bKash
+O00908,2025-08-29,C0590,Delivered,0.1,3.5,Card
+O02303,2026-05-22,C1556,Delivered,0.0,5.0,Cash on Delivery
+O00783,2025-08-07,C0511,Delivered,0.0,3.5,Nagad
+O00165,2025-02-22,C0114,Cancelled,0.0,3.5,Cash on Delivery
+O00251,2025-03-17,C0170,Delivered,0.15,5.0,Cash on Delivery
+O01440,2025-12-14,C0970,Delivered,0.0,2.5,bKash
+O01085,2025-10-09,C0712,Delivered,0.15,3.5,Card
+O00202,2025-03-05,C0140,Delivered,0.05,4.0,Cash on Delivery
+O00778,2025-08-07,C0506,Delivered,0.1,4.0,Card
+O02207,2026-05-15,C1482,Delivered,0.15,5.0,Cash on Delivery
+O00780,2025-08-08,C0508,Delivered,0.05,4.0,bKash
+O00400,2025-04-26,C0266,Delivered,0.15,5.0,bKash
+O00802,2025-11-07,C0521,Delivered,0.0,3.5,Cash on Delivery
+O01887,2026-03-04,C1260,Delivered,0.0,3.5,Card
+O00814,2025-08-14,C0529,Delivered,0.0,3.5,bKash
+O02325,2026-05-26,C1576,Delivered,0.0,4.0,Card
+O00029,2025-01-12,C0023,Delivered,0.0,3.5,Card
+O00642,2025-06-28,C0418,Delivered,0.05,5.0,bKash
+O00753,2025-08-02,C0489,Delivered,0.0,2.5,Card
+O01575,2026-06-10,C1054,Delivered,0.0,5.0,Card
+O00927,2025-11-17,C0602,Delivered,0.15,5.0,Card
+O01493,2025-12-25,C1005,Delivered,0.0,5.0,bKash
+O01969,2026-03-20,C1315,Delivered,0.1,4.0,Card
+O01878,2026-03-05,C1255,Delivered,0.05,3.5,Card
+O00452,2025-08-08,C0300,Delivered,0.0,3.5,bKash
+O01487,2025-12-26,C1003,Delivered,0.1,2.5,Card
+O02411,2026-06-19,C1662,Delivered,0.1,3.5,bKash
+O00127,2025-02-13,C0088,Cancelled,0.05,5.0,Cash on Delivery
+O02016,2026-03-28,C1347,Delivered,0.1,2.5,Nagad
+O01372,2025-12-01,C0923,Delivered,0.05,5.0,Card
+O00933,2025-10-26,C0607,Delivered,0.0,3.5,Card
+O01831,2026-02-22,C1226,Delivered,0.1,3.5,Card
+O01024,2025-09-21,C0665,Delivered,0.0,2.5,Cash on Delivery
+O00706,2025-07-19,C0457,Delivered,0.1,2.5,bKash
+O01141,2025-11-24,C0752,Cancelled,0.3,5.0,bKash
+O01129,2025-10-18,C0743,Delivered,0.0,5.0,bKash
+O01282,2025-11-19,C0845,Delivered,0.0,2.5,Card
+O00380,2025-04-20,C0252,Delivered,0.15,3.5,Cash on Delivery
+O00536,2025-05-25,C0351,Delivered,0.1,3.5,Card
+O00352,2025-11-23,C0236,Delivered,0.3,3.5,Card
+O00294,2025-03-25,C0196,Delivered,0.15,3.5,bKash
+O01590,2026-03-15,C1065,Delivered,0.1,3.5,Cash on Delivery
+O01937,2026-03-12,C1298,Delivered,0.0,3.5,bKash
+O02044,2026-04-01,C1366,Delivered,0.15,5.0,Card
+O01169,2025-10-28,C0774,Delivered,0.15,5.0,Nagad
+O00885,2025-08-25,C0575,Delivered,0.15,3.5,Cash on Delivery
+O01116,2025-10-16,C0735,Delivered,0.0,3.5,Card
+O01866,2026-04-14,C1249,Delivered,0.15,2.5,bKash
+O01023,2025-09-21,C0664,Delivered,0.0,2.5,Nagad
+O00024,2025-01-07,C0018,Delivered,0.05,4.0,bKash
+O01787,2026-02-14,C1195,Delivered,0.05,2.5,bKash
+O02025,2026-03-29,C1352,Delivered,0.0,2.5,bKash
+O00756,2025-08-03,C0492,Delivered,0.0,3.5,Cash on Delivery
+O00091,2025-02-03,C0068,Delivered,0.0,3.5,Cash on Delivery
+O00960,2025-11-25,C0621,Delivered,0.3,3.5,Cash on Delivery
+O01159,2025-10-26,C0765,Delivered,0.0,3.5,bKash
+O01018,2025-09-19,C0659,Cancelled,0.0,3.5,Nagad
+O00524,2025-05-24,C0346,Delivered,0.0,3.5,bKash
+O00001,2025-01-03,C0001,Delivered,0.0,4.0,Cash on Delivery
+O02121,2026-05-08,C1417,Delivered,0.0,3.5,bKash
+O00683,2025-07-10,C0442,Delivered,0.0,3.5,Card
+O01933,2026-03-12,C1295,Delivered,0.05,2.5,Nagad
+O00382,2025-07-02,C0253,Delivered,0.15,4.0,Cash on Delivery
+O02011,2026-03-25,C1344,Delivered,0.1,4.0,Cash on Delivery
+O01492,2025-12-24,C1004,Delivered,0.0,2.5,bKash
+O02329,2026-05-28,C1580,Delivered,0.05,5.0,bKash
+O01252,2025-11-14,C0826,Delivered,0.0,2.5,bKash
+O01612,2026-01-17,C1079,Delivered,0.0,5.0,Nagad
+O00916,2025-11-16,C0596,Delivered,0.0,2.5,Card
+O00705,2025-10-30,C0456,Delivered,0.1,2.5,bKash
+O01819,2026-02-21,C1219,Cancelled,0.1,5.0,bKash
+O01596,2026-01-12,C1069,Delivered,0.0,3.5,Cash on Delivery
+O02446,2026-06-28,C1697,Delivered,0.1,3.5,Cash on Delivery
+O00598,2025-06-13,C0390,Cancelled,0.0,4.0,Cash on Delivery
+O01641,2026-01-21,C1101,Delivered,0.0,3.5,bKash
+O01422,2025-12-09,C0956,Delivered,0.0,4.0,Nagad
+O01655,2026-04-01,C1110,Delivered,0.0,3.5,Card
+O00224,2025-03-29,C0156,Delivered,0.15,5.0,Nagad
+O00134,2025-02-14,C0093,Delivered,0.05,4.0,Cash on Delivery
+O02300,2026-05-22,C1554,Delivered,0.15,4.0,bKash
+O00214,2025-03-09,C0148,Delivered,0.0,2.5,Card
+O01799,2026-02-18,C1205,Delivered,0.15,3.5,Card
+O00573,2025-06-03,C0374,Delivered,0.0,3.5,Nagad
+O01614,2026-04-24,C1079,Delivered,0.05,3.5,Cash on Delivery
+O00203,2025-04-14,C0140,Delivered,0.0,2.5,bKash
+O00078,2025-03-17,C0056,Delivered,0.0,5.0,Cash on Delivery
+O02432,2026-06-23,C1683,Delivered,0.0,2.5,bKash
+O02403,2026-06-17,C1654,Delivered,0.0,2.5,Nagad
+O01413,2025-12-05,C0950,Delivered,0.05,3.5,Nagad
+O01591,2026-04-28,C1065,Delivered,0.0,4.0,Card
+O00440,2025-05-04,C0292,Delivered,0.0,4.0,Nagad
+O01670,2026-05-31,C1119,Delivered,0.0,5.0,Card
+O00175,2025-02-25,C0120,Delivered,0.0,5.0,Cash on Delivery
+O02187,2026-04-26,C1465,Delivered,0.15,4.0,Card
+O01458,2025-12-20,C0982,Delivered,0.0,4.0,bKash
+O00343,2025-04-10,C0231,Delivered,0.0,3.5,bKash
+O01033,2025-09-25,C0673,Delivered,0.05,3.5,Card
+O02441,2026-06-26,C1692,Delivered,0.0,3.5,Cash on Delivery
+O00253,2025-03-19,C0171,Delivered,0.1,4.0,bKash
+O00298,2025-09-07,C0196,Delivered,0.05,3.5,Cash on Delivery
+O00546,2025-08-15,C0358,Delivered,0.0,2.5,Cash on Delivery
+O00544,2025-05-30,C0357,Delivered,0.0,4.0,Cash on Delivery
+O02221,2026-05-02,C1491,Delivered,0.0,3.5,bKash
+O02392,2026-06-13,C1643,Delivered,0.0,4.0,bKash
+O01347,2025-11-27,C0901,Delivered,0.3,5.0,bKash
+O00595,2025-12-08,C0388,Delivered,0.15,3.5,Nagad
+O00909,2025-08-30,C0591,Delivered,0.0,5.0,Card
+O02220,2026-05-01,C1490,Delivered,0.05,5.0,Cash on Delivery
+O00491,2025-05-18,C0324,Delivered,0.15,5.0,Card
+O02062,2026-04-04,C1378,Delivered,0.0,4.0,Card
+O01908,2026-06-24,C1275,Delivered,0.15,2.5,Card
+O02186,2026-04-23,C1464,Delivered,0.15,4.0,Card
+O02184,2026-04-24,C1462,Delivered,0.15,3.5,Cash on Delivery
+O02209,2026-04-30,C1483,Delivered,0.0,5.0,bKash
+O00395,2025-06-30,C0262,Delivered,0.15,4.0,bKash
+O01657,2026-03-30,C1111,Delivered,0.0,5.0,Cash on Delivery
+O00686,2025-07-12,C0445,Delivered,0.0,4.0,Cash on Delivery
+O01321,2025-11-24,C0877,Delivered,0.3,3.5,Cash on Delivery
+O00789,2025-10-14,C0514,Delivered,0.0,3.5,bKash
+O02417,2026-06-20,C1668,Delivered,0.0,5.0,Cash on Delivery
+O00255,2025-03-19,C0173,Delivered,0.0,3.5,Card
+O01769,2026-02-11,C1184,Delivered,0.0,5.0,Cash on Delivery
+O01650,2026-05-08,C1106,Delivered,0.1,3.5,Card
+O01270,2025-11-18,C0838,Delivered,0.1,4.0,bKash
+O00135,2025-02-15,C0094,Cancelled,0.0,4.0,bKash
+O02082,2026-04-29,C1390,Delivered,0.0,2.5,bKash
+O00409,2025-04-26,C0273,Delivered,0.1,4.0,bKash
+O01795,2026-02-14,C1202,Delivered,0.05,3.5,Cash on Delivery
+O00358,2025-07-22,C0239,Delivered,0.05,4.0,Card
+O01223,2025-11-10,C0808,Delivered,0.0,5.0,Cash on Delivery
+O00630,2025-06-22,C0409,Delivered,0.15,2.5,Nagad
+O00702,2025-07-19,C0455,Delivered,0.0,2.5,Card
+O00296,2025-06-03,C0196,Delivered,0.0,3.5,bKash
+O00710,2025-07-20,C0459,Delivered,0.05,3.5,Cash on Delivery
+O02237,2026-05-03,C1501,Delivered,0.0,5.0,Cash on Delivery
+O00012,2025-01-06,C0010,Delivered,0.15,3.5,Card
+O00641,2025-08-02,C0417,Delivered,0.0,3.5,bKash
+O02265,2026-05-12,C1526,Delivered,0.0,5.0,Card
+O01334,2025-11-27,C0890,Delivered,0.3,2.5,Nagad
+O02330,2026-05-29,C1581,Delivered,0.1,5.0,Card
+O01448,2026-05-09,C0975,Delivered,0.0,3.5,bKash
+O00282,2025-09-08,C0188,Delivered,0.0,3.5,Card
+O01037,2026-01-10,C0675,Delivered,0.0,4.0,Cash on Delivery
+O00947,2025-11-22,C0615,Delivered,0.3,3.5,bKash
+O00517,2025-05-22,C0340,Cancelled,0.05,4.0,bKash
+O00923,2025-09-29,C0600,Delivered,0.15,2.5,Cash on Delivery
+O00619,2025-06-22,C0402,Delivered,0.0,2.5,Card
+O00149,2025-02-17,C0105,Cancelled,0.0,5.0,bKash
+O00398,2025-05-17,C0264,Delivered,0.1,5.0,bKash
+O01734,2026-02-05,C1160,Delivered,0.0,3.5,Cash on Delivery
+O01639,2026-01-20,C1099,Delivered,0.0,5.0,bKash
+O01352,2025-12-18,C0905,Delivered,0.1,5.0,bKash
+O00720,2025-08-13,C0466,Delivered,0.15,4.0,Cash on Delivery
+O01511,2025-12-30,C1016,Delivered,0.0,4.0,Nagad
+O01602,2026-01-15,C1073,Delivered,0.0,2.5,Card
+O01699,2026-04-03,C1138,Delivered,0.0,4.0,Card
+O01547,2026-01-04,C1039,Delivered,0.05,5.0,bKash
+O02331,2026-05-28,C1582,Delivered,0.05,4.0,Cash on Delivery
+O01638,2026-01-19,C1098,Delivered,0.05,2.5,Card
+O01296,2025-11-22,C0856,Delivered,0.3,5.0,Cash on Delivery
+O02286,2026-05-18,C1543,Delivered,0.0,4.0,bKash
+O00656,2025-07-03,C0426,Delivered,0.05,5.0,Card
+O00627,2025-06-24,C0407,Delivered,0.1,2.5,bKash
+O00556,2025-05-31,C0363,Delivered,0.0,2.5,bKash
+O01111,2025-12-10,C0730,Delivered,0.0,3.5,Card
+O01189,2025-11-03,C0787,Delivered,0.1,5.0,bKash
+O01121,2025-10-17,C0739,Delivered,0.1,5.0,Card
+O01145,2025-10-23,C0754,Delivered,0.0,4.0,bKash
+O00638,2025-06-26,C0416,Delivered,0.0,3.5,Cash on Delivery
+O02439,2026-06-24,C1690,Delivered,0.0,4.0,Card
+O02294,2026-05-21,C1550,Delivered,0.0,3.5,Cash on Delivery
+O01218,2026-04-29,C0803,Delivered,0.0,2.5,Card
+O02315,2026-05-27,C1566,Delivered,0.15,2.5,Cash on Delivery
+O00327,2025-11-14,C0216,Delivered,0.0,4.0,Card
+O01368,2025-12-01,C0919,Cancelled,0.0,5.0,Cash on Delivery
+O01133,2025-10-19,C0746,Delivered,0.05,3.5,Cash on Delivery
+O01180,2025-11-02,C0783,Delivered,0.05,2.5,Cash on Delivery
+O01555,2026-01-04,C1043,Delivered,0.15,3.5,bKash
+O02239,2026-06-26,C1501,Delivered,0.15,5.0,Card
+O00668,2025-09-09,C0433,Delivered,0.1,5.0,bKash
+O00874,2025-08-24,C0568,Delivered,0.15,3.5,Cash on Delivery
+O00376,2025-04-16,C0249,Delivered,0.1,4.0,bKash
+O01916,2026-03-11,C1282,Delivered,0.1,5.0,Card
+O01054,2025-09-29,C0688,Delivered,0.15,5.0,Card
+O00481,2025-11-29,C0318,Delivered,0.3,3.5,Card
+O00987,2025-09-15,C0642,Delivered,0.0,5.0,Cash on Delivery
+O00597,2025-06-12,C0389,Delivered,0.1,5.0,bKash
+O01503,2026-01-19,C1011,Delivered,0.05,3.5,Cash on Delivery
+O01373,2025-11-30,C0924,Delivered,0.3,5.0,bKash
+O02378,2026-06-10,C1629,Delivered,0.0,4.0,Card
+O00721,2025-07-22,C0467,Delivered,0.05,3.5,bKash
+O01510,2026-03-15,C1015,Delivered,0.15,4.0,Nagad
+O02312,2026-06-15,C1563,Delivered,0.0,5.0,Cash on Delivery
+O00472,2025-06-25,C0314,Delivered,0.15,3.5,Nagad
+O01387,2025-12-02,C0936,Delivered,0.15,5.0,bKash
+O00017,2025-01-06,C0012,Delivered,0.05,4.0,bKash
+O01804,2026-04-03,C1209,Delivered,0.15,5.0,bKash
+O01721,2026-02-27,C1152,Delivered,0.0,2.5,Cash on Delivery
+O00076,2025-01-26,C0055,Delivered,0.0,5.0,bKash
+O00002,2025-01-02,C0002,Delivered,0.0,2.5,Card
+O00763,2025-08-05,C0497,Delivered,0.0,2.5,Cash on Delivery
+O00438,2025-05-06,C0291,Delivered,0.15,3.5,bKash
+O02069,2026-04-04,C1383,Cancelled,0.05,4.0,Card
+O02353,2026-06-04,C1604,Delivered,0.15,2.5,bKash
+O00320,2025-06-06,C0214,Delivered,0.0,5.0,bKash
+O02050,2026-04-03,C1370,Delivered,0.0,5.0,Cash on Delivery
+O00932,2025-09-03,C0607,Delivered,0.1,4.0,Card
+O01967,2026-06-12,C1313,Delivered,0.0,3.5,bKash
+O00519,2025-05-23,C0342,Delivered,0.05,3.5,bKash
+O00690,2025-07-15,C0447,Delivered,0.1,4.0,Card
+O01668,2026-01-24,C1119,Delivered,0.0,5.0,Card
+O00700,2025-07-19,C0453,Delivered,0.0,2.5,Cash on Delivery
+O01346,2025-11-28,C0900,Delivered,0.3,4.0,bKash
+O00568,2025-06-02,C9999,Delivered,0.15,5.0,bKash
+O02127,2026-06-14,C1421,Delivered,0.0,2.5,Card
+O01276,2025-12-25,C9999,Delivered,0.05,2.5,Nagad
+O00379,2025-04-19,C0251,Delivered,0.1,5.0,Cash on Delivery
+O01192,2025-11-02,C0788,Delivered,0.0,4.0,bKash
+O01559,2026-01-06,C1045,Delivered,0.1,2.5,bKash
+O01087,2025-10-08,C0713,Delivered,0.1,3.5,Cash on Delivery
+O00983,2025-09-14,C0639,Delivered,0.0,2.5,bKash
+O01114,2025-10-16,C0733,Delivered,0.05,5.0,Nagad
+O01827,2026-02-22,C1224,Delivered,0.1,4.0,Card
+O01807,2026-04-19,C1210,Delivered,0.15,4.0,Card
+O01181,2025-11-02,C0784,Delivered,0.0,4.0,Card
+O01466,2025-12-20,C0987,Delivered,0.0,5.0,bKash
+O01619,2026-03-14,C1082,Delivered,0.05,3.5,bKash
+O02418,2026-06-21,C1669,Delivered,0.0,5.0,Cash on Delivery
+O00415,2025-08-17,C0277,Delivered,0.0,5.0,bKash
+O01962,2026-06-04,C1311,Delivered,0.1,4.0,Card
+O02204,2026-04-28,C1480,Delivered,0.15,2.5,Card
+O01577,2026-01-10,C1056,Delivered,0.15,5.0,bKash
+O01536,2026-01-30,C1030,Delivered,0.1,4.0,bKash
+O01008,2025-09-19,C0653,Delivered,0.0,2.5,Cash on Delivery
+O00648,2025-06-29,C0422,Delivered,0.1,2.5,Nagad
+O00707,2025-09-30,C0457,Delivered,0.0,4.0,Cash on Delivery
+O00522,2025-07-26,C0344,Delivered,0.15,4.0,bKash
+O00718,2025-07-22,C0465,Delivered,0.0,4.0,Card
+O01155,2025-10-27,C0762,Delivered,0.05,4.0,Card
+O02394,2026-06-16,C1645,Delivered,0.0,2.5,Cash on Delivery
+O01737,2026-02-05,C1163,Delivered,0.0,5.0,bKash
+O00871,2025-12-19,C0565,Delivered,0.15,3.5,Cash on Delivery
+O01498,2026-03-26,C1008,Delivered,0.05,3.5,Card
+O01138,2025-10-23,C0751,Delivered,0.0,5.0,Card
+O01952,2026-03-16,C1305,Delivered,0.05,4.0,bKash
+O00768,2025-08-05,C0499,Delivered,0.05,3.5,Cash on Delivery
+O00190,2025-03-29,C0131,Delivered,0.0,5.0,bKash
+O00635,2025-06-26,C0413,Delivered,0.1,5.0,Card
+O01205,2025-11-04,C0794,Delivered,0.0,2.5,bKash
+O00180,2025-05-01,C0123,Cancelled,0.15,3.5,bKash
+O00150,2025-02-19,C0106,Delivered,0.0,5.0,bKash
+O01122,2025-12-01,C0739,Delivered,0.15,4.0,bKash
+O02067,2026-06-29,C1381,Delivered,0.05,4.0,bKash
+O02449,2026-06-28,C1700,Delivered,0.0,2.5,Nagad
+O00864,2025-08-22,C0560,Delivered,0.0,3.5,Cash on Delivery
+O02318,2026-05-25,C1569,Delivered,0.05,2.5,bKash
+O01832,2026-03-24,C1226,Delivered,0.1,3.5,Card
+O01617,2026-01-18,C1081,Cancelled,0.0,3.5,Nagad
+O00346,2025-04-09,C0233,Delivered,0.0,4.0,Card
+O01717,2026-04-05,C1149,Delivered,0.0,2.5,bKash
+O01275,2025-11-17,C0840,Delivered,0.1,5.0,bKash
+O01320,2025-11-23,C0876,Delivered,0.3,3.5,Nagad
+O01661,2026-01-23,C1115,Delivered,0.0,3.5,bKash
+O00051,2026-01-14,C0035,Delivered,0.05,3.5,Cash on Delivery
+O02338,2026-06-01,C1589,Delivered,0.0,3.5,Card
+O01731,2026-02-05,C1159,Delivered,0.0,5.0,Card
+O00969,2025-09-10,C0627,Delivered,0.0,5.0,Cash on Delivery
+O00263,2025-03-21,C0178,Delivered,0.1,5.0,Card
+O00121,2025-02-11,C0083,Delivered,0.15,2.5,Card
+O00988,2025-11-03,C0642,Cancelled,0.05,5.0,Cash on Delivery
+O01317,2025-11-23,C0873,Delivered,0.3,2.5,bKash
+O01837,2026-02-25,C1230,Delivered,0.0,2.5,Cash on Delivery
+O00220,2025-03-12,C0153,Delivered,0.0,3.5,Cash on Delivery
+O00268,2025-12-18,C0179,Delivered,0.0,3.5,bKash
+O01393,2026-02-20,C0940,Delivered,0.0,3.5,Card
+O01217,2026-04-01,C0803,Delivered,0.0,4.0,bKash
+O00844,2026-03-30,C0546,Delivered,0.0,2.5,Card
+O00291,2025-06-08,C0194,Delivered,0.05,5.0,Card
+O00693,2025-07-15,C0450,Delivered,0.0,4.0,Card
+O00698,2025-10-21,C0452,Delivered,0.0,2.5,bKash
+O01286,2025-11-20,C0849,Delivered,0.3,4.0,bKash
+O00479,2025-09-13,C0318,Delivered,0.0,3.5,Card
+O01414,2025-12-06,C0951,Delivered,0.0,5.0,bKash
+O00717,2025-07-22,C0464,Delivered,0.0,4.0,Card
+O02208,2026-06-03,C1482,Delivered,0.0,4.0,Card
+O01571,2026-01-09,C1053,Delivered,0.0,2.5,Card
+O00075,2025-01-25,C0054,Delivered,0.0,3.5,Card
+O01211,2026-01-20,C0799,Delivered,0.0,5.0,bKash
+O00575,2025-06-03,C0376,Delivered,0.1,4.0,bKash
+O02249,2026-05-07,C1511,Cancelled,0.15,4.0,Card
+O01457,2025-12-20,C0981,Delivered,0.15,5.0,bKash
+O01539,2026-01-01,C1032,Delivered,0.05,2.5,Cash on Delivery
+O01621,2026-01-19,C1084,Delivered,0.05,5.0,bKash
+O00774,2025-08-08,C0503,Delivered,0.15,2.5,bKash
+O01964,2026-04-24,C1312,Delivered,0.1,4.0,bKash
+O01036,2025-12-13,C0675,Delivered,0.15,5.0,bKash
+O00318,2025-04-01,C0213,Delivered,0.0,2.5,Card
+O00964,2025-09-08,C0623,Delivered,0.05,3.5,Cash on Delivery
+O00655,2025-08-28,C0425,Delivered,0.1,5.0,bKash
+O01021,2025-09-20,C0662,Delivered,0.1,4.0,Card
+O01250,2025-11-14,C0824,Delivered,0.0,5.0,Card
+O01796,2026-03-19,C1202,Delivered,0.05,4.0,Card
+O01693,2026-01-28,C1135,Delivered,0.05,4.0,bKash
+O01234,2025-11-13,C0816,Delivered,0.0,4.0,Cash on Delivery
+O01829,2026-06-21,C1224,Delivered,0.1,4.0,bKash
+O00956,2025-09-07,C0619,Delivered,0.15,3.5,bKash
+O01844,2026-02-25,C1235,Delivered,0.05,4.0,bKash
+O02349,2026-06-02,C1600,Delivered,0.05,4.0,Card
+O01204,2026-05-13,C0793,Delivered,0.15,4.0,bKash
+O00902,2025-08-29,C0586,Delivered,0.1,3.5,Card
+O01671,2026-06-27,C1119,Delivered,0.0,5.0,Nagad
+O00514,2025-05-22,C0337,Delivered,0.0,2.5,bKash
+O01337,2025-11-25,C0892,Delivered,0.3,5.0,bKash
+O00441,2025-07-06,C0292,Delivered,0.0,3.5,Nagad
+O00622,2025-06-23,C0404,Delivered,0.0,5.0,bKash
+O01185,2025-11-26,C0785,Delivered,0.3,3.5,Card
+O00984,2025-11-15,C0639,Delivered,0.1,5.0,Cash on Delivery
+O02283,2026-05-19,C1540,Delivered,0.0,5.0,Cash on Delivery
+O01401,2025-12-05,C0943,Delivered,0.0,2.5,Card
+O00206,2025-03-07,C0143,Delivered,0.0,5.0,Card
+O01961,2026-03-19,C1311,Delivered,0.05,4.0,bKash
+O01313,2025-11-22,C0871,Delivered,0.3,2.5,Card
+O00057,2025-01-17,C0040,Delivered,0.1,5.0,bKash
+O01709,2026-05-07,C1144,Delivered,0.05,4.0,Cash on Delivery
+O01409,2025-12-04,C0948,Delivered,0.05,5.0,Cash on Delivery
+O00501,2025-05-18,C0329,Delivered,0.1,5.0,Card
+O01160,2025-10-26,C0766,Delivered,0.1,3.5,bKash
+O01903,2026-03-09,C1273,Delivered,0.1,5.0,Nagad
+O01256,2026-03-31,C0828,Delivered,0.05,5.0,Card
+O00532,2026-01-13,C0349,Delivered,0.0,5.0,bKash
+O00426,2025-05-04,C0285,Cancelled,0.0,3.5,Card
+O01675,2026-01-27,C1122,Delivered,0.0,5.0,bKash
+O00742,2025-08-24,C0482,Delivered,0.05,3.5,Cash on Delivery
+O02219,2026-06-09,C1489,Delivered,0.05,4.0,Cash on Delivery
+O01335,2025-12-26,C0890,Delivered,0.0,4.0,Card
+O00590,2025-06-10,C0386,Delivered,0.0,2.5,bKash
+O00238,2025-07-20,C0162,Delivered,0.1,4.0,bKash
+O01261,2025-11-14,C0832,Delivered,0.05,2.5,Card
+O01451,2025-12-16,C0978,Delivered,0.05,3.5,bKash
+O02431,2026-06-24,C1682,Delivered,0.05,4.0,Card
+O01174,2025-11-01,C0779,Delivered,0.0,2.5,Cash on Delivery
+O01606,2026-01-14,C1077,Delivered,0.0,2.5,Nagad
+O00606,2025-06-14,C0395,Delivered,0.0,3.5,Nagad
+O02397,2026-06-16,C1648,Delivered,0.0,3.5,bKash
+O00176,2025-02-26,C0121,Delivered,0.1,3.5,bKash
+O01738,2026-02-06,C1164,Cancelled,0.0,4.0,Card
+O01035,2025-09-24,C0675,Delivered,0.05,3.5,Cash on Delivery
+O02230,2026-05-03,C1497,Delivered,0.0,4.0,Card
+O01784,2026-02-13,C1193,Delivered,0.0,4.0,Cash on Delivery
+O01481,2025-12-24,C0998,Delivered,0.0,5.0,Nagad
+O01860,2026-03-01,C1245,Delivered,0.0,2.5,Cash on Delivery
+O01435,2025-12-13,C0966,Delivered,0.1,4.0,bKash
+O01868,2026-03-04,C1250,Delivered,0.0,2.5,bKash
+O01391,2025-12-04,C0939,Delivered,0.0,4.0,Cash on Delivery
+O01342,2025-11-26,C0896,Delivered,0.3,5.0,Card
+O01518,2026-03-08,C1019,Cancelled,0.0,4.0,Cash on Delivery
+O02040,2026-05-06,C1363,Delivered,0.05,3.5,Card
+O01696,2026-04-28,C1137,Delivered,0.0,5.0,Nagad
+O02063,2026-04-04,C1379,Delivered,0.05,3.5,Card
+O00153,2025-02-19,C0108,Delivered,0.0,2.5,Card
+O01583,2026-01-10,C1061,Delivered,0.0,2.5,Cash on Delivery
+O02450,2026-06-27,C1701,Delivered,0.0,2.5,Card
+O00212,2025-03-06,C0146,Delivered,0.15,4.0,Cash on Delivery
+O01977,2026-05-02,C1321,Delivered,0.05,3.5,Cash on Delivery
+O02324,2026-05-28,C1575,Delivered,0.05,4.0,Card
+O00860,2026-01-25,C0558,Delivered,0.15,3.5,Nagad
+O02298,2026-06-23,C1552,Delivered,0.0,4.0,Cash on Delivery
+O00349,2025-04-14,C0236,Cancelled,0.1,2.5,Cash on Delivery
+O01777,2026-04-10,C1189,Delivered,0.0,5.0,Card
+O02098,2026-04-08,C1400,Delivered,0.15,2.5,bKash
+O01828,2026-05-19,C1224,Delivered,0.0,4.0,Card
+O00884,2025-10-25,C0574,Delivered,0.0,3.5,bKash
+O02366,2026-06-05,C1617,Delivered,0.0,3.5,Card
+O02402,2026-06-17,C1653,Cancelled,0.05,4.0,Card
+O02334,2026-05-30,C1585,Delivered,0.0,4.0,Card
+O00265,2025-06-12,C0179,Delivered,0.05,2.5,Card
+O00292,2025-07-18,C0194,Delivered,0.05,2.5,Card
+O00254,2025-03-17,C0172,Delivered,0.05,5.0,bKash
+O01624,2026-01-18,C1087,Delivered,0.0,2.5,Cash on Delivery
+O02152,2026-04-18,C1439,Delivered,0.0,3.5,Card
+O01179,2025-10-31,C0782,Delivered,0.05,5.0,Card
+O02390,2026-06-14,C1641,Delivered,0.05,3.5,bKash
+O00023,2025-01-07,C0017,Delivered,0.05,2.5,Nagad
+O02008,2026-03-24,C9999,Delivered,0.0,2.5,bKash
+O02169,2026-05-11,C1452,Delivered,0.1,3.5,Card
+O00701,2025-07-19,C0454,Delivered,0.15,4.0,bKash
+O00882,2025-08-26,C0573,Delivered,0.1,5.0,Cash on Delivery
+O00339,2025-04-09,C0227,Delivered,0.0,3.5,Nagad
+O02094,2026-04-08,C1398,Delivered,0.1,3.5,Cash on Delivery
+O01431,2025-12-12,C0963,Cancelled,0.1,3.5,Card
+O01852,2026-06-26,C1238,Delivered,0.0,4.0,bKash
+O01283,2025-11-20,C0846,Delivered,0.3,4.0,bKash
+O00228,2025-07-06,C0157,Delivered,0.0,5.0,Card
+O02433,2026-06-23,C1684,Delivered,0.0,2.5,bKash
+O01488,2026-01-31,C1003,Delivered,0.0,4.0,Card
+O00108,2025-06-05,C0078,Delivered,0.0,3.5,Nagad
+O01389,2025-12-03,C0938,Delivered,0.1,3.5,Card
+O01405,2025-12-05,C0946,Delivered,0.1,2.5,Cash on Delivery
+O01452,2025-12-18,C0979,Delivered,0.05,3.5,bKash
+O02304,2026-05-24,C1557,Delivered,0.1,2.5,Nagad
+O02456,2026-06-28,C1707,Cancelled,0.1,3.5,Cash on Delivery
+O02042,2026-06-03,C1364,Delivered,0.0,3.5,bKash
+O01190,2025-11-19,C0787,Delivered,0.0,4.0,bKash
+O00858,2025-08-20,C0558,Delivered,0.0,4.0,bKash
+O00593,2025-07-19,C0388,Delivered,0.1,4.0,bKash
+O01635,2026-01-19,C1095,Delivered,0.0,2.5,Card
+O01549,2026-03-15,C1039,Delivered,0.0,5.0,Nagad
+O00031,2025-01-30,C0024,Delivered,0.0,3.5,bKash
+O00011,2025-01-07,C0009,Delivered,0.1,3.5,bKash
+O01629,2026-01-19,C1090,Delivered,0.05,3.5,Card
+O00439,2025-06-07,C0291,Delivered,0.1,5.0,bKash
+O01367,2025-12-01,C0918,Delivered,0.0,5.0,Cash on Delivery
+O00972,2025-11-20,C0629,Delivered,0.3,2.5,bKash
+O00711,2025-07-21,C0460,Cancelled,0.05,2.5,Nagad
+O01902,2026-04-10,C1272,Cancelled,0.15,2.5,bKash
+O01483,2025-12-25,C1000,Delivered,0.0,5.0,bKash
+O01905,2026-06-06,C1274,Delivered,0.1,5.0,Card
+O00670,2025-09-08,C0434,Delivered,0.15,5.0,Cash on Delivery
+O00867,2025-08-22,C0563,Delivered,0.15,5.0,bKash
+O01193,2025-11-30,C0788,Delivered,0.3,2.5,Cash on Delivery
+O00846,2025-08-21,C0548,Delivered,0.0,5.0,Cash on Delivery
+O00126,2025-02-14,C0087,Delivered,0.0,2.5,Card
+O00258,2025-03-19,C0176,Delivered,0.05,5.0,Cash on Delivery
+O02217,2026-06-22,C1488,Cancelled,0.1,5.0,bKash
+O01894,2026-03-07,C1266,Delivered,0.0,2.5,bKash
+O01338,2026-01-10,C0892,Delivered,0.0,4.0,Cash on Delivery
+O01941,2026-04-06,C1299,Delivered,0.0,3.5,Cash on Delivery
+O01161,2025-10-27,C0767,Delivered,0.0,5.0,bKash
+O01029,2025-09-22,C0670,Delivered,0.0,3.5,bKash
+O01060,2025-09-28,C0692,Delivered,0.05,4.0,Cash on Delivery
+O00199,2025-03-05,C0137,Delivered,0.0,2.5,Cash on Delivery
+O00629,2025-06-22,C0408,Delivered,0.05,2.5,Card
+O00410,2025-04-28,C0274,Delivered,0.15,5.0,Card
+O02281,2026-05-18,C1538,Delivered,0.0,4.0,Cash on Delivery
+O01741,2026-04-01,C1166,Delivered,0.0,3.5,Cash on Delivery
+O02026,2026-03-30,C1353,Delivered,0.0,3.5,bKash
+O01199,2025-12-22,C0791,Delivered,0.0,4.0,bKash
+O00283,2025-03-22,C0189,Delivered,0.05,4.0,Cash on Delivery
+O02125,2026-04-13,C1420,Cancelled,0.1,4.0,bKash
+O00840,2025-09-12,C0546,Delivered,0.0,2.5,bKash
+O01494,2026-03-15,C1005,Delivered,0.0,5.0,Card
+O01227,2025-11-10,C0811,Delivered,0.1,4.0,Card
+O00640,2025-06-28,C0417,Delivered,0.05,2.5,Nagad
+O01620,2026-01-19,C1083,Cancelled,0.05,4.0,bKash
+O00632,2025-06-25,C0411,Delivered,0.1,4.0,Cash on Delivery
+O01202,2026-01-02,C0793,Delivered,0.1,4.0,Cash on Delivery
+O01300,2026-01-19,C0859,Delivered,0.1,2.5,Cash on Delivery
+O02410,2026-06-17,C1661,Delivered,0.0,2.5,bKash
+O00413,2025-04-29,C0277,Delivered,0.0,4.0,Card
+O00014,2025-01-22,C0011,Delivered,0.0,4.0,bKash
+O00484,2025-05-18,C0321,Delivered,0.0,5.0,Card
+O02447,2026-06-26,C1698,Delivered,0.0,4.0,bKash
+O01059,2025-09-28,C0691,Delivered,0.0,3.5,Cash on Delivery
+O00476,2025-06-03,C0317,Delivered,0.0,5.0,Card
+O02177,2026-04-22,C1457,Delivered,0.15,3.5,Card
+O01563,2026-05-23,C1046,Delivered,0.0,5.0,bKash
+O01640,2026-01-20,C1100,Delivered,0.15,4.0,Cash on Delivery
+O00657,2025-07-02,C0427,Delivered,0.0,4.0,Cash on Delivery
+O01142,2026-02-01,C0752,Delivered,0.1,4.0,Card
+O00537,2025-05-24,C0352,Cancelled,0.05,3.5,bKash
+O00968,2025-10-29,C0626,Delivered,0.05,2.5,Nagad
+O02280,2026-05-17,C1537,Delivered,0.1,5.0,bKash
+O02393,2026-06-16,C1644,Delivered,0.0,3.5,Card
+O01666,2026-01-25,C1117,Delivered,0.05,5.0,Cash on Delivery
+O00603,2025-11-06,C0392,Delivered,0.0,3.5,Nagad
+O01648,2026-01-22,C1106,Delivered,0.05,3.5,bKash
+O01663,2026-04-08,C1115,Delivered,0.15,3.5,Card
+O01976,2026-04-15,C1321,Delivered,0.05,2.5,bKash
+O00164,2025-02-21,C0113,Delivered,0.1,5.0,bKash
+O01136,2025-10-21,C0749,Delivered,0.15,4.0,Nagad
+O01369,2025-12-01,C0920,Delivered,0.15,4.0,Card
+O01594,2026-01-12,C1067,Delivered,0.0,2.5,Nagad
+O01459,2025-12-20,C0983,Delivered,0.1,2.5,bKash
+O00483,2025-05-15,C0320,Cancelled,0.0,4.0,Cash on Delivery
+O01245,2026-02-18,C0821,Delivered,0.0,5.0,Card
+O02027,2026-03-30,C1354,Delivered,0.0,3.5,Card
+O00131,2025-02-13,C0091,Delivered,0.1,2.5,bKash
+O02001,2026-03-24,C1336,Delivered,0.05,2.5,Card
+O01064,2025-09-30,C0696,Delivered,0.0,2.5,Card
+O00234,2025-08-11,C0160,Delivered,0.0,5.0,Card
+O01363,2025-11-30,C0914,Delivered,0.3,2.5,Cash on Delivery
+O01956,2026-03-15,C1308,Delivered,0.0,2.5,Card
+O02163,2026-04-19,C1448,Delivered,0.0,4.0,Card
+O02311,2026-05-24,C1563,Delivered,0.05,5.0,bKash
+O00073,2025-01-24,C0052,Delivered,0.0,2.5,Card
+O00515,2025-05-23,C0338,Delivered,0.1,4.0,bKash
+O02024,2026-03-30,C1351,Delivered,0.0,5.0,Cash on Delivery
+O01540,2026-03-02,C1032,Delivered,0.0,4.0,Cash on Delivery
+O01579,2026-02-20,C1057,Delivered,0.15,5.0,bKash
+O02114,2026-04-11,C1412,Delivered,0.0,2.5,Card
+O00013,2025-01-06,C0011,Delivered,0.1,4.0,Cash on Delivery
+O01472,2025-12-23,C0993,Delivered,0.05,4.0,Card
+O02043,2026-04-01,C1365,Delivered,0.15,3.5,Card
+O02218,2026-05-02,C1489,Cancelled,0.0,3.5,bKash
+O00209,2025-04-11,C0144,Delivered,0.15,2.5,Nagad
+O00304,2025-05-05,C0201,Delivered,0.15,3.5,Card
+O01601,2026-01-13,C1072,Delivered,0.0,4.0,Cash on Delivery
+O00621,2025-08-04,C0403,Delivered,0.0,5.0,bKash
+O00866,2025-08-22,C0562,Delivered,0.1,2.5,Card
+O02107,2026-04-08,C1406,Delivered,0.0,2.5,Nagad
+O00566,2025-06-02,C0370,Delivered,0.0,5.0,bKash
+O01534,2026-01-01,C1029,Delivered,0.15,4.0,Nagad
+O00694,2025-07-15,C0451,Delivered,0.0,5.0,bKash
+O01883,2026-06-27,C1257,Delivered,0.15,3.5,bKash
+O02299,2026-05-22,C1553,Delivered,0.05,3.5,Nagad
+O01669,2026-03-08,C1119,Delivered,0.0,3.5,Nagad
+O01016,2025-12-28,C0657,Delivered,0.05,3.5,Nagad
+O02145,2026-04-16,C1434,Delivered,0.15,5.0,Cash on Delivery
+O01907,2026-05-24,C1275,Delivered,0.05,2.5,bKash
+O00341,2025-04-08,C0229,Delivered,0.0,5.0,Card
+O02379,2026-06-10,C1630,Delivered,0.0,4.0,bKash
+O01371,2025-11-30,C0922,Delivered,0.3,4.0,Card
+O00821,2025-08-16,C0533,Delivered,0.0,4.0,Cash on Delivery
+O00154,2025-03-20,C0108,Delivered,0.0,4.0,Card
+O01329,2025-11-27,C0885,Delivered,0.3,5.0,Card
+O01061,2025-09-29,C0693,Delivered,0.0,2.5,bKash
+O00812,2025-08-15,C0528,Delivered,0.0,2.5,Card
+O00043,2025-03-29,C0034,Delivered,0.0,2.5,Cash on Delivery
+O01241,2025-11-12,C0820,Delivered,0.1,5.0,bKash
+O01419,2025-12-08,C0954,Delivered,0.15,5.0,bKash
+O00879,2025-08-23,C0572,Delivered,0.05,5.0,Card
+O00540,2025-10-28,C0353,Cancelled,0.1,4.0,Cash on Delivery
+O01950,2026-05-14,C1303,Delivered,0.0,3.5,Cash on Delivery
+O02131,2026-04-13,C1424,Delivered,0.1,5.0,Card
+O00734,2025-09-21,C0476,Delivered,0.05,2.5,Cash on Delivery
+O01484,2026-01-23,C1000,Delivered,0.0,3.5,Card
+O01732,2026-03-22,C1159,Delivered,0.1,5.0,Card
+O00424,2025-05-05,C0284,Delivered,0.1,3.5,Card
+O00360,2025-07-02,C0240,Delivered,0.0,4.0,Cash on Delivery
+O01999,2026-03-22,C1334,Delivered,0.0,5.0,Cash on Delivery
+O00880,2025-10-08,C0572,Delivered,0.1,4.0,bKash
+O01319,2025-11-24,C0875,Delivered,0.3,5.0,Cash on Delivery
+O00586,2025-09-01,C0383,Delivered,0.05,5.0,Cash on Delivery
+O00027,2025-01-09,C0021,Cancelled,0.15,4.0,Cash on Delivery
+O00681,2025-08-26,C0441,Delivered,0.0,4.0,bKash
+O01239,2025-11-14,C0819,Delivered,0.0,3.5,bKash
+O01514,2025-12-30,C1017,Cancelled,0.0,5.0,Cash on Delivery
+O00136,2025-02-16,C0095,Delivered,0.0,2.5,bKash
+O01535,2025-12-31,C1030,Delivered,0.0,3.5,Card
+O00211,2025-03-08,C0145,Delivered,0.15,5.0,Nagad
+O02142,2026-06-16,C1432,Delivered,0.0,5.0,Card
+O01378,2025-12-02,C0929,Delivered,0.1,3.5,bKash
+O02307,2026-05-24,C1560,Delivered,0.0,5.0,Nagad
+O02157,2026-04-21,C1444,Delivered,0.1,2.5,Cash on Delivery
+O01877,2026-05-29,C1254,Delivered,0.0,4.0,Cash on Delivery
+O00056,2025-01-16,C0039,Delivered,0.1,2.5,bKash
+O00464,2025-05-12,C0309,Delivered,0.1,4.0,Nagad
+O01001,2025-09-15,C0648,Delivered,0.1,5.0,bKash
+O01686,2026-02-13,C1129,Delivered,0.0,2.5,Card
+O01863,2026-03-02,C1247,Delivered,0.0,3.5,bKash
+O01881,2026-03-05,C1257,Delivered,0.15,4.0,bKash
+O00217,2025-03-11,C0151,Delivered,0.0,2.5,Card
+O01184,2025-11-01,C0785,Delivered,0.0,2.5,bKash
+O01065,2025-09-30,C0697,Delivered,0.05,3.5,Card
+O01909,2026-03-07,C1276,Delivered,0.15,5.0,Cash on Delivery
+O00397,2025-04-23,C0264,Delivered,0.0,5.0,Card
+O02421,2026-06-21,C1672,Delivered,0.1,2.5,Cash on Delivery
+O00054,2025-04-07,C0037,Delivered,0.05,2.5,Card
+O02271,2026-05-14,C1531,Delivered,0.0,3.5,Card
+O02261,2026-05-11,C1522,Delivered,0.1,2.5,Nagad
+O02352,2026-06-05,C1603,Delivered,0.0,2.5,Cash on Delivery
+O02400,2026-06-16,C1651,Delivered,0.05,3.5,Card
+O00179,2025-02-27,C0123,Delivered,0.1,2.5,Card
+O01201,2025-11-05,C0793,Cancelled,0.0,5.0,bKash
+O00741,2025-07-31,C0482,Delivered,0.0,5.0,bKash
+O00508,2025-05-20,C0335,Delivered,0.0,3.5,Card
+O01595,2026-01-12,C1068,Delivered,0.0,5.0,bKash
+O01945,2026-04-04,C1300,Delivered,0.0,3.5,Card
+O01165,2025-10-29,C0771,Delivered,0.15,4.0,Nagad
+O00301,2025-03-28,C0199,Delivered,0.0,3.5,bKash
+O01553,2026-01-06,C1042,Cancelled,0.0,2.5,bKash
+O02049,2026-04-01,C1369,Delivered,0.1,5.0,Cash on Delivery
+O01664,2026-06-25,C1115,Delivered,0.0,4.0,Cash on Delivery
+O02188,2026-04-24,C1466,Delivered,0.05,4.0,Nagad
+O01002,2025-09-16,C0649,Delivered,0.0,4.0,Cash on Delivery
+O01214,2025-11-09,C0802,Cancelled,0.0,3.5,bKash
+O00079,2025-01-25,C0057,Delivered,0.0,3.5,Cash on Delivery
+O01543,2026-01-03,C1035,Delivered,0.1,3.5,bKash
+O00996,2025-09-16,C0645,Delivered,0.05,4.0,Card
+O02213,2026-06-18,C1485,Delivered,0.0,4.0,Card
+O00727,2025-09-20,C0470,Delivered,0.05,3.5,Card
+O00229,2025-03-11,C0158,Delivered,0.0,3.5,Cash on Delivery
+O00819,2025-08-16,C0532,Delivered,0.0,5.0,bKash
+O01398,2026-05-14,C0941,Delivered,0.1,2.5,Cash on Delivery
+O00989,2026-01-23,C0642,Delivered,0.1,2.5,Card
+O01075,2025-10-01,C0704,Delivered,0.0,5.0,bKash
+O00030,2025-01-10,C0024,Delivered,0.1,2.5,Card
+O01658,2026-01-23,C1112,Delivered,0.0,2.5,bKash
+O01681,2026-01-28,C1127,Delivered,0.0,3.5,Card
+O00562,2025-08-02,C0367,Cancelled,0.1,3.5,Cash on Delivery
+O01417,2025-12-08,C0953,Delivered,0.15,4.0,bKash
+O02035,2026-03-30,C1360,Delivered,0.05,4.0,bKash
+O01865,2026-03-02,C1249,Delivered,0.0,5.0,Card
+O00226,2025-03-10,C0157,Delivered,0.0,3.5,Cash on Delivery
+O00006,2025-03-16,C0005,Delivered,0.05,3.5,Nagad
+O01228,2025-11-11,C0812,Delivered,0.0,3.5,Card
+O00445,2025-05-07,C0295,Delivered,0.0,5.0,Card
+O00033,2025-01-11,C0026,Delivered,0.0,2.5,Cash on Delivery
+O00966,2025-09-10,C0625,Delivered,0.0,3.5,Cash on Delivery
+O01682,2026-01-27,C1128,Delivered,0.0,5.0,bKash
+O00894,2025-10-30,C0580,Delivered,0.1,4.0,bKash
+O00669,2025-07-05,C0434,Delivered,0.1,5.0,Cash on Delivery
+O01359,2025-11-30,C0910,Delivered,0.3,5.0,Nagad
+O01407,2025-12-27,C0947,Delivered,0.05,5.0,bKash
+O02129,2026-06-01,C1422,Delivered,0.0,3.5,bKash
+O01397,2026-03-03,C0941,Delivered,0.0,5.0,Cash on Delivery
+O00152,2025-02-18,C0107,Delivered,0.0,2.5,bKash
+O02216,2026-05-02,C1488,Cancelled,0.0,3.5,Card
+O00223,2025-03-12,C0156,Delivered,0.15,4.0,bKash
+O02077,2026-04-06,C1388,Cancelled,0.15,3.5,Card
+O00703,2025-07-20,C0456,Delivered,0.1,3.5,Card
+O01667,2026-01-24,C1118,Delivered,0.15,3.5,Nagad
+O01445,2025-12-16,C0975,Delivered,0.0,3.5,bKash
+O00855,2025-08-20,C0556,Cancelled,0.1,4.0,Cash on Delivery
+O01833,2026-05-11,C1226,Delivered,0.1,5.0,bKash
+O01587,2026-01-13,C1064,Delivered,0.0,5.0,bKash
+O01526,2025-12-31,C1024,Delivered,0.05,5.0,bKash
+O00114,2025-07-10,C0080,Delivered,0.0,4.0,Cash on Delivery
+O01101,2025-10-13,C0725,Delivered,0.0,4.0,Nagad
+O00207,2025-03-30,C0143,Delivered,0.1,2.5,bKash
+O02116,2026-06-13,C1413,Delivered,0.15,3.5,Cash on Delivery
+O01148,2025-10-24,C0756,Delivered,0.05,4.0,Nagad
+O01822,2026-06-26,C1220,Delivered,0.0,2.5,bKash
+O01411,2025-12-22,C0949,Delivered,0.0,4.0,bKash
+O00890,2026-01-08,C0577,Delivered,0.0,4.0,Card
+O00900,2025-08-27,C0584,Delivered,0.15,2.5,bKash
+O00833,2025-08-20,C0542,Delivered,0.15,4.0,Cash on Delivery
+O01246,2026-03-21,C0821,Delivered,0.0,4.0,Nagad
+O01242,2025-12-10,C0820,Delivered,0.15,3.5,Cash on Delivery
+O01983,2026-05-28,C1324,Delivered,0.1,3.5,Card
+O00870,2025-09-23,C0565,Delivered,0.05,5.0,Card
+O01660,2026-01-23,C1114,Delivered,0.1,4.0,Card
+O00674,2025-09-03,C0436,Delivered,0.15,5.0,Card
+O01375,2025-11-29,C0926,Delivered,0.3,4.0,Card
+O01677,2026-01-27,C1124,Delivered,0.1,2.5,Card
+O02162,2026-06-24,C1447,Delivered,0.0,5.0,Card
+O00140,2025-02-16,C0098,Delivered,0.1,4.0,bKash
+O00490,2025-05-16,C0323,Delivered,0.05,4.0,Nagad
+O00914,2025-08-31,C0595,Delivered,0.0,2.5,Card
+O01616,2026-03-29,C1080,Delivered,0.0,4.0,Card
+O01672,2026-01-25,C1120,Delivered,0.05,4.0,Cash on Delivery
+O01899,2026-03-06,C1270,Delivered,0.0,3.5,Card
+O02133,2026-04-12,C1426,Delivered,0.0,5.0,bKash
+O00813,2025-10-13,C0528,Delivered,0.0,5.0,bKash
+O00215,2025-03-08,C0149,Delivered,0.0,5.0,bKash
+O01944,2026-03-13,C1300,Delivered,0.05,2.5,bKash
+O00315,2025-03-30,C0210,Delivered,0.0,5.0,Cash on Delivery
+O00417,2025-11-09,C0277,Delivered,0.15,5.0,bKash
+O01030,2025-09-23,C0671,Delivered,0.15,3.5,bKash
+O02087,2026-05-23,C1393,Delivered,0.15,4.0,Nagad
+O02102,2026-05-19,C1403,Delivered,0.0,3.5,bKash
+O00137,2025-02-14,C0096,Delivered,0.0,2.5,bKash
+O00747,2025-08-24,C0485,Delivered,0.1,5.0,Cash on Delivery
+O01475,2025-12-21,C0994,Delivered,0.0,5.0,Cash on Delivery
+O01123,2026-01-10,C0739,Delivered,0.05,4.0,Nagad
+O00794,2025-09-06,C0517,Delivered,0.0,2.5,bKash
+O00036,2025-01-13,C0029,Delivered,0.0,2.5,Cash on Delivery
+O00026,2025-01-08,C0020,Delivered,0.0,4.0,Cash on Delivery
+O00658,2025-07-05,C0428,Delivered,0.05,3.5,Cash on Delivery
+O01403,2025-12-03,C0945,Delivered,0.05,5.0,bKash
+O00450,2025-05-09,C0300,Delivered,0.0,5.0,bKash
+O01402,2025-12-04,C0944,Delivered,0.05,4.0,Card
+O01259,2025-11-14,C0830,Delivered,0.1,3.5,bKash
+O00752,2025-08-02,C0488,Delivered,0.15,4.0,Cash on Delivery
+O01271,2026-01-01,C0838,Delivered,0.0,2.5,bKash
+O01450,2025-12-18,C0977,Delivered,0.0,2.5,Cash on Delivery
+O01053,2025-09-27,C0687,Delivered,0.05,3.5,Cash on Delivery
+O00245,2025-04-09,C0166,Delivered,0.0,4.0,bKash
+O00277,2025-03-21,C0186,Delivered,0.05,5.0,Nagad
+O00589,2025-07-09,C0385,Delivered,0.0,5.0,Card
+O00971,2025-09-12,C0629,Delivered,0.15,4.0,Cash on Delivery
+O01948,2026-03-14,C1302,Delivered,0.05,5.0,bKash
+O02140,2026-04-15,C1431,Delivered,0.05,2.5,Cash on Delivery
+O01760,2026-06-25,C1177,Delivered,0.0,3.5,bKash
+O01324,2025-11-25,C0880,Delivered,0.3,4.0,bKash
+O00168,2025-02-24,C0117,Delivered,0.0,2.5,Card
+O00928,2025-09-02,C0603,Delivered,0.1,3.5,Card
+O00025,2025-01-10,C0019,Delivered,0.05,4.0,Cash on Delivery
+O00807,2025-08-12,C0523,Delivered,0.0,4.0,Cash on Delivery
+O00444,2025-05-06,C0294,Delivered,0.1,2.5,bKash
+O01780,2026-02-12,C1191,Delivered,0.0,4.0,Cash on Delivery
+O00151,2025-05-10,C0106,Delivered,0.0,2.5,Card
+O02322,2026-05-27,C1573,Delivered,0.15,4.0,Cash on Delivery
+O00755,2025-08-01,C0491,Delivered,0.1,5.0,Cash on Delivery
+O01048,2025-09-26,C0683,Delivered,0.0,2.5,Cash on Delivery
+O00781,2025-08-07,C0509,Delivered,0.0,4.0,Cash on Delivery
+O00901,2025-08-28,C0585,Delivered,0.05,5.0,Card
+O00865,2025-08-21,C0561,Delivered,0.15,2.5,bKash
+O01953,2026-03-14,C1306,Delivered,0.1,4.0,Cash on Delivery
+O01198,2025-11-05,C0791,Delivered,0.0,3.5,bKash
+O00101,2025-02-06,C0076,Delivered,0.05,5.0,Nagad
+O01050,2025-09-28,C0685,Delivered,0.0,4.0,Cash on Delivery
+O01628,2026-01-20,C1089,Delivered,0.05,5.0,Cash on Delivery
+O01272,2026-02-08,C0838,Delivered,0.05,2.5,Cash on Delivery
+O01759,2026-03-30,C1177,Delivered,0.0,5.0,Card
+O02228,2026-05-03,C1496,Cancelled,0.0,3.5,Cash on Delivery
+O01379,2025-12-02,C0930,Delivered,0.05,5.0,bKash
+O00767,2025-08-04,C0498,Delivered,0.05,5.0,bKash
+O00751,2025-12-17,C0487,Delivered,0.05,3.5,Card
+O00963,2025-11-11,C0622,Delivered,0.0,4.0,bKash
+O02345,2026-06-03,C1596,Delivered,0.1,2.5,Card
+O00169,2025-05-01,C0117,Delivered,0.0,2.5,bKash
+O00074,2025-01-24,C0053,Delivered,0.15,3.5,Card
+O01884,2026-03-05,C1258,Delivered,0.0,5.0,bKash
+O01139,2025-12-30,C0751,Delivered,0.15,5.0,bKash
+O00993,2025-10-20,C0644,Delivered,0.05,3.5,Card
+O02054,2026-05-30,C1373,Delivered,0.0,3.5,bKash
+O01500,2026-03-14,C1009,Delivered,0.15,4.0,Cash on Delivery
+O01906,2026-03-07,C1275,Delivered,0.15,3.5,Cash on Delivery
+O01094,2025-10-10,C0719,Delivered,0.0,5.0,Card
+O01385,2025-12-02,C0935,Delivered,0.0,3.5,bKash
+O01739,2026-02-07,C1165,Delivered,0.0,5.0,bKash
+O02199,2026-04-29,C1476,Delivered,0.0,3.5,Cash on Delivery
+O01504,2026-03-26,C1011,Delivered,0.0,5.0,Card
+O01632,2026-01-21,C1093,Delivered,0.0,5.0,Card
+O02103,2026-06-05,C1403,Delivered,0.15,5.0,Card
+O00267,2025-10-26,C0179,Delivered,0.1,2.5,Card
+O01034,2025-09-23,C0674,Delivered,0.15,2.5,bKash
+O01830,2026-02-24,C1225,Delivered,0.0,4.0,bKash
+O01845,2026-02-26,C1236,Delivered,0.0,3.5,Cash on Delivery
+O02108,2026-04-10,C1407,Delivered,0.15,5.0,bKash
+O02192,2026-04-26,C1469,Delivered,0.1,4.0,Cash on Delivery
+O00145,2025-06-13,C0101,Delivered,0.0,2.5,Cash on Delivery
+O00332,2025-04-01,C0220,Delivered,0.15,5.0,bKash
+O01974,2026-03-21,C1320,Delivered,0.1,4.0,bKash
+O00248,2025-03-18,C0168,Delivered,0.1,5.0,Cash on Delivery
+O00374,2025-07-26,C0247,Delivered,0.0,2.5,Cash on Delivery
+O00381,2025-04-19,C0253,Delivered,0.15,5.0,bKash
+O00321,2025-04-02,C0215,Delivered,0.05,4.0,Cash on Delivery
+O00637,2025-06-25,C0415,Delivered,0.1,3.5,Card
+O01588,2026-01-11,C1065,Delivered,0.05,3.5,Nagad
+O01332,2025-11-27,C0888,Cancelled,0.3,2.5,Cash on Delivery
+O02365,2026-06-07,C1616,Delivered,0.15,4.0,Nagad
+O01215,2025-11-09,C0803,Delivered,0.05,5.0,Card
+O00431,2025-09-13,C0287,Delivered,0.15,3.5,Cash on Delivery
+O01011,2025-09-18,C0655,Delivered,0.15,2.5,Card
+O00192,2025-04-25,C0132,Delivered,0.05,3.5,Cash on Delivery
+O02205,2026-04-29,C1481,Delivered,0.0,5.0,bKash
+O01176,2026-01-03,C0780,Delivered,0.15,5.0,Card
+O00436,2025-05-04,C0290,Delivered,0.0,5.0,Cash on Delivery
+O02275,2026-06-23,C1533,Delivered,0.1,3.5,Nagad
+O01691,2026-01-28,C1133,Delivered,0.0,5.0,Nagad
+O01943,2026-06-19,C1299,Delivered,0.05,5.0,bKash
+O01281,2025-11-18,C0844,Delivered,0.05,5.0,bKash
+O01900,2026-03-07,C1271,Delivered,0.0,5.0,Nagad
+O01187,2026-03-11,C0785,Delivered,0.1,2.5,bKash
+O01017,2025-09-18,C0658,Delivered,0.0,5.0,bKash
+O00688,2025-11-03,C0445,Delivered,0.0,3.5,Card
+O01566,2026-01-08,C1048,Delivered,0.0,2.5,Nagad
+O00639,2025-07-21,C0416,Delivered,0.0,4.0,Cash on Delivery
+O00570,2025-10-17,C0372,Cancelled,0.1,5.0,bKash
+O00934,2025-09-04,C0608,Delivered,0.0,3.5,Cash on Delivery
+O01408,2026-03-01,C0947,Delivered,0.0,4.0,bKash
+O01170,2025-10-28,C0775,Delivered,0.0,4.0,bKash
+O01361,2025-11-30,C0912,Delivered,0.3,3.5,Card
+O00534,2025-07-14,C0350,Delivered,0.0,4.0,bKash
+O01823,2026-02-21,C1221,Delivered,0.0,2.5,bKash
+O00197,2025-04-08,C0135,Delivered,0.05,2.5,Card
+O01803,2026-02-16,C1209,Delivered,0.05,4.0,Cash on Delivery
+O00496,2025-05-19,C0326,Delivered,0.0,3.5,Card
+O00937,2025-09-05,C0610,Delivered,0.1,3.5,bKash
+O00980,2025-09-14,C0636,Delivered,0.0,4.0,bKash
+O02076,2026-04-06,C1387,Cancelled,0.1,4.0,Cash on Delivery
+O01302,2025-11-23,C0861,Delivered,0.3,4.0,Cash on Delivery
+O01814,2026-02-20,C1214,Delivered,0.05,5.0,Card
+O01656,2026-01-22,C1111,Delivered,0.1,5.0,Card
+O00396,2025-04-25,C0263,Delivered,0.0,4.0,Card
+O01706,2026-01-30,C1143,Delivered,0.0,3.5,bKash
+O00148,2025-02-17,C0104,Delivered,0.0,3.5,bKash
+O00798,2025-08-11,C0520,Delivered,0.1,2.5,bKash
+O01751,2026-02-08,C1173,Delivered,0.0,4.0,Card
+O00624,2025-06-23,C0405,Delivered,0.05,3.5,bKash
+O02029,2026-03-30,C1356,Delivered,0.0,4.0,bKash
+O01010,2025-09-18,C0654,Delivered,0.0,5.0,Card
+O01519,2025-12-29,C1020,Delivered,0.1,2.5,Nagad
+O00911,2025-08-29,C0593,Delivered,0.15,2.5,bKash
+O01623,2026-01-19,C1086,Delivered,0.15,4.0,Nagad
+O00896,2025-09-27,C0581,Delivered,0.0,2.5,Card
+O01474,2026-05-30,C0993,Delivered,0.0,5.0,Nagad
+O02419,2026-06-19,C1670,Delivered,0.15,5.0,bKash
+O01362,2025-11-29,C0913,Delivered,0.3,4.0,bKash
+O00107,2025-05-04,C0078,Delivered,0.0,2.5,Card
+O00351,2025-09-16,C0236,Delivered,0.15,4.0,Cash on Delivery
+O01548,2026-02-11,C1039,Delivered,0.0,2.5,bKash
+O00651,2025-06-30,C0424,Delivered,0.0,5.0,bKash
+O00390,2025-04-21,C0258,Delivered,0.05,5.0,bKash
+O01473,2026-03-07,C0993,Delivered,0.0,2.5,bKash
+O01118,2025-10-17,C0736,Delivered,0.1,4.0,Card
+O00555,2025-05-29,C0362,Delivered,0.15,4.0,bKash
+O00300,2025-03-25,C0198,Delivered,0.0,3.5,bKash
+O00171,2025-05-21,C0118,Delivered,0.0,2.5,bKash
+O01277,2025-11-19,C0841,Delivered,0.05,5.0,Cash on Delivery
+O00416,2025-09-21,C0277,Delivered,0.0,4.0,Nagad
+O00765,2025-11-10,C0497,Delivered,0.15,3.5,Cash on Delivery
+O00429,2025-05-03,C0287,Delivered,0.0,2.5,Card
+O00187,2025-05-18,C0129,Delivered,0.15,2.5,bKash
+O01840,2026-02-25,C1232,Delivered,0.0,4.0,Card
+O01915,2026-05-06,C1281,Delivered,0.0,5.0,Card
+O01890,2026-03-06,C1263,Delivered,0.0,4.0,Card
+O00631,2025-06-22,C0410,Delivered,0.0,5.0,bKash
+O00951,2025-10-24,C0617,Delivered,0.05,5.0,bKash
+O00163,2025-02-22,C0112,Delivered,0.05,4.0,Cash on Delivery
+O00414,2025-07-24,C0277,Delivered,0.0,3.5,bKash
+O01074,2026-02-03,C0703,Delivered,0.05,2.5,Card
+O02144,2026-05-10,C1433,Delivered,0.0,4.0,Card
+O02147,2026-04-19,C1436,Delivered,0.1,5.0,Cash on Delivery
+O02018,2026-03-27,C1348,Delivered,0.15,2.5,Card
+O01031,2025-10-18,C0671,Delivered,0.0,4.0,bKash
+O00877,2025-08-23,C0570,Delivered,0.0,2.5,Card
+O00818,2025-09-23,C0531,Delivered,0.15,3.5,Cash on Delivery
+O00823,2025-08-17,C0534,Delivered,0.05,4.0,Cash on Delivery
+O02256,2026-06-14,C1517,Delivered,0.15,2.5,bKash
+O00873,2025-08-23,C0567,Delivered,0.0,5.0,Cash on Delivery
+O00246,2025-05-19,C0166,Delivered,0.15,3.5,bKash
+O00230,2025-04-03,C0158,Delivered,0.0,4.0,Nagad
+O00907,2025-08-28,C0589,Delivered,0.0,2.5,Cash on Delivery
+O02057,2026-04-03,C1375,Delivered,0.0,5.0,Cash on Delivery
+O00897,2025-08-28,C0582,Cancelled,0.0,4.0,Card
+O02236,2026-06-30,C1500,Delivered,0.0,5.0,Cash on Delivery
+O02398,2026-06-16,C1649,Delivered,0.15,2.5,Cash on Delivery
+O01754,2026-04-07,C1174,Delivered,0.0,2.5,Nagad
+O02426,2026-06-21,C1677,Delivered,0.0,4.0,Nagad
+O02154,2026-04-20,C1441,Delivered,0.05,2.5,bKash
+O00792,2025-09-20,C0516,Delivered,0.15,5.0,bKash
+O02238,2026-05-23,C1501,Delivered,0.0,5.0,bKash
+O01911,2026-03-08,C1278,Delivered,0.0,5.0,Cash on Delivery
+O01328,2025-11-25,C0884,Delivered,0.3,4.0,Card
+O02193,2026-04-27,C1470,Delivered,0.1,5.0,Card
+O01652,2026-01-23,C1108,Delivered,0.05,3.5,Nagad
+O00699,2025-11-07,C0452,Delivered,0.0,4.0,Card
+O00891,2025-08-27,C0578,Cancelled,0.0,5.0,Cash on Delivery
+O01718,2026-01-30,C1150,Delivered,0.1,4.0,bKash
+O00895,2025-08-26,C0581,Delivered,0.15,3.5,Nagad
+O01152,2025-12-05,C0759,Delivered,0.05,3.5,bKash
+O01447,2026-04-03,C0975,Delivered,0.0,4.0,bKash
+O00058,2025-01-19,C0041,Delivered,0.05,4.0,bKash
+O01980,2026-03-22,C1323,Delivered,0.0,4.0,Card
+O01923,2026-04-23,C1287,Delivered,0.0,5.0,Cash on Delivery
+O01058,2025-09-28,C0690,Delivered,0.0,4.0,bKash
+O02292,2026-05-21,C1548,Delivered,0.1,5.0,bKash
+O00093,2025-02-05,C0070,Delivered,0.0,3.5,Card
+O01235,2025-12-05,C0816,Delivered,0.0,2.5,bKash
+O01014,2025-09-19,C0657,Delivered,0.05,5.0,Card
+O01701,2026-04-22,C1139,Delivered,0.15,5.0,Card
+O00948,2025-09-07,C0616,Cancelled,0.15,5.0,bKash
+O01794,2026-02-14,C1201,Delivered,0.15,2.5,Card
+O01110,2025-10-12,C0730,Delivered,0.0,2.5,Card
+O00191,2025-03-02,C0132,Delivered,0.15,2.5,bKash
+O02088,2026-04-07,C1394,Delivered,0.05,3.5,bKash
+O01532,2026-01-01,C1027,Delivered,0.0,4.0,Card
+O01997,2026-06-14,C1332,Delivered,0.0,5.0,bKash
+O01955,2026-03-17,C1307,Delivered,0.1,5.0,Nagad
+O00724,2025-10-30,C0468,Delivered,0.0,2.5,Nagad
+O02112,2026-04-11,C1411,Delivered,0.0,4.0,bKash
+O02282,2026-05-18,C1539,Delivered,0.0,2.5,bKash
+O00677,2025-07-07,C0439,Delivered,0.0,3.5,bKash
+O00106,2025-02-06,C0078,Delivered,0.1,3.5,Cash on Delivery
+O02445,2026-06-25,C1696,Delivered,0.15,5.0,Cash on Delivery
+O00903,2025-08-27,C0587,Delivered,0.0,4.0,Card
+O02302,2026-06-12,C1555,Delivered,0.0,5.0,Card
+O01433,2026-01-17,C0964,Delivered,0.0,5.0,Cash on Delivery
+O00775,2025-08-08,C0504,Delivered,0.1,4.0,bKash
+O01233,2026-01-03,C0815,Delivered,0.05,2.5,Card
+O00859,2025-11-10,C0558,Delivered,0.05,4.0,Nagad
+O01429,2025-12-12,C0961,Delivered,0.05,2.5,bKash
+O02030,2026-05-28,C1356,Delivered,0.05,2.5,bKash
+O02128,2026-04-12,C1422,Delivered,0.15,3.5,bKash
+O00990,2026-04-17,C0642,Delivered,0.0,2.5,Card
+O00498,2025-05-20,C0327,Delivered,0.05,2.5,Nagad
+O02440,2026-06-24,C1691,Delivered,0.15,5.0,Card
+O01608,2026-04-14,C1077,Delivered,0.0,5.0,Card
+O02136,2026-04-14,C1427,Delivered,0.0,3.5,Card
+O01990,2026-05-26,C1328,Delivered,0.0,5.0,Cash on Delivery
+O00065,2025-01-22,C0046,Delivered,0.05,2.5,bKash
+O01815,2026-02-21,C1215,Delivered,0.0,5.0,Card
+O00275,2025-03-21,C0185,Delivered,0.0,4.0,Cash on Delivery
+O00726,2025-07-24,C0470,Delivered,0.0,5.0,Card
+O01680,2026-03-08,C1126,Cancelled,0.0,4.0,Cash on Delivery
+O01150,2025-10-24,C0758,Delivered,0.1,4.0,Card
+O02202,2026-05-17,C1478,Delivered,0.0,4.0,Card
+O01364,2025-11-28,C0915,Delivered,0.3,2.5,Cash on Delivery
+O00411,2025-04-28,C0275,Delivered,0.0,2.5,bKash
+O00831,2025-09-29,C0540,Delivered,0.1,5.0,bKash
+O02093,2026-06-29,C1397,Delivered,0.0,2.5,Card
+O00391,2025-04-22,C0259,Delivered,0.1,5.0,Card
+O02269,2026-06-19,C1529,Delivered,0.1,4.0,Card
+O02189,2026-06-04,C1466,Delivered,0.0,4.0,Cash on Delivery
+O01374,2025-11-29,C0925,Delivered,0.3,5.0,Cash on Delivery
+O00723,2025-08-23,C0468,Delivered,0.0,5.0,bKash
+O00262,2025-09-28,C0177,Cancelled,0.0,4.0,Cash on Delivery
+O00899,2025-09-27,C0583,Delivered,0.0,4.0,Cash on Delivery
+O02244,2026-05-04,C1506,Delivered,0.1,4.0,Card
+O02164,2026-04-20,C1449,Delivered,0.15,3.5,Cash on Delivery
+O00719,2025-07-22,C0466,Delivered,0.1,2.5,Card
+O02068,2026-04-03,C1382,Delivered,0.1,5.0,bKash
+O02391,2026-06-13,C1642,Delivered,0.0,5.0,bKash
+O00936,2025-09-04,C0609,Delivered,0.0,5.0,Card
+O00421,2025-05-02,C0281,Delivered,0.0,4.0,Card
+O02198,2026-04-29,C1475,Delivered,0.05,5.0,Cash on Delivery
+O00010,2025-01-05,C0008,Delivered,0.0,3.5,Nagad
+O01938,2026-04-03,C1298,Delivered,0.0,3.5,Card
+O01120,2025-10-18,C0738,Delivered,0.0,5.0,Card
+O02429,2026-06-24,C1680,Delivered,0.05,2.5,bKash
+O00535,2025-08-14,C0350,Cancelled,0.05,2.5,Card
+O00549,2025-09-12,C0359,Delivered,0.15,2.5,bKash
+O00299,2025-03-25,C0197,Delivered,0.15,3.5,Cash on Delivery
+O02171,2026-06-29,C1452,Delivered,0.0,5.0,bKash
+O01386,2026-02-10,C0935,Delivered,0.15,2.5,Cash on Delivery
+O02382,2026-06-12,C1633,Delivered,0.05,5.0,Card
+O01676,2026-01-26,C1123,Delivered,0.05,4.0,Card
+O01392,2025-12-04,C0940,Delivered,0.0,3.5,Nagad
+O00089,2025-02-03,C0066,Delivered,0.15,4.0,Cash on Delivery
+O01644,2026-02-14,C1102,Delivered,0.15,5.0,Card
+O00098,2025-02-06,C0074,Delivered,0.0,4.0,bKash
+O02100,2026-04-09,C1402,Cancelled,0.0,4.0,Nagad
+O00510,2025-05-21,C0336,Delivered,0.0,2.5,Card
+O02260,2026-05-11,C1521,Delivered,0.05,3.5,bKash
+O00704,2025-08-07,C0456,Delivered,0.1,4.0,bKash
+O01970,2026-03-20,C1316,Delivered,0.0,2.5,bKash
+O01046,2025-09-26,C0681,Delivered,0.0,4.0,Card
+O01507,2025-12-27,C1013,Delivered,0.1,5.0,Card
+O00940,2025-10-27,C0612,Delivered,0.0,2.5,Card
+O01430,2025-12-11,C0962,Delivered,0.15,5.0,bKash
+O01809,2026-03-26,C1211,Delivered,0.05,3.5,bKash
+O01912,2026-03-10,C1279,Delivered,0.1,4.0,Cash on Delivery
+O02438,2026-06-24,C1689,Delivered,0.15,4.0,Nagad
+O00608,2025-06-18,C0397,Delivered,0.1,2.5,Card
+O01071,2025-10-01,C0702,Delivered,0.0,4.0,Cash on Delivery
+O00297,2025-07-27,C0196,Delivered,0.05,5.0,Cash on Delivery
+O00050,2025-11-29,C0035,Delivered,0.3,4.0,Cash on Delivery
+O01512,2026-03-24,C1016,Delivered,0.05,4.0,Card
+O00225,2025-05-22,C0156,Delivered,0.05,4.0,bKash
+O01775,2026-02-12,C1188,Cancelled,0.1,2.5,bKash
+O01244,2025-12-30,C0821,Delivered,0.05,5.0,bKash
+O01922,2026-03-12,C1287,Delivered,0.0,2.5,bKash
+O00851,2025-08-20,C0552,Delivered,0.0,2.5,Card
+O01786,2026-04-29,C1194,Delivered,0.0,2.5,bKash
+O01226,2026-01-09,C0810,Delivered,0.05,2.5,Card
+O00563,2025-08-25,C0367,Delivered,0.05,2.5,bKash
+O00605,2025-06-15,C0394,Delivered,0.0,3.5,Card
+O00443,2025-05-06,C0293,Delivered,0.05,5.0,Card
+O01599,2026-02-24,C1070,Cancelled,0.1,4.0,bKash
+O01025,2025-09-21,C0666,Delivered,0.0,2.5,bKash
+O00188,2025-03-01,C0130,Delivered,0.05,2.5,Cash on Delivery
+O00407,2025-04-25,C0271,Delivered,0.1,3.5,Cash on Delivery
+O01173,2025-11-01,C0778,Cancelled,0.0,4.0,Card
+O00462,2025-05-10,C0308,Delivered,0.0,2.5,bKash
+O00671,2025-07-04,C0435,Delivered,0.15,3.5,Cash on Delivery
+O01958,2026-03-17,C1309,Delivered,0.0,2.5,Cash on Delivery
+O00715,2025-07-21,C0463,Delivered,0.0,4.0,Card
+O01351,2025-11-27,C0905,Delivered,0.3,3.5,bKash
+O00425,2025-07-20,C0284,Delivered,0.0,3.5,Cash on Delivery
+O02092,2026-04-08,C1397,Delivered,0.0,3.5,Cash on Delivery
+O00636,2025-06-25,C0414,Delivered,0.1,3.5,Nagad
+O00529,2025-08-16,C0349,Delivered,0.05,5.0,Card
+O02267,2026-05-14,C1528,Delivered,0.1,3.5,bKash
+O01766,2026-02-11,C1182,Delivered,0.05,4.0,Card
+O02448,2026-06-28,C1699,Delivered,0.1,3.5,bKash
+O01499,2025-12-29,C1009,Delivered,0.1,4.0,Card
+O00610,2025-06-17,C0398,Delivered,0.0,3.5,Cash on Delivery
+O00486,2025-08-04,C0322,Delivered,0.05,3.5,bKash
+O01479,2025-12-24,C0996,Delivered,0.1,3.5,Cash on Delivery
+O01086,2025-11-01,C0712,Delivered,0.15,4.0,Card
+O02130,2026-04-12,C1423,Delivered,0.0,4.0,Card
+O01705,2026-01-30,C1142,Delivered,0.05,2.5,bKash
+O00325,2025-07-30,C0216,Delivered,0.1,3.5,Nagad
+O00020,2025-01-06,C0015,Delivered,0.05,4.0,Nagad
+O00839,2025-08-18,C0546,Delivered,0.0,3.5,Cash on Delivery
+O02022,2026-03-28,C1350,Delivered,0.05,3.5,Cash on Delivery
+O01674,2026-01-25,C1121,Cancelled,0.0,5.0,Cash on Delivery
+O01341,2025-11-25,C0895,Delivered,0.3,2.5,Cash on Delivery
+O02083,2026-04-06,C1391,Delivered,0.0,2.5,bKash
+O01791,2026-02-15,C1199,Delivered,0.0,3.5,bKash
+O01613,2026-03-21,C1079,Delivered,0.15,2.5,Card
+O01523,2026-04-21,C1022,Delivered,0.05,2.5,Card
+O00801,2025-10-15,C0521,Delivered,0.0,2.5,Cash on Delivery
+O01580,2026-01-09,C1058,Delivered,0.15,5.0,Card
+O00097,2025-02-08,C0073,Delivered,0.05,5.0,Card
+O00475,2025-05-16,C0317,Cancelled,0.0,2.5,Cash on Delivery
+O01789,2026-02-13,C1197,Cancelled,0.05,5.0,Nagad
+O00367,2025-04-16,C0244,Delivered,0.0,2.5,Card
+O01898,2026-03-05,C1269,Delivered,0.1,4.0,Card
+O01722,2026-05-23,C1152,Delivered,0.1,4.0,bKash
+O01910,2026-03-09,C1277,Delivered,0.0,5.0,Card
+O00761,2025-09-11,C0495,Delivered,0.1,5.0,Nagad
+O00919,2026-01-11,C0597,Delivered,0.1,4.0,Card
+O01426,2025-12-10,C0959,Delivered,0.0,5.0,bKash
+O00393,2025-04-23,C0261,Delivered,0.0,3.5,bKash
+O01770,2026-02-10,C1185,Delivered,0.0,2.5,bKash
+O00507,2025-05-20,C0334,Delivered,0.15,2.5,Nagad
+O00435,2025-05-26,C0289,Delivered,0.15,2.5,bKash
+O02048,2026-06-06,C1368,Delivered,0.1,5.0,Cash on Delivery
+O01586,2026-01-10,C1063,Delivered,0.05,2.5,Card
+O00133,2025-04-24,C0092,Delivered,0.15,3.5,Card
+O01589,2026-02-20,C1065,Delivered,0.1,2.5,Card
+O00032,2025-01-11,C0025,Delivered,0.0,4.0,Card
+O02170,2026-05-27,C1452,Delivered,0.0,3.5,bKash
+O01376,2025-12-01,C0927,Delivered,0.1,3.5,Cash on Delivery
+O01327,2025-11-26,C0883,Delivered,0.3,3.5,Cash on Delivery
+O01113,2025-10-15,C0732,Delivered,0.0,2.5,Cash on Delivery
+O01350,2025-11-28,C0904,Cancelled,0.3,3.5,Card
+O00256,2025-03-21,C0174,Delivered,0.0,5.0,bKash
+O00893,2025-08-27,C0580,Delivered,0.0,5.0,Nagad
+O02408,2026-06-18,C1659,Delivered,0.0,3.5,Cash on Delivery
+O00052,2025-01-15,C0036,Delivered,0.0,3.5,bKash
+O00876,2025-11-07,C0569,Delivered,0.0,5.0,bKash
+O00939,2025-09-07,C0612,Delivered,0.05,5.0,Card
+O01127,2025-11-13,C0741,Delivered,0.1,2.5,Card
+O01220,2025-11-10,C0805,Delivered,0.0,2.5,bKash
+O00125,2025-02-10,C0086,Delivered,0.05,4.0,Cash on Delivery
+O02453,2026-06-26,C1704,Delivered,0.0,2.5,Card
+O01072,2025-10-02,C0703,Delivered,0.05,5.0,bKash
+O00434,2025-05-04,C0289,Delivered,0.0,5.0,bKash
+O00675,2025-07-05,C0437,Delivered,0.0,4.0,bKash
+O02409,2026-06-18,C1660,Delivered,0.0,2.5,bKash
+O01100,2025-10-28,C0724,Delivered,0.15,3.5,bKash
+O02348,2026-06-03,C1599,Delivered,0.05,5.0,bKash
+O01609,2026-01-17,C1078,Delivered,0.0,2.5,bKash
