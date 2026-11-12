@@ -92,3 +92,8 @@ The script checks that every cleaned table has the expected row count before run
 - **Cohort** = month of a customer's first delivered order.
 
 *The dataset is a practice dataset modelled on a real e-commerce business.*
+
+
+Muhammad Shafayat Hossain
+
+Linkedin- https://www.linkedin.com/in/shafayat-hossain-305aa5173/
