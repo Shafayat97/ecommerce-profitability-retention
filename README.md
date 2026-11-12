@@ -2,7 +2,7 @@
 
 **Revenue doubled in 18 months, yet the business made a loss.** This project finds out why, using 18 months of orders, returns and marketing data from an online store in Bangladesh, and recommends what to change.
 
-![Business overview dashboard](PowerBI/dashboard_overview.png)
+![Business overview dashboard](PowerBI/Screenshot 2026-11-11 203940.png)
 
 ## Business questions
 
