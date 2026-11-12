@@ -2,7 +2,7 @@
 
 **Revenue doubled in 18 months, yet the business made a loss.** This project finds out why, using 18 months of orders, returns and marketing data from an online store in Bangladesh, and recommends what to change.
 
-![Business overview dashboard](PowerBI/Screenshot 2026-11-11 203940.png)
+![Business overview dashboard](PowerBI/Screenshot%202026-11-11%20203940.png)
 
 ## Business questions
 
@@ -52,7 +52,7 @@ The raw data had **24 data quality issues** across 6 tables, including duplicate
 | Interactive dashboard with date table and time intelligence | Power BI | [`PowerBI/`](PowerBI/) |
 | Findings and recommendations | Word / PDF | [`Report/`](Report/) |
 
-![Customers and marketing dashboard](PowerBI/dashboard_customers_marketing.png)
+![Customers and marketing dashboard](PowerBI/Screenshot%202026-11-11%20204104.png)
 
 ## Repository structure
 
